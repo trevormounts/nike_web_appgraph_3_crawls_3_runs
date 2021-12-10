@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "E/eZbXVm/26keSGFzf44Wg==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X1004_Y192_W145_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Gear & Accessories",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "7c19a889-e350-4e03-b04a-ac3a0d3ac114",
+                "href": "https://www.nike.com/w/kids-accessories-equipment-awwpwzv4dh"
+            },
+            "backend_node_id": 5614,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1004_192_145_27_Gear & Accessories",
+            "tagName": "a",
+            "text": "Gear & Accessories",
+            "width": 145.0,
+            "x": 1004.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1004.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 145.0
+        },
+        "tag_name": "a",
+        "text": "Gear & Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Gear & Accessories",
+    "transformed": true,
+    "width": 145,
+    "x": 1004,
+    "y": 192
+}

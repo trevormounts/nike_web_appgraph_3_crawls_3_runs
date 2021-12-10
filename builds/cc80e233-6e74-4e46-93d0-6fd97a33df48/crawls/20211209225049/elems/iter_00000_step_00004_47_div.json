@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "I9QKrHoiFFUtCJYH4ZN5CQ==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "div_X1177_Y96_W399_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-node css-gb9zhi"
+            },
+            "backend_node_id": 9583,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "1177_96_399_60_Order by 12.15 for Delivery by 12.25 Learn More",
+            "tagName": "div",
+            "text": "Order by 12.15 for Delivery by 12.25 Learn More",
+            "width": 399.0,
+            "x": 1177.0,
+            "y": 96.0
+        },
+        "location": {
+            "x": 1177.0,
+            "y": 96.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 399.0
+        },
+        "tag_name": "div",
+        "text": "Order by 12.15 for Delivery by 12.25 Learn More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Order by 12.15 for Delivery by 12.25 Learn More",
+    "transformed": true,
+    "width": 399,
+    "x": 1177,
+    "y": 96
+}

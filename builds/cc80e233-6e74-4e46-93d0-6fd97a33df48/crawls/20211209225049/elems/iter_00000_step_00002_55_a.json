@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZsUc6srChcck2Vbx5qER6Q==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X1181_Y192_W32_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Sale",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "abd1c842-c037-42d0-b45d-bfbb1981b6ac",
+                "href": "https://www.nike.com/w/kids-sale-3yaepzv4dh"
+            },
+            "backend_node_id": 5617,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1181_192_32_27_Sale",
+            "tagName": "a",
+            "text": "Sale",
+            "width": 32.0,
+            "x": 1181.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1181.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 32.0
+        },
+        "tag_name": "a",
+        "text": "Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Sale",
+    "transformed": true,
+    "width": 32,
+    "x": 1181,
+    "y": 192
+}

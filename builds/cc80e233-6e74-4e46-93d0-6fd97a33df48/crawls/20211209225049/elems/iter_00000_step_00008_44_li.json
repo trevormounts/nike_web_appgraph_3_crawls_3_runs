@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dLVf7h6IKsrWCCmwWhSfBA==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "li_X576_Y96_W768_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "false",
+                "class": "slide\n                  selected\n                ",
+                "data-in-view": "true",
+                "data-index": "1"
+            },
+            "backend_node_id": 14150,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "576_96_768_60_Order by 12.15 for Delivery by 12.25 Learn More",
+            "tagName": "li",
+            "text": "Order by 12.15 for Delivery by 12.25 Learn More",
+            "width": 768.0,
+            "x": 576.0,
+            "y": 96.0
+        },
+        "location": {
+            "x": 576.0,
+            "y": 96.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 768.0
+        },
+        "tag_name": "li",
+        "text": "Order by 12.15 for Delivery by 12.25 Learn More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Order by 12.15 for Delivery by 12.25 Learn More",
+    "transformed": true,
+    "width": 768,
+    "x": 576,
+    "y": 96
+}

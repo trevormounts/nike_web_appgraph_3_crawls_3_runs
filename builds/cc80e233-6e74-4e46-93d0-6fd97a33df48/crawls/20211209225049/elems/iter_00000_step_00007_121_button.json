@@ -1,0 +1,68 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LActbG8t4dt57MGePJAdOw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "button_X46_Y903_W188_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false",
+                "aria-label": "Filter for $0 - $25",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm filter-item is--default css-1kqgukw  is--button",
+                "data-group-ndx": "2",
+                "data-group-type": "filter",
+                "data-is-color": "false",
+                "data-ndx": "0",
+                "data-url": "https://www.nike.com/w/kids-0-25-bags-and-backpacks-90wvyz9xy71zv4dh",
+                "role": "menuitemcheckbox",
+                "type": "button"
+            },
+            "backend_node_id": 8202,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "46_903_188_24_$0 - $25",
+            "tagName": "button",
+            "text": "$0 - $25",
+            "width": 188.0,
+            "x": 46.0,
+            "y": 903.0
+        },
+        "location": {
+            "x": 46.0,
+            "y": 903.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 188.0
+        },
+        "tag_name": "button",
+        "text": "$0 - $25"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "$0 - $25",
+    "transformed": true,
+    "width": 188,
+    "x": 46,
+    "y": 903
+}

@@ -1,4 +1,7 @@
 {
+    "ddm_kids": [
+        "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209225049/elems/iter_00000_step_00000_26_a.png"
+    ],
     "ddm_men": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209220153/elems/iter_00000_step_00000_24_a.png"
     ],
@@ -8,14 +11,23 @@
     "img_air_jordan_11": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209220153/elems/iter_00000_step_00006_117_img.png"
     ],
+    "img_back_kids_classic": [
+        "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209225049/elems/iter_00000_step_00006_135_img.png"
+    ],
     "img_womens_fleece_hoodie": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209221244/elems/iter_00000_step_00006_147_img.png"
     ],
     "lnk_clothing_women": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209221244/elems/iter_00000_step_00002_48_a.png"
     ],
+    "lnk_gear_accessories": [
+        "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209225049/elems/iter_00000_step_00002_53_a.png"
+    ],
     "lnk_shoes_men": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209220153/elems/iter_00000_step_00002_45_a.png"
+    ],
+    "mi_bags_backpacks": [
+        "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209225049/elems/iter_00000_step_00004_78_a.png"
     ],
     "mi_hoodies_pullovers": [
         "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/crawls/20211209221244/elems/iter_00000_step_00004_65_a.png"

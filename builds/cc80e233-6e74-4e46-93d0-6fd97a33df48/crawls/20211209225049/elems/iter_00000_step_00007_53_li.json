@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "wdHgVzWnK8L5PIWSqfSjCg==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "li_X48_Y171_W70_H16",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 9611,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "48_171_70_16_Equipment",
+            "tagName": "li",
+            "text": "Equipment",
+            "width": 70.0,
+            "x": 48.0,
+            "y": 171.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 171.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 70.0
+        },
+        "tag_name": "li",
+        "text": "Equipment"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Equipment",
+    "transformed": true,
+    "width": 70,
+    "x": 48,
+    "y": 171
+}

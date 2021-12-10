@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/Z3NKqDLB52gMj3OcY8SPQ==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y256_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Bags & Backpacks",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "0",
+                "href": "https://www.nike.com/w/kids-bags-and-backpacks-9xy71zv4dh"
+            },
+            "backend_node_id": 9667,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_256_184_32_Bags & Backpacks",
+            "tagName": "a",
+            "text": "Bags & Backpacks",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 256.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 256.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Bags & Backpacks"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Bags & Backpacks",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 256
+}

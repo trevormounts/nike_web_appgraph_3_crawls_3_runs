@@ -1,4 +1,7 @@
 {
+    "ddm_kids": [
+        "a_1007_36_57_60_a_ffffffffffffffffffffe9bfe00fe007e007fd0fffffffffffffffffffffffff_d5f22cecb775ab8d8a97c9cef4762d2a"
+    ],
     "ddm_men": [
         "a_870_36_56_60_a_fffffffffffffffffffff4ffe40fe007e007ff3fffffffffffffffffffffffff_4cfd213d82c3360d355f819a111d11d0"
     ],
@@ -8,14 +11,23 @@
     "img_air_jordan_11": [
         "img_308_256_508_508_img_ffffffffffffffffffffffc3ff83ff03fc03c00180038001e003ffffffffffff_9d4568c009d203ab10e33ea9953a0264"
     ],
+    "img_back_kids_classic": [
+        "img_832_256_508_508_img_fffffefffc3ff81ff00ff00ff00ff00ff00ff007f007f007f00ff00fffffffff_9d4568c009d203ab10e33ea9953a0264"
+    ],
     "img_womens_fleece_hoodie": [
         "img_832_256_508_508_img_fe7ffc3ffc7ffe7ffe1ffc1ffc0ff80ff80ff80ff80ff80ff80ff00ff00ffc1f_9d4568c009d203ab10e33ea9953a0264"
     ],
     "lnk_clothing_women": [
         "a_663_192_62_27_a_ffffffffffffffffbfff0e5f482460006000440200008200fffcfffcffffffff_60807e9dca5e5c9c5fe628f15b740208"
     ],
+    "lnk_gear_accessories": [
+        "a_1004_192_145_27_a_ffffffffffffffff7fff71ff000000000000008000000200ffffffffffffffff_f7379338aeea11f38d4ec223e062e257"
+    ],
     "lnk_shoes_men": [
         "a_797_192_46_27_a_ffffffffffffffffbfff07ff436d30008081408400000000ffffffffffffffff_ef5db54fa6a089470cbee22b8138b65c"
+    ],
+    "mi_bags_backpacks": [
+        "a_52_256_184_32_a_ffffffff73ff62df000f000f000f000f000fdf7fffffffffffffffffffffffff_1ae83cc6b093e76ee5e9fdfde21c3ff9"
     ],
     "mi_hoodies_pullovers": [
         "a_52_240_184_32_a_ffffffff6cff683f00070007000700070107ffffffffffffffffffffffffffff_ae614c466f22b54e2d183941530ebe20"

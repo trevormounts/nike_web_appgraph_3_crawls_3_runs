@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mw+yHpWXJ5v3Qg7YCLsHhQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y858_W175_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trigger-content__label"
+            },
+            "backend_node_id": 9734,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "48_858_175_24_Shop by Price",
+            "tagName": "div",
+            "text": "Shop by Price",
+            "width": 175.0,
+            "x": 48.0,
+            "y": 858.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 858.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 175.0
+        },
+        "tag_name": "div",
+        "text": "Shop by Price"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Shop by Price",
+    "transformed": true,
+    "width": 175,
+    "x": 48,
+    "y": 858
+}

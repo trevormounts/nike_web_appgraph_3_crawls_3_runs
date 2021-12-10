@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "a9D5tHgR3IGq9CM1iq21fA==\n",
+    "height": 108,
+    "hier_level": 0,
+    "human_hash": "div_X44_Y603_W196_H108",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer",
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            },
+            "backend_node_id": 9698,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 108.0,
+            "key": "44_603_196_108_Men  Women  Unisex",
+            "tagName": "div",
+            "text": "Men  Women  Unisex",
+            "width": 196.0,
+            "x": 44.0,
+            "y": 603.0
+        },
+        "location": {
+            "x": 44.0,
+            "y": 603.0
+        },
+        "size": {
+            "height": 108.0,
+            "width": 196.0
+        },
+        "tag_name": "div",
+        "text": "Men  Women  Unisex"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Men  Women  Unisex",
+    "transformed": true,
+    "width": 196,
+    "x": 44,
+    "y": 603
+}

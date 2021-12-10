@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TpvK0m66eA8/pbCIJ3L4BQ==\n",
+    "height": 542,
+    "hier_level": 0,
+    "human_hash": "button_X288_Y200_W446_H542",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Zoom in on Nike Classic Kids' Backpack (16L)",
+                "class": "bg-transparent grid-image mb3-sm pt0-sm pb0-sm prl0-sm pr1-md pl2-md pr1-lg pl2-lg ncss-col-sm-12 ncss-col-lg-6 css-1jh7gwz",
+                "data-click-to-play-video-style": "false",
+                "data-sub-type": "image"
+            },
+            "backend_node_id": 14194,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 542.0,
+            "key": "288_200_446_542_",
+            "tagName": "button",
+            "text": "",
+            "width": 446.0,
+            "x": 288.0,
+            "y": 200.0
+        },
+        "location": {
+            "x": 288.0,
+            "y": 200.0
+        },
+        "size": {
+            "height": 542.0,
+            "width": 446.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 446,
+    "x": 288,
+    "y": 200
+}

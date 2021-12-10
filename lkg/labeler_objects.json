@@ -2,11 +2,15 @@
     "elems": {
         "dupe_to_master_key": {
             "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png": "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png",
+            "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png": "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png",
+            "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png": "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png",
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png",
             "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png": "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png",
+            "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png": "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png",
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png": "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png",
             "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png": "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png",
             "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png": "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png",
+            "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png": "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png",
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png",
             "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png": "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png"
         },
@@ -35,6 +39,58 @@
                 ],
                 "text": [
                     "Clothing"
+                ]
+            },
+            "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png": {
+                "context_screen_img": "f0a0737c799dbdca34622f8ae77a9cd6.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png",
+                    "hash": "/Z3NKqDLB52gMj3OcY8SPQ==\n",
+                    "height": 32,
+                    "human_hash": "a_X52_Y256_W184_H32",
+                    "tag_name": "a",
+                    "text": "Bags & Backpacks",
+                    "width": 184,
+                    "x": 52,
+                    "y": 256
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Bags_&_Backpacks"
+                ]
+            },
+            "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png": {
+                "context_screen_img": "700eb4d973658734a4c04fcede562696.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png",
+                    "hash": "E/eZbXVm/26keSGFzf44Wg==\n",
+                    "height": 27,
+                    "human_hash": "a_X1004_Y192_W145_H27",
+                    "tag_name": "a",
+                    "text": "Gear & Accessories",
+                    "width": 145,
+                    "x": 1004,
+                    "y": 192
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Gear_&_Accessories"
                 ]
             },
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": {
@@ -87,6 +143,32 @@
                 ],
                 "text": [
                     "Men"
+                ]
+            },
+            "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png": {
+                "context_screen_img": "fb892e85b05d67c1998c539e120b1a66.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png",
+                    "hash": "Ho+07TNfPSFN0WrhUm7RRw==\n",
+                    "height": 60,
+                    "human_hash": "a_X1007_Y36_W57_H60",
+                    "tag_name": "a",
+                    "text": "Kids",
+                    "width": 57,
+                    "x": 1007,
+                    "y": 36
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Kids"
                 ]
             },
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png": {
@@ -167,6 +249,32 @@
                     ""
                 ]
             },
+            "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png": {
+                "context_screen_img": "894afe1d181a71a54feba59bbe81e933.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png"
+                ],
+                "elem_info": {
+                    "class": "img",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png",
+                    "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+                    "height": 508,
+                    "human_hash": "img_X832_Y256_W508_H508",
+                    "tag_name": "img",
+                    "text": "",
+                    "width": 508,
+                    "x": 832,
+                    "y": 256
+                },
+                "tags": [
+                    "all_elems",
+                    "img"
+                ],
+                "text": [
+                    ""
+                ]
+            },
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": {
                 "context_screen_img": "fb892e85b05d67c1998c539e120b1a66.png",
                 "dupe_count": 1,
@@ -222,10 +330,14 @@
         },
         "sorted_elems": [
             "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png",
+            "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png",
             "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png",
+            "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png",
             "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png",
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png",
+            "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png",
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png",
+            "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png",
             "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png",
             "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png",
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png"
@@ -234,11 +346,20 @@
             "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png": [
                 "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png"
             ],
+            "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png": [
+                "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI.png"
+            ],
+            "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png": [
+                "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY.png"
+            ],
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": [
                 "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png"
             ],
             "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png": [
                 "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png"
+            ],
+            "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png": [
+                "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY.png"
             ],
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png": [
                 "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png"
@@ -248,6 +369,9 @@
             ],
             "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png": [
                 "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png"
+            ],
+            "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png": [
+                "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png"
             ],
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": [
                 "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png"
@@ -261,17 +385,25 @@
         "dupe_to_master_key": {
             "0d0faa6ca1d72046b4681e25fec853d6.png": "0d0faa6ca1d72046b4681e25fec853d6.png",
             "17671d66539a87cd4d718cba2d973610.png": "17671d66539a87cd4d718cba2d973610.png",
+            "34590adbedbbed8f3914a40c12b01fee.png": "34590adbedbbed8f3914a40c12b01fee.png",
             "392fa6287534c6fa59ca4db8e006442a.png": "392fa6287534c6fa59ca4db8e006442a.png",
+            "43d2dc88c06863fddbcae2d2d36008d7.png": "43d2dc88c06863fddbcae2d2d36008d7.png",
             "4ea73f26eccd688f4243762d5cc55ddf.png": "4ea73f26eccd688f4243762d5cc55ddf.png",
             "4fd406d457bf254b373ad845b936be44.png": "4fd406d457bf254b373ad845b936be44.png",
+            "592a739f2b4322cace5bc74fb33530e2.png": "592a739f2b4322cace5bc74fb33530e2.png",
+            "700eb4d973658734a4c04fcede562696.png": "700eb4d973658734a4c04fcede562696.png",
+            "7a6219302b2e8fc2725744637a208691.png": "7a6219302b2e8fc2725744637a208691.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png": "7ae3edc158373a70b1dec4175f3ac5ec.png",
             "7b9e12824785de4d2ddb963807d95b89.png": "7b9e12824785de4d2ddb963807d95b89.png",
             "7deaf55bef0528369e8a102040fccb99.png": "7deaf55bef0528369e8a102040fccb99.png",
             "84b95795149351eee55c66816c274a87.png": "84b95795149351eee55c66816c274a87.png",
+            "894afe1d181a71a54feba59bbe81e933.png": "894afe1d181a71a54feba59bbe81e933.png",
             "93ef54eff33ccf015c73026608a6c64b.png": "93ef54eff33ccf015c73026608a6c64b.png",
             "b26f5045d576c05b3c7f8239b6022a12.png": "b26f5045d576c05b3c7f8239b6022a12.png",
             "bec2387090b751ee71362c37c0884833.png": "bec2387090b751ee71362c37c0884833.png",
             "cb38f158aa23e7f4dcf89482ec59a343.png": "cb38f158aa23e7f4dcf89482ec59a343.png",
+            "e51edab04fe28d4bd86781dd2f3ef9ad.png": "e51edab04fe28d4bd86781dd2f3ef9ad.png",
+            "f0a0737c799dbdca34622f8ae77a9cd6.png": "f0a0737c799dbdca34622f8ae77a9cd6.png",
             "fb892e85b05d67c1998c539e120b1a66.png": "fb892e85b05d67c1998c539e120b1a66.png"
         },
         "screens_to_elems": {},
@@ -389,6 +521,98 @@
                     "sign_in"
                 ]
             },
+            "34590adbedbbed8f3914a40c12b01fee.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "34590adbedbbed8f3914a40c12b01fee.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "girls",
+                    "totes",
+                    "nike_fuel_pack_lunch_bag",
+                    "kids____boys__girls",
+                    "nike_classic_kids'_backpack_(16l)",
+                    "2_colors",
+                    "men",
+                    "|",
+                    "women",
+                    "nike_gym_club_kids'_duffel_bag_(25l)",
+                    "hide_filters",
+                    "join_us",
+                    "backpacks_mini_backpacks_duffels_drawstring_bags_totes_lunch_bags_travel_&_shoe_bags_crossbody_bags_gender____men__women__unisex_kids____boys__girls_shop_by_price____$0_-_$25__$25_-_$50__$50_-_$100_color____purple__black__red__orange__blue__white__brown__green__multi-color__grey__pink_sports_&_activities____lifestyle__running__training_&_gym__basketball_+_more_brand____nike_sportswear__jordan_best_for____cold_weather_kids_age____little_kids__big_kids",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "equipment_/_accessories_&_equipment_/_bags_&_backpacks",
+                    "drawstring_bags",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "boys",
+                    "(46)",
+                    "$30",
+                    "nike_gym_club",
+                    "accessories_&_equipment",
+                    "help_|_join_us_|_sign_in",
+                    "crossbody_bags",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "kids'_backpacks_&_bags_(46)",
+                    "kids'_duffel_bag_(25l)",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "travel_&_shoe_bags",
+                    "backpacks_mini_backpacks_duffels_drawstring_bags_totes_lunch_bags_travel_&_shoe_bags_crossbody_bags",
+                    "gender____men__women__unisex",
+                    "boys__girls",
+                    "/",
+                    "join_us_|_sign_in",
+                    "kids'_backpacks_&_bags_(46)_hide_filters__sort_by",
+                    "duffels",
+                    "unisex",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "bags_&_backpacks",
+                    "men__women__unisex",
+                    "shop_by_price",
+                    "mini_backpacks",
+                    "sort_by",
+                    "$0_-_$25",
+                    "nike_fuel_pack",
+                    "nike_classic",
+                    "3_colors",
+                    "$25",
+                    "backpacks",
+                    "$35",
+                    "lunch_bag",
+                    "lunch_bags",
+                    "sale",
+                    "kids'_backpack_(16l)",
+                    "gender",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "join_now",
+                    "equipment",
+                    "sign_in"
+                ]
+            },
             "392fa6287534c6fa59ca4db8e006442a.png": {
                 "dupe_count": [
                     1
@@ -471,6 +695,46 @@
                     "view_bag",
                     "27699380:l",
                     "27699377:xs"
+                ]
+            },
+            "43d2dc88c06863fddbcae2d2d36008d7.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "43d2dc88c06863fddbcae2d2d36008d7.png"
+                ],
+                "tags": [
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "header",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "save_up_to_40%",
+                    "men",
+                    "|",
+                    "women",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "help",
+                    "join_us_|_sign_in",
+                    "new_releases",
+                    "sale",
+                    "shop_all_our_new_markdowns",
+                    "sign_in"
                 ]
             },
             "4ea73f26eccd688f4243762d5cc55ddf.png": {
@@ -556,6 +820,189 @@
                     "join_us_|_sign_in",
                     "new_releases",
                     "sale",
+                    "sign_in"
+                ]
+            },
+            "592a739f2b4322cace5bc74fb33530e2.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "592a739f2b4322cace5bc74fb33530e2.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "girls",
+                    "equipment_/_accessories_&_equipment",
+                    "jordan",
+                    "2_colors",
+                    "men",
+                    "|",
+                    "women",
+                    "kids_accessories_&_equipment_(254)_hide_filters__sort_by",
+                    "pads,_guards,_&_protection",
+                    "hide_filters",
+                    "join_us",
+                    "boys",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "nike_big_kids'_beanie_and_gloves_set",
+                    "(254)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "$20",
+                    "gloves_&_mitts",
+                    "accessories_&_equipment",
+                    "help_|_join_us_|_sign_in",
+                    "swim_goggles_&_caps",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "belts",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "balls",
+                    "gender____men__women__unisex",
+                    "boys__girls",
+                    "/",
+                    "sleeves_&_armbands",
+                    "join_us_|_sign_in",
+                    "water_bottles_&_hydration",
+                    "bags_&_backpacks_balls_belts_gloves_&_mitts_hats,_visors,_&_headbands_pads,_guards,_&_protection_sleeves_&_armbands_swim_goggles_&_caps_water_bottles_&_hydration",
+                    "unisex",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "bags_&_backpacks",
+                    "men__women__unisex",
+                    "nike",
+                    "sort_by",
+                    "big_kids'_beanie",
+                    "$18",
+                    "3_colors",
+                    "$25",
+                    "jordan_big_kids'_beanie",
+                    "sale",
+                    "gender",
+                    "kids_accessories_&_equipment_(254)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "big_kids'_beanie_and_gloves_set",
+                    "join_now",
+                    "equipment",
+                    "sign_in",
+                    "hats,_visors,_&_headbands"
+                ]
+            },
+            "700eb4d973658734a4c04fcede562696.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "700eb4d973658734a4c04fcede562696.png"
+                ],
+                "tags": [
+                    "nav",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "men",
+                    "|",
+                    "women",
+                    "new_arrivals",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "clothing",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "help",
+                    "shoes",
+                    "learn_more",
+                    "join_us_|_sign_in",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "shoes_clothing_new_arrivals_gear_&_accessories_sale",
+                    "gear_&_accessories",
+                    "new_releases",
+                    "sale",
+                    "kids_shoes_clothing_new_arrivals_gear_&_accessories_sale",
+                    "sign_in"
+                ]
+            },
+            "7a6219302b2e8fc2725744637a208691.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "7a6219302b2e8fc2725744637a208691.png"
+                ],
+                "tags": [
+                    "nav",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "save_up_to_40%",
+                    "men",
+                    "|",
+                    "women",
+                    "new_arrivals",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "clothing",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "help",
+                    "shoes",
+                    "join_us_|_sign_in",
+                    "shoes_clothing_new_arrivals_gear_&_accessories_sale",
+                    "gear_&_accessories",
+                    "new_releases",
+                    "sale",
+                    "shop_all_our_new_markdowns",
+                    "kids_shoes_clothing_new_arrivals_gear_&_accessories_sale",
                     "sign_in"
                 ]
             },
@@ -791,6 +1238,98 @@
                     "order_by_12.15_for_delivery_by_12.25",
                     "new_releases",
                     "sale",
+                    "sign_in"
+                ]
+            },
+            "894afe1d181a71a54feba59bbe81e933.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "894afe1d181a71a54feba59bbe81e933.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "girls",
+                    "totes",
+                    "nike_fuel_pack_lunch_bag",
+                    "kids____boys__girls",
+                    "nike_classic_kids'_backpack_(16l)",
+                    "2_colors",
+                    "men",
+                    "|",
+                    "women",
+                    "nike_gym_club_kids'_duffel_bag_(25l)",
+                    "hide_filters",
+                    "join_us",
+                    "backpacks_mini_backpacks_duffels_drawstring_bags_totes_lunch_bags_travel_&_shoe_bags_crossbody_bags_gender____men__women__unisex_kids____boys__girls_shop_by_price____$0_-_$25__$25_-_$50__$50_-_$100_color____purple__black__red__orange__blue__white__brown__green__multi-color__grey__pink_sports_&_activities____lifestyle__running__training_&_gym__basketball_+_more_brand____nike_sportswear__jordan_best_for____cold_weather_kids_age____little_kids__big_kids",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "equipment_/_accessories_&_equipment_/_bags_&_backpacks",
+                    "drawstring_bags",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "boys",
+                    "(46)",
+                    "$30",
+                    "nike_gym_club",
+                    "accessories_&_equipment",
+                    "help_|_join_us_|_sign_in",
+                    "crossbody_bags",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "kids'_backpacks_&_bags_(46)",
+                    "kids'_duffel_bag_(25l)",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "travel_&_shoe_bags",
+                    "backpacks_mini_backpacks_duffels_drawstring_bags_totes_lunch_bags_travel_&_shoe_bags_crossbody_bags",
+                    "gender____men__women__unisex",
+                    "boys__girls",
+                    "/",
+                    "join_us_|_sign_in",
+                    "kids'_backpacks_&_bags_(46)_hide_filters__sort_by",
+                    "duffels",
+                    "unisex",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "bags_&_backpacks",
+                    "men__women__unisex",
+                    "shop_by_price",
+                    "mini_backpacks",
+                    "sort_by",
+                    "$0_-_$25",
+                    "nike_fuel_pack",
+                    "nike_classic",
+                    "3_colors",
+                    "$25",
+                    "backpacks",
+                    "$35",
+                    "lunch_bag",
+                    "lunch_bags",
+                    "sale",
+                    "kids'_backpack_(16l)",
+                    "gender",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "join_now",
+                    "equipment",
                     "sign_in"
                 ]
             },
@@ -1169,6 +1708,162 @@
                     "womens_clothing_(1430)"
                 ]
             },
+            "e51edab04fe28d4bd86781dd2f3ef9ad.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "e51edab04fe28d4bd86781dd2f3ef9ad.png"
+                ],
+                "tags": [
+                    "h2",
+                    "img",
+                    "div",
+                    "ul",
+                    "form",
+                    "input",
+                    "picture",
+                    "klarna-placement",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "save_up_to_40%",
+                    "[_code:_74914217_]",
+                    "men",
+                    "|",
+                    "women",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "add_to_bag_favorite",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "$30",
+                    "one_size",
+                    "nike_classic_kids'_backpack_(16l)_$30",
+                    "the_nike_classic_backpack_is_the_pack_you_know_and_love_(now_with_an_awesome_safari-inspired_print)._extra_pockets_and_padded_straps_add_storage_and_comfort_to_the_large_main_compartment._it's_all_the_space_you_need_for_school_and_practice_gear.",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "add_to_bag",
+                    "help",
+                    "save_up_to_40%_shop_all_our_new_markdowns",
+                    "learn_more",
+                    "we_had_an_issue_with_your_request._if_you_continue_experiencing_issues,_try_refreshing_the_page.",
+                    "order_by_12.15_for_delivery_by_12.25_learn_more",
+                    "join_us_|_sign_in",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "one_size__add_to_bag_favorite",
+                    "new_releases",
+                    "nike_classic",
+                    "4_interest-free_payments._available_for_orders_above_$35.__klarna_.__learn_more",
+                    "favorite",
+                    "error",
+                    "sale",
+                    "shop_all_our_new_markdowns",
+                    "kids'_backpack_(16l)",
+                    "klarna",
+                    "error_we_had_an_issue_with_your_request._if_you_continue_experiencing_issues,_try_refreshing_the_page._[_code:_74914217_]_view_bag",
+                    "join_now",
+                    "sign_in",
+                    "view_bag"
+                ]
+            },
+            "f0a0737c799dbdca34622f8ae77a9cd6.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "f0a0737c799dbdca34622f8ae77a9cd6.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "girls",
+                    "equipment_/_accessories_&_equipment",
+                    "jordan",
+                    "2_colors",
+                    "men",
+                    "|",
+                    "women",
+                    "kids_accessories_&_equipment_(254)_hide_filters__sort_by",
+                    "pads,_guards,_&_protection",
+                    "hide_filters",
+                    "join_us",
+                    "boys",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "nike_big_kids'_beanie_and_gloves_set",
+                    "(254)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "$20",
+                    "gloves_&_mitts",
+                    "accessories_&_equipment",
+                    "help_|_join_us_|_sign_in",
+                    "swim_goggles_&_caps",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "belts",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "balls",
+                    "learn_more",
+                    "gender____men__women__unisex",
+                    "boys__girls",
+                    "order_by_12.15_for_delivery_by_12.25_learn_more",
+                    "/",
+                    "sleeves_&_armbands",
+                    "join_us_|_sign_in",
+                    "water_bottles_&_hydration",
+                    "bags_&_backpacks_balls_belts_gloves_&_mitts_hats,_visors,_&_headbands_pads,_guards,_&_protection_sleeves_&_armbands_swim_goggles_&_caps_water_bottles_&_hydration",
+                    "unisex",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "bags_&_backpacks",
+                    "men__women__unisex",
+                    "nike",
+                    "sort_by",
+                    "big_kids'_beanie",
+                    "$18",
+                    "3_colors",
+                    "$25",
+                    "jordan_big_kids'_beanie",
+                    "sale",
+                    "gender",
+                    "kids_accessories_&_equipment_(254)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "big_kids'_beanie_and_gloves_set",
+                    "join_now",
+                    "equipment",
+                    "sign_in",
+                    "hats,_visors,_&_headbands"
+                ]
+            },
             "fb892e85b05d67c1998c539e120b1a66.png": {
                 "dupe_count": [
                     1
@@ -1212,19 +1907,27 @@
         },
         "sorted_screens": [
             "bec2387090b751ee71362c37c0884833.png",
+            "700eb4d973658734a4c04fcede562696.png",
             "fb892e85b05d67c1998c539e120b1a66.png",
             "4ea73f26eccd688f4243762d5cc55ddf.png",
+            "592a739f2b4322cace5bc74fb33530e2.png",
             "cb38f158aa23e7f4dcf89482ec59a343.png",
             "17671d66539a87cd4d718cba2d973610.png",
             "84b95795149351eee55c66816c274a87.png",
+            "894afe1d181a71a54feba59bbe81e933.png",
             "7b9e12824785de4d2ddb963807d95b89.png",
             "7deaf55bef0528369e8a102040fccb99.png",
             "0d0faa6ca1d72046b4681e25fec853d6.png",
+            "43d2dc88c06863fddbcae2d2d36008d7.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png",
+            "f0a0737c799dbdca34622f8ae77a9cd6.png",
             "392fa6287534c6fa59ca4db8e006442a.png",
+            "7a6219302b2e8fc2725744637a208691.png",
             "b26f5045d576c05b3c7f8239b6022a12.png",
             "4fd406d457bf254b373ad845b936be44.png",
-            "93ef54eff33ccf015c73026608a6c64b.png"
+            "93ef54eff33ccf015c73026608a6c64b.png",
+            "e51edab04fe28d4bd86781dd2f3ef9ad.png",
+            "34590adbedbbed8f3914a40c12b01fee.png"
         ],
         "uniques_to_dupes": {
             "0d0faa6ca1d72046b4681e25fec853d6.png": [
@@ -1233,14 +1936,29 @@
             "17671d66539a87cd4d718cba2d973610.png": [
                 "17671d66539a87cd4d718cba2d973610.png"
             ],
+            "34590adbedbbed8f3914a40c12b01fee.png": [
+                "34590adbedbbed8f3914a40c12b01fee.png"
+            ],
             "392fa6287534c6fa59ca4db8e006442a.png": [
                 "392fa6287534c6fa59ca4db8e006442a.png"
+            ],
+            "43d2dc88c06863fddbcae2d2d36008d7.png": [
+                "43d2dc88c06863fddbcae2d2d36008d7.png"
             ],
             "4ea73f26eccd688f4243762d5cc55ddf.png": [
                 "4ea73f26eccd688f4243762d5cc55ddf.png"
             ],
             "4fd406d457bf254b373ad845b936be44.png": [
                 "4fd406d457bf254b373ad845b936be44.png"
+            ],
+            "592a739f2b4322cace5bc74fb33530e2.png": [
+                "592a739f2b4322cace5bc74fb33530e2.png"
+            ],
+            "700eb4d973658734a4c04fcede562696.png": [
+                "700eb4d973658734a4c04fcede562696.png"
+            ],
+            "7a6219302b2e8fc2725744637a208691.png": [
+                "7a6219302b2e8fc2725744637a208691.png"
             ],
             "7ae3edc158373a70b1dec4175f3ac5ec.png": [
                 "7ae3edc158373a70b1dec4175f3ac5ec.png"
@@ -1254,6 +1972,9 @@
             "84b95795149351eee55c66816c274a87.png": [
                 "84b95795149351eee55c66816c274a87.png"
             ],
+            "894afe1d181a71a54feba59bbe81e933.png": [
+                "894afe1d181a71a54feba59bbe81e933.png"
+            ],
             "93ef54eff33ccf015c73026608a6c64b.png": [
                 "93ef54eff33ccf015c73026608a6c64b.png"
             ],
@@ -1265,6 +1986,12 @@
             ],
             "cb38f158aa23e7f4dcf89482ec59a343.png": [
                 "cb38f158aa23e7f4dcf89482ec59a343.png"
+            ],
+            "e51edab04fe28d4bd86781dd2f3ef9ad.png": [
+                "e51edab04fe28d4bd86781dd2f3ef9ad.png"
+            ],
+            "f0a0737c799dbdca34622f8ae77a9cd6.png": [
+                "f0a0737c799dbdca34622f8ae77a9cd6.png"
             ],
             "fb892e85b05d67c1998c539e120b1a66.png": [
                 "fb892e85b05d67c1998c539e120b1a66.png"

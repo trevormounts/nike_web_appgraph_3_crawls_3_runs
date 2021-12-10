@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EGSh0RQNsYEr29jpSuqBrQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y800_W118_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 10057,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "308_800_118_24_Big Kids' Beanie",
+            "tagName": "div",
+            "text": "Big Kids' Beanie",
+            "width": 118.0,
+            "x": 308.0,
+            "y": 800.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 800.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 118.0
+        },
+        "tag_name": "div",
+        "text": "Big Kids' Beanie"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Big Kids' Beanie",
+    "transformed": true,
+    "width": 118,
+    "x": 308,
+    "y": 800
+}

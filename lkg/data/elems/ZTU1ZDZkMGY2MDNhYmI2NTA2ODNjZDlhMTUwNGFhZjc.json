@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+    "height": 508,
+    "hier_level": 0,
+    "human_hash": "img_X832_Y256_W508_H508",
+    "human_readable": "img_832_256_508_508_img_fffffefffc3ff81ff00ff00ff00ff00ff00ff007f007f007f00ff00fffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Classic Kids' Backpack (16L)",
+                "class": "css-1fxh5tw product-card__hero-image",
+                "loading": "lazy",
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png",
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 400w"
+            },
+            "backend_node_id": 10174,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 508.0,
+            "key": "832_256_508_508_",
+            "tagName": "img",
+            "text": "",
+            "width": 508.0,
+            "x": 832.0,
+            "y": 256.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 256.0
+        },
+        "size": {
+            "height": 508.0,
+            "width": 508.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "894afe1d181a71a54feba59bbe81e933",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 508,
+    "x": 832,
+    "y": 256
+}

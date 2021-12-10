@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+mBYR5+M4AlAAq+jnaeMZw==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "a_X1088_Y118_W63_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-link",
+                "data-id": "f5274422-2a0a-4769-869d-912cbbd541c3",
+                "href": "https://www.nike.com/help/a/shipping-delivery"
+            },
+            "backend_node_id": 14156,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1088_118_63_15_Learn More",
+            "tagName": "a",
+            "text": "Learn More",
+            "width": 63.0,
+            "x": 1088.0,
+            "y": 118.0
+        },
+        "location": {
+            "x": 1088.0,
+            "y": 118.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 63.0
+        },
+        "tag_name": "a",
+        "text": "Learn More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Learn More",
+    "transformed": true,
+    "width": 63,
+    "x": 1088,
+    "y": 118
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Na6lULCLABdsZQY5AelmUg==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "button_X1600_Y48_W40_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Open Search Modal",
+                "class": "pre-search-btn ripple",
+                "data-search-closed-label": "Search",
+                "data-search-open-label": "Open Search Modal",
+                "data-var": "vsButton"
+            },
+            "backend_node_id": 8130,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "1600_48_40_36_",
+            "tagName": "button",
+            "text": "",
+            "width": 40.0,
+            "x": 1600.0,
+            "y": 48.0
+        },
+        "location": {
+            "x": 1600.0,
+            "y": 48.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 40.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 40,
+    "x": 1600,
+    "y": 48
+}

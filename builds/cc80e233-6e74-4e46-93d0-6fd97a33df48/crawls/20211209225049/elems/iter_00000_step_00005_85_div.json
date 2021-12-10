@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "X0dwec6wPMtrVRwMOUjP/w==\n",
+    "height": 163,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y645_W192_H163",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible filter-group filter-group__open"
+            },
+            "backend_node_id": 9687,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 163.0,
+            "key": "48_645_192_163_Gender    Men  Women  Unisex",
+            "tagName": "div",
+            "text": "Gender    Men  Women  Unisex",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 645.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 645.0
+        },
+        "size": {
+            "height": 163.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "Gender    Men  Women  Unisex"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Gender    Men  Women  Unisex",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 645
+}

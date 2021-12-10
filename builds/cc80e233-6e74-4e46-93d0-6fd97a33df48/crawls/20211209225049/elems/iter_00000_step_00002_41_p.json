@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jGxKiJk5AKuDFOA7+6ja7Q==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "p_X928_Y124_W63_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5546,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "928_124_63_24_Learn More",
+            "tagName": "p",
+            "text": "Learn More",
+            "width": 63.0,
+            "x": 928.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 928.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 63.0
+        },
+        "tag_name": "p",
+        "text": "Learn More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Learn More",
+    "transformed": true,
+    "width": 63,
+    "x": 928,
+    "y": 124
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OugX4fqQjHR1morN7Bzodg==\n",
+    "height": 19,
+    "hier_level": 0,
+    "human_hash": "span_X785_Y196_W62_H19",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-haspopup": "true",
+                "class": "headline-5",
+                "role": "button",
+                "tabindex": "0"
+            },
+            "backend_node_id": 5587,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 19.0,
+            "key": "785_196_62_19_Clothing",
+            "tagName": "span",
+            "text": "Clothing",
+            "width": 62.0,
+            "x": 785.0,
+            "y": 196.0
+        },
+        "location": {
+            "x": 785.0,
+            "y": 196.0
+        },
+        "size": {
+            "height": 19.0,
+            "width": 62.0
+        },
+        "tag_name": "span",
+        "text": "Clothing"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Clothing",
+    "transformed": true,
+    "width": 62,
+    "x": 785,
+    "y": 196
+}

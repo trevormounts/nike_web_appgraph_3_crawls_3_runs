@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Rl/x2mN3o5tgmfZOJVg+xA==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y776_W155_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__titles"
+            },
+            "backend_node_id": 10477,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1356_776_155_48_Nike Gym Club Kids' Duffel Bag (25L)",
+            "tagName": "div",
+            "text": "Nike Gym Club Kids' Duffel Bag (25L)",
+            "width": 155.0,
+            "x": 1356.0,
+            "y": 776.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 776.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 155.0
+        },
+        "tag_name": "div",
+        "text": "Nike Gym Club Kids' Duffel Bag (25L)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Nike Gym Club Kids' Duffel Bag (25L)",
+    "transformed": true,
+    "width": 155,
+    "x": 1356,
+    "y": 776
+}
