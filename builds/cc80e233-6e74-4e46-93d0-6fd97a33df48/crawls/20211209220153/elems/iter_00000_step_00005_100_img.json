@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "cMKQRD/kFiZyZrpsBOmoLw==\n",
+    "height": 508,
+    "hier_level": 0,
+    "human_hash": "img_X308_Y240_W508_H508",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Blazer Mid '77 Vintage Men's Shoes",
+                "class": "css-1fxh5tw product-card__hero-image",
+                "loading": "eager",
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b500831/blazer-mid-77-vintage-mens-shoes-nw30B2.png",
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b500831/blazer-mid-77-vintage-mens-shoes-nw30B2.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b500831/blazer-mid-77-vintage-mens-shoes-nw30B2.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b500831/blazer-mid-77-vintage-mens-shoes-nw30B2.png 400w"
+            },
+            "backend_node_id": 7816,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 508.0,
+            "key": "308_240_508_508_",
+            "tagName": "img",
+            "text": "",
+            "width": 508.0,
+            "x": 308.0,
+            "y": 240.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 240.0
+        },
+        "size": {
+            "height": 508.0,
+            "width": 508.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 508,
+    "x": 308,
+    "y": 240
+}

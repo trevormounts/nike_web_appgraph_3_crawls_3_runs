@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "5sSe+ayAb1YPIeuJU/pEMA==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "div_X0_Y225_W1920_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header-offset"
+            },
+            "backend_node_id": 9137,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "0_225_1920_15_",
+            "tagName": "div",
+            "text": "",
+            "width": 1920.0,
+            "x": 0.0,
+            "y": 225.0
+        },
+        "location": {
+            "x": 0.0,
+            "y": 225.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 1920.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 1920,
+    "x": 0,
+    "y": 225
+}

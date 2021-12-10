@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IEN1zNujJrDM8dnQ7/CfsQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y800_W232_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 10097,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1356_800_232_24_Big Kids' Beanie and Gloves Set",
+            "tagName": "div",
+            "text": "Big Kids' Beanie and Gloves Set",
+            "width": 232.0,
+            "x": 1356.0,
+            "y": 800.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 800.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 232.0
+        },
+        "tag_name": "div",
+        "text": "Big Kids' Beanie and Gloves Set"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Big Kids' Beanie and Gloves Set",
+    "transformed": true,
+    "width": 232,
+    "x": 1356,
+    "y": 800
+}

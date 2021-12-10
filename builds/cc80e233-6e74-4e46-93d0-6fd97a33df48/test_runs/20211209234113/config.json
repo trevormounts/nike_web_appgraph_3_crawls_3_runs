@@ -1,0 +1,18 @@
+{
+    "app_id": "8569ac5b-389e-439c-b313-ed1f31307953",
+    "custom_name": "Women's Clothes - Sweatshirts ",
+    "effective_num_tests": 1,
+    "eyes_api_key": null,
+    "is_interactive": false,
+    "is_noop": false,
+    "is_test": true,
+    "max_iterations": 5,
+    "max_steps": 10,
+    "num_iterations": 1,
+    "package": null,
+    "platform": "DESKTOP_CHROME",
+    "rand_seed": 1639104844,
+    "real_app_id": "8569ac5b-389e-439c-b313-ed1f31307953",
+    "test_wildcard": "*",
+    "timestamp": "20211209234113"
+}

@@ -1,0 +1,3867 @@
+{
+    "action_info": {
+        "elem_class": "a",
+        "elem_info": {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X663_Y192_W62_H27",
+            "human_readable": "a_663_192_62_27_a_fffffffffffffffffcff800180398039803980358035801d801d800d8041a001_60807e9dca5e5c9c5fe628f15b740208",
+            "img_hash": "1161155edd8212bce3863b4168751904",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Clothing",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "985b591b-c6e3-499c-bcf8-a98f6ca974e6",
+                        "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+                    },
+                    "backend_node_id": 5445,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "663_192_62_27_Clothing",
+                    "tagName": "a",
+                    "text": "Clothing",
+                    "width": 62.0,
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 62.0
+                },
+                "tag_name": "a",
+                "text": "Clothing"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "png_hash": "fffffffffffffffffcff800180398039803980358035801d801d800d8041a001",
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Clothing",
+            "text_hash": "60807e9dca5e5c9c5fe628f15b740208",
+            "transformed": true,
+            "width": 62,
+            "x": 663,
+            "y": 192
+        },
+        "gesture": "tap",
+        "text": ""
+    },
+    "all_elems": [
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/div_X0_Y0_W1920_H96.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "7218p94SyfcRzv4ObR3Jzw==\n",
+            "height": 96,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H96",
+            "human_readable": "div_0_0_1920_96_div_000000000000000000000000fffffffffffdffb87c387c387ff8fffdffffffff_8a21ef2eef14fa61899df8cc4d65f387",
+            "img_hash": "e54081187856126fb49c77f879b4ed3b",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "gen-nav-commerce-header-v2"
+                    },
+                    "backend_node_id": 4238,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 96.0,
+                    "key": "0_0_1920_96_Skip to main content   Help | Join Us | Sign In  New Releases Men Women Kids Sale Gifts",
+                    "tagName": "div",
+                    "text": "Skip to main content   Help | Join Us | Sign In  New Releases Men Women Kids Sale Gifts",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 96.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Skip to main content   Help | Join Us | Sign In  New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Skip to main content   Help | Join Us | Sign In  New Releases Men Women Kids Sale Gifts",
+            "text_hash": "8a21ef2eef14fa61899df8cc4d65f387",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145517023232/a_X36_Y0_W48_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ZSbeHPNuMRERI/1pYUJf+w==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "a_X36_Y0_W48_H36",
+            "human_readable": "a_36_0_48_36_a_ffffffffffffffffff3fff7ffe7ffe7ffc7ffc3ff81ff39fffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "d327c408a0c7c5c3f6df194fb8237bb5",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Jordan",
+                        "class": "pre-brand-item d-sm-ib prl3-sm",
+                        "data-path": "Jordan",
+                        "data-pre": "ILink",
+                        "data-type": "click_navBrandBar",
+                        "href": "https://www.nike.com/jordan"
+                    },
+                    "backend_node_id": 4391,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "36_0_48_36_",
+                    "tagName": "a",
+                    "text": "",
+                    "width": 48.0,
+                    "x": 36.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 36.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 48.0
+                },
+                "tag_name": "a",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 48,
+            "x": 36,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "ul",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/ul_X36_Y0_W96_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "2/624hzGZRNtMEC0se8yAg==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "ul_X36_Y0_W96_H36",
+            "human_readable": "ul_36_0_96_36_ul_ffffffffffffffe7f7e7f7e3e7c3e7c3e7c3e7c3c3e3d3e7ffe7ffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "910ff9f5fc7f42b7de4bc780229570e0",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-brand-menu d-sm-h d-md-flx"
+                    },
+                    "backend_node_id": 4389,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "36_0_96_36_",
+                    "tagName": "ul",
+                    "text": "",
+                    "width": 96.0,
+                    "x": 36.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 36.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 96.0
+                },
+                "tag_name": "ul",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "ul",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 96,
+            "x": 36,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145550602240/div_X0_Y0_W1920_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "imR82Qc6Ve6efYXpo1Z6fw==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H36",
+            "human_readable": "div_0_0_1920_36_div_ffffffffffff3fff3fff3ffc3ffc3ffc3ffc3ffc3ffe3fff3fffffffffffffff_6cec4fcce93a91b577e9ff0854a7940e",
+            "img_hash": "924238233818444496eed53f42c8dd0f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-wrapper mauto-sm d-sm-flx flx-dir-sm-r flx-jc-sm-sb flx-wr-sm-nw"
+                    },
+                    "backend_node_id": 4388,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "0_0_1920_36_Help | Join Us | Sign In",
+                    "tagName": "div",
+                    "text": "Help | Join Us | Sign In",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Help | Join Us | Sign In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Help | Join Us | Sign In",
+            "text_hash": "6cec4fcce93a91b577e9ff0854a7940e",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/a_X84_Y0_W48_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "QhfcsnWXBbHD2f5jLARFlQ==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "a_X84_Y0_W48_H36",
+            "human_readable": "a_84_0_48_36_a_fffffffffffffc7ffe3ffe1ff11ff18ff18ff11ffe1ffc3ffc7fffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "bf5e9af99a9723c4d16b4e60cd7793d5",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Converse",
+                        "class": "pre-brand-item d-sm-ib prl3-sm",
+                        "data-path": "Converse",
+                        "data-pre": "ILink",
+                        "data-type": "click_navBrandBar",
+                        "href": "https://www.nike.com/w/converse-shoes-akmjxzy7ok"
+                    },
+                    "backend_node_id": 4395,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "84_0_48_36_",
+                    "tagName": "a",
+                    "text": "",
+                    "width": 48.0,
+                    "x": 84.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 84.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 48.0
+                },
+                "tag_name": "a",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 48,
+            "x": 84,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/span_X1713_Y10_W26_H15.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ewwZ2Gedt5rcRgmRWLQbSA==\n",
+            "height": 15,
+            "hier_level": 0,
+            "human_hash": "span_X1713_Y10_W26_H15",
+            "human_readable": "span_1713_10_26_15_span_ffffffffffff37df37df3651044105040004300435c434003441ffe7fff7ffff_8c38e8325e3e3e0c30d223412e6e4f87",
+            "img_hash": "7a0d4b560ba88e56a6809309f1081d6c",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "hf_header_label_help"
+                    },
+                    "backend_node_id": 4403,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 15.0,
+                    "key": "1713_10_26_15_Help",
+                    "tagName": "span",
+                    "text": "Help",
+                    "width": 26.0,
+                    "x": 1713.0,
+                    "y": 10.0
+                },
+                "location": {
+                    "x": 1713.0,
+                    "y": 10.0
+                },
+                "size": {
+                    "height": 15.0,
+                    "width": 26.0
+                },
+                "tag_name": "span",
+                "text": "Help"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Help",
+            "text_hash": "8c38e8325e3e3e0c30d223412e6e4f87",
+            "transformed": true,
+            "width": 26,
+            "x": 1713,
+            "y": 10
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/a_X1705_Y6_W42_H24.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "bhsmxNstMBaEyiKX8GNRMw==\n",
+            "height": 24,
+            "hier_level": 0,
+            "human_hash": "a_X1705_Y6_W42_H24",
+            "human_readable": "a_1705_6_42_24_a_ffffffffffffffffebbfe1bfe007e007e017e007e807ffdfffdfffffffffffff_8c38e8325e3e3e0c30d223412e6e4f87",
+            "img_hash": "b610d3c4834a455ff632334b5b0e996e",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "HelpMenuDropdown-Menu",
+                        "aria-expanded": "false",
+                        "aria-label": "Help",
+                        "class": "pre-help-button body-4 u-bold",
+                        "data-path": "get help",
+                        "data-pre": "ILink",
+                        "data-type": "click_navHelpMenu",
+                        "data-var": "ctrl",
+                        "href": "https://www.nike.com/help",
+                        "role": "listbox"
+                    },
+                    "backend_node_id": 4402,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 24.0,
+                    "key": "1705_6_42_24_Help",
+                    "tagName": "a",
+                    "text": "Help",
+                    "width": 42.0,
+                    "x": 1705.0,
+                    "y": 6.0
+                },
+                "location": {
+                    "x": 1705.0,
+                    "y": 6.0
+                },
+                "size": {
+                    "height": 24.0,
+                    "width": 42.0
+                },
+                "tag_name": "a",
+                "text": "Help"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Help",
+            "text_hash": "8c38e8325e3e3e0c30d223412e6e4f87",
+            "transformed": true,
+            "width": 42,
+            "x": 1705,
+            "y": 6
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145617760256/div_X1705_Y0_W42_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "9IEOtAGLbf3MnHsOHUza5Q==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "div_X1705_Y0_W42_H36",
+            "human_readable": "div_1705_0_42_36_div_ffffffffffffffffffffebbfe007e007e007e007ffcfffffffffffffffffffff_8c38e8325e3e3e0c30d223412e6e4f87",
+            "img_hash": "aef3acb268b309f19cf1ac9f8bf70f5d",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-dropdown-menu",
+                        "data-pre": "DropdownMenu",
+                        "id": "HelpMenuDropdown"
+                    },
+                    "backend_node_id": 4401,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1705_0_42_36_Help",
+                    "tagName": "div",
+                    "text": "Help",
+                    "width": 42.0,
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 42.0
+                },
+                "tag_name": "div",
+                "text": "Help"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Help",
+            "text_hash": "8c38e8325e3e3e0c30d223412e6e4f87",
+            "transformed": true,
+            "width": 42,
+            "x": 1705,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/div_X1705_Y0_W52_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "6bCCo6O31TlQPxmi9RkMcA==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "div_X1705_Y0_W52_H36",
+            "human_readable": "div_1705_0_52_36_div_ffffffffffffffffffffc6fdc03dc01dc01dc01dff7dffffffffffffffffffff_8510a810d81d2678cdcc2e06fb35ce3e",
+            "img_hash": "57e238ab49574f9e7f92d566a85929e1",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "flx-dir-r flx-ai-md-c d-lg-flx",
+                        "data-var": "helpDropdown"
+                    },
+                    "backend_node_id": 4399,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1705_0_52_36_Help |",
+                    "tagName": "div",
+                    "text": "Help |",
+                    "width": 52.0,
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 52.0
+                },
+                "tag_name": "div",
+                "text": "Help |"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Help |",
+            "text_hash": "8510a810d81d2678cdcc2e06fb35ce3e",
+            "transformed": true,
+            "width": 52,
+            "x": 1705,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/div_X1705_Y0_W177_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "//iI5F0M+O5I2phrJWlRkw==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "div_X1705_Y0_W177_H36",
+            "human_readable": "div_1705_0_177_36_div_fffffffffffffffffffff7e71861082008200821dff3ffffffffffffffffffff_6cec4fcce93a91b577e9ff0854a7940e",
+            "img_hash": "27fcf76f929ddbc0a5e27810800cc2b6",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-desktop-usermenu d-sm-h d-md-flx flx-dir-md-r",
+                        "data-pre": "DesktopUserMenu"
+                    },
+                    "backend_node_id": 4398,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1705_0_177_36_Help | Join Us | Sign In",
+                    "tagName": "div",
+                    "text": "Help | Join Us | Sign In",
+                    "width": 177.0,
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 1705.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 177.0
+                },
+                "tag_name": "div",
+                "text": "Help | Join Us | Sign In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Help | Join Us | Sign In",
+            "text_hash": "6cec4fcce93a91b577e9ff0854a7940e",
+            "transformed": true,
+            "width": 177,
+            "x": 1705,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/span_X1751_Y10_W3_H16.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "1ROKlaNK1fKziXq+u4l+cQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X1751_Y10_W3_H16",
+            "human_readable": "span_1751_10_3_16_span_ffff003f001f001f001f001f001f001f001f001f001f001f001ff07fffffffff_6e4c7c8a2adc3c3ad25f4d3833e1a80c",
+            "img_hash": "07919cfd00e062a44952e879ea62c63d",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-help-separator ml1-sm mr1-sm body-4"
+                    },
+                    "backend_node_id": 4439,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "1751_10_3_16_|",
+                    "tagName": "span",
+                    "text": "|",
+                    "width": 3.0,
+                    "x": 1751.0,
+                    "y": 10.0
+                },
+                "location": {
+                    "x": 1751.0,
+                    "y": 10.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 3.0
+                },
+                "tag_name": "span",
+                "text": "|"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "|",
+            "text_hash": "6e4c7c8a2adc3c3ad25f4d3833e1a80c",
+            "transformed": true,
+            "width": 3,
+            "x": 1751,
+            "y": 10
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/span_X1766_Y10_W42_H16.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ArXyGro2fxjTMp0VJbyHhw==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X1766_Y10_W42_H16",
+            "human_readable": "span_1766_10_42_16_span_ffffffffffffbbd7bfd7a0d1805090519050105400402040ffffffffffffffff_5625c59a8a524c13d22ea00c5f626cf6",
+            "img_hash": "3d47670f95f472300e49fc01fceda9a7",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 4482,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "1766_10_42_16_Join Us",
+                    "tagName": "span",
+                    "text": "Join Us",
+                    "width": 42.0,
+                    "x": 1766.0,
+                    "y": 10.0
+                },
+                "location": {
+                    "x": 1766.0,
+                    "y": 10.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 42.0
+                },
+                "tag_name": "span",
+                "text": "Join Us"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Join Us",
+            "text_hash": "5625c59a8a524c13d22ea00c5f626cf6",
+            "transformed": true,
+            "width": 42,
+            "x": 1766,
+            "y": 10
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/a_X1766_Y1_W42_H34.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "kmioeXCLzmiohbX61joB8g==\n",
+            "height": 34,
+            "hier_level": 0,
+            "human_hash": "a_X1766_Y1_W42_H34",
+            "human_readable": "a_1766_1_42_34_a_ffffffffffffffffffffbbd780d0805010400040ffffffffffffffffffffffff_5625c59a8a524c13d22ea00c5f626cf6",
+            "img_hash": "9ef6cc1c519e04ccb24d93e15e32c32f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm",
+                        "data-path": "join us",
+                        "data-pre": "ILink",
+                        "data-type": "click_navMembership",
+                        "href": "https://www.nike.com/membership"
+                    },
+                    "backend_node_id": 4481,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 34.0,
+                    "key": "1766_1_42_34_Join Us",
+                    "tagName": "a",
+                    "text": "Join Us",
+                    "width": 42.0,
+                    "x": 1766.0,
+                    "y": 1.0
+                },
+                "location": {
+                    "x": 1766.0,
+                    "y": 1.0
+                },
+                "size": {
+                    "height": 34.0,
+                    "width": 42.0
+                },
+                "tag_name": "a",
+                "text": "Join Us"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Join Us",
+            "text_hash": "5625c59a8a524c13d22ea00c5f626cf6",
+            "transformed": true,
+            "width": 42,
+            "x": 1766,
+            "y": 1
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/div_X1758_Y0_W124_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "lNSz/03oXDznSoBcGZ/6DA==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "div_X1758_Y0_W124_H36",
+            "human_readable": "div_1758_0_124_36_div_ffffffffffffffffffffffdf8381818181410181ffefffffffffffffffffffff_e7cf7acc76497bc3bc510495b7e73965",
+            "img_hash": "9b813e19929ba390131a7fe06e19bd99",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-login-btns d-lg-flx flx-ai-lg-c",
+                        "data-pre": "DesktopLoginButtons"
+                    },
+                    "backend_node_id": 4480,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1758_0_124_36_Join Us | Sign In",
+                    "tagName": "div",
+                    "text": "Join Us | Sign In",
+                    "width": 124.0,
+                    "x": 1758.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 1758.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 124.0
+                },
+                "tag_name": "div",
+                "text": "Join Us | Sign In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Join Us | Sign In",
+            "text_hash": "e7cf7acc76497bc3bc510495b7e73965",
+            "transformed": true,
+            "width": 124,
+            "x": 1758,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/span_X1819_Y10_W3_H16.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "Akcp0Xe3I4G+7SFF0zRPKw==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X1819_Y10_W3_H16",
+            "human_readable": "span_1819_10_3_16_span_fffff01ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff81fffffffff_6e4c7c8a2adc3c3ad25f4d3833e1a80c",
+            "img_hash": "4e6dbd2056b57b9ab42888d346a7100a",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "ml1-sm mr1-sm body-4"
+                    },
+                    "backend_node_id": 4484,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "1819_10_3_16_|",
+                    "tagName": "span",
+                    "text": "|",
+                    "width": 3.0,
+                    "x": 1819.0,
+                    "y": 10.0
+                },
+                "location": {
+                    "x": 1819.0,
+                    "y": 10.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 3.0
+                },
+                "tag_name": "span",
+                "text": "|"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "|",
+            "text_hash": "6e4c7c8a2adc3c3ad25f4d3833e1a80c",
+            "transformed": true,
+            "width": 3,
+            "x": 1819,
+            "y": 10
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145617760256/span_X1834_Y10_W38_H15.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "fqt6MOT/WI21z0a0eaAnYQ==\n",
+            "height": 15,
+            "hier_level": 0,
+            "human_hash": "span_X1834_Y10_W38_H15",
+            "human_readable": "span_1834_10_38_15_span_ffffffffffff0ff71ff749312030003084b244324032003208b2fdfff9fffbff_0ffc71968c588734b47b6925f63858c5",
+            "img_hash": "8b75ff8f2017b5c66f04cb58556ecfa2",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "hf_title_signin_membership"
+                    },
+                    "backend_node_id": 4487,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 15.0,
+                    "key": "1834_10_38_15_Sign In",
+                    "tagName": "span",
+                    "text": "Sign In",
+                    "width": 38.0,
+                    "x": 1834.0,
+                    "y": 10.0
+                },
+                "location": {
+                    "x": 1834.0,
+                    "y": 10.0
+                },
+                "size": {
+                    "height": 15.0,
+                    "width": 38.0
+                },
+                "tag_name": "span",
+                "text": "Sign In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Sign In",
+            "text_hash": "0ffc71968c588734b47b6925f63858c5",
+            "transformed": true,
+            "width": 38,
+            "x": 1834,
+            "y": 10
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145517023232/button_X1834_Y1_W38_H34.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "xdkdoObmonTO6PEwwgTkzg==\n",
+            "height": 34,
+            "hier_level": 0,
+            "human_hash": "button_X1834_Y1_W38_H34",
+            "human_readable": "button_1834_1_38_34_button_ffffffffffffffffffff0ff70020003000100030f1fffbffffffffffffffffff_0ffc71968c588734b47b6925f63858c5",
+            "img_hash": "a5aec4fe20df4d23d28a2b77e3e2f67f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "nav-btn p0-sm d-sm-b body-4 u-bold ml2-sm mr2-sm",
+                        "data-path": "sign in",
+                        "data-pre": "ILink",
+                        "data-type": "click_navMembership",
+                        "data-var": "loginBtn"
+                    },
+                    "backend_node_id": 4486,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 34.0,
+                    "key": "1834_1_38_34_Sign In",
+                    "tagName": "button",
+                    "text": "Sign In",
+                    "width": 38.0,
+                    "x": 1834.0,
+                    "y": 1.0
+                },
+                "location": {
+                    "x": 1834.0,
+                    "y": 1.0
+                },
+                "size": {
+                    "height": 34.0,
+                    "width": 38.0
+                },
+                "tag_name": "button",
+                "text": "Sign In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "Sign In",
+            "text_hash": "0ffc71968c588734b47b6925f63858c5",
+            "transformed": true,
+            "width": 38,
+            "x": 1834,
+            "y": 1
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/a_X36_Y36_W84_H68.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "oQ20ISRcyAug6TPyUvuB1w==\n",
+            "height": 68,
+            "hier_level": 0,
+            "human_hash": "a_X36_Y36_W84_H68",
+            "human_readable": "a_36_36_84_68_a_fffffffffffffffffff7ef87cc1fc07fc1ffc7ffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "75d8ed627c03bf4594d962a0c492110e",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Nike Home Page",
+                        "class": "d-sm-b prl2-sm prl3-lg",
+                        "data-brand": "nike",
+                        "data-path": "home",
+                        "data-pre": "ILink",
+                        "data-type": "click_headerLogo",
+                        "href": "https://www.nike.com"
+                    },
+                    "backend_node_id": 4493,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 68.0,
+                    "key": "36_36_84_68_",
+                    "tagName": "a",
+                    "text": "",
+                    "width": 84.0,
+                    "x": 36.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 36.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 68.0,
+                    "width": 84.0
+                },
+                "tag_name": "a",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 84,
+            "x": 36,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145550602240/div_X0_Y36_W1920_H68.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "3SL6hDFHs7zRhbjTMXh8BA==\n",
+            "height": 68,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y36_W1920_H68",
+            "human_readable": "div_0_36_1920_68_div_fffffffffffffff9fff87c387c387c387ff87ff8fff9fffdffffffff00000000_04fd8cc3503367bbab79cad8e105c83d",
+            "img_hash": "9c2433d6541d276766c537b4ed9619f4",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-wrapper mauto-sm d-sm-flx"
+                    },
+                    "backend_node_id": 4491,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 68.0,
+                    "key": "0_36_1920_68_New Releases Men Women Kids Sale Gifts",
+                    "tagName": "div",
+                    "text": "New Releases Men Women Kids Sale Gifts",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 68.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "text_hash": "04fd8cc3503367bbab79cad8e105c83d",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "header",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/header_X0_Y36_W1920_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "+NVEcUxAH/0RNsQcFfXamA==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "header_X0_Y36_W1920_H60",
+            "human_readable": "header_0_36_1920_60_header_fffffffffffffff9fff9fff87c387c387c387c387ff8fff9fff9ffffffffffff_04fd8cc3503367bbab79cad8e105c83d",
+            "img_hash": "8d65541ad707d4c8de4fc4b2f2412634",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-header top-stack-context",
+                        "data-pre": "Header"
+                    },
+                    "backend_node_id": 4489,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "0_36_1920_60_New Releases Men Women Kids Sale Gifts",
+                    "tagName": "header",
+                    "text": "New Releases Men Women Kids Sale Gifts",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 1920.0
+                },
+                "tag_name": "header",
+                "text": "New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "header",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "text_hash": "04fd8cc3503367bbab79cad8e105c83d",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/div_X120_Y36_W1678_H68.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "mbUUq3uX9a3xTsks6SVUYg==\n",
+            "height": 68,
+            "hier_level": 0,
+            "human_hash": "div_X120_Y36_W1678_H68",
+            "human_readable": "div_120_36_1678_68_div_fffffffffffcfffcfffcfc3cf81cfc1cfd3cfffcfffcfffcffffffff00000000_04fd8cc3503367bbab79cad8e105c83d",
+            "img_hash": "69a615c277ee265bff70d3007994b578",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-nav-box flx-gro-sm-1"
+                    },
+                    "backend_node_id": 4498,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 68.0,
+                    "key": "120_36_1678_68_New Releases Men Women Kids Sale Gifts",
+                    "tagName": "div",
+                    "text": "New Releases Men Women Kids Sale Gifts",
+                    "width": 1678.0,
+                    "x": 120.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 120.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 68.0,
+                    "width": 1678.0
+                },
+                "tag_name": "div",
+                "text": "New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "text_hash": "04fd8cc3503367bbab79cad8e105c83d",
+            "transformed": true,
+            "width": 1678,
+            "x": 120,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145517023232/a_X742_Y36_W129_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "WqBcpy/GtmEQz1WbqGO0Zg==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X742_Y36_W129_H60",
+            "human_readable": "a_742_36_129_60_a_fffffffffffffffffffffdff800180018001efcbffffffffffffffffffffffff_1ffc81d2d04c20c40f309335ae57270b",
+            "img_hash": "d7b1f417a288675817ea8ffd45c987a4",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-0-0",
+                        "aria-expanded": "false",
+                        "aria-label": "New Releases",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "0,0,-1",
+                        "data-path": "new releases",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/w/new-3n82y",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 4649,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "742_36_129_60_New Releases",
+                    "tagName": "a",
+                    "text": "New Releases",
+                    "width": 129.0,
+                    "x": 742.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 742.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 129.0
+                },
+                "tag_name": "a",
+                "text": "New Releases"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "New Releases",
+            "text_hash": "1ffc81d2d04c20c40f309335ae57270b",
+            "transformed": true,
+            "width": 129,
+            "x": 742,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "ul",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/ul_X340_Y36_W1240_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "FG55PM9b/7bNg15xHK6pPQ==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "ul_X340_Y36_W1240_H60",
+            "human_readable": "ul_340_36_1240_60_ul_ffffffffffffffffffffffbff81ff81ff81ff81fffffffffffffffffffffffff_04fd8cc3503367bbab79cad8e105c83d",
+            "img_hash": "5370bdb3c5698b904b5188aaeb963695",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-desktop-menu",
+                        "data-pre": "DesktopMenu"
+                    },
+                    "backend_node_id": 4647,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "340_36_1240_60_New Releases Men Women Kids Sale Gifts",
+                    "tagName": "ul",
+                    "text": "New Releases Men Women Kids Sale Gifts",
+                    "width": 1240.0,
+                    "x": 340.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 340.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 1240.0
+                },
+                "tag_name": "ul",
+                "text": "New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "ul",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "text_hash": "04fd8cc3503367bbab79cad8e105c83d",
+            "transformed": true,
+            "width": 1240,
+            "x": 340,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145617760256/div_X0_Y36_W1920_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "VSTq2x6RQ6aDMTzq51X0gw==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y36_W1920_H60",
+            "human_readable": "div_0_36_1920_60_div_fffffffffffffff9fff9fff87c387c387c387c387ff8fff9fff9ffffffffffff_04fd8cc3503367bbab79cad8e105c83d",
+            "img_hash": "8d65541ad707d4c8de4fc4b2f2412634",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-desktop-menu d-sm-h d-lg-b ta-sm-l ta-lg-c"
+                    },
+                    "backend_node_id": 4646,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "0_36_1920_60_New Releases Men Women Kids Sale Gifts",
+                    "tagName": "div",
+                    "text": "New Releases Men Women Kids Sale Gifts",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "New Releases Men Women Kids Sale Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "text_hash": "04fd8cc3503367bbab79cad8e105c83d",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/a_X870_Y36_W56_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "I35U/wTf7PvZtuRCoLb/lg==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X870_Y36_W56_H60",
+            "human_readable": "a_870_36_56_60_a_fffffffffffffffffffff4ffe40fe007e007ff3fffffffffffffffffffffffff_4cfd213d82c3360d355f819a111d11d0",
+            "img_hash": "0c6bd9bdfba10b65edc237e880c7adfa",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-1-0",
+                        "aria-expanded": "false",
+                        "aria-label": "Men",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "1,0,-1",
+                        "data-path": "men",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/men",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 4716,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "870_36_56_60_Men",
+                    "tagName": "a",
+                    "text": "Men",
+                    "width": 56.0,
+                    "x": 870.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 870.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 56.0
+                },
+                "tag_name": "a",
+                "text": "Men"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Men",
+            "text_hash": "4cfd213d82c3360d355f819a111d11d0",
+            "transformed": true,
+            "width": 56,
+            "x": 870,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/a_X927_Y36_W80_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "83ZZpBrpjiulQL28EYllTQ==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X927_Y36_W80_H60",
+            "human_readable": "a_927_36_80_60_a_ffffffffffffffffffffd7ffc003c003c003fdcfffffffffffffffffffffffff_f84743d892286b675f691d0613041893",
+            "img_hash": "387b05555e682fd33d06e866d869b42b",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-2-0",
+                        "aria-expanded": "false",
+                        "aria-label": "Women",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "2,0,-1",
+                        "data-path": "women",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/women",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 4865,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "927_36_80_60_Women",
+                    "tagName": "a",
+                    "text": "Women",
+                    "width": 80.0,
+                    "x": 927.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 927.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 80.0
+                },
+                "tag_name": "a",
+                "text": "Women"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Women",
+            "text_hash": "f84743d892286b675f691d0613041893",
+            "transformed": true,
+            "width": 80,
+            "x": 927,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/a_X1007_Y36_W57_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "Ho+07TNfPSFN0WrhUm7RRw==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X1007_Y36_W57_H60",
+            "human_readable": "a_1007_36_57_60_a_ffffffffffffffffffffe9bfe00fe007e007fd0fffffffffffffffffffffffff_d5f22cecb775ab8d8a97c9cef4762d2a",
+            "img_hash": "7a547ff8000af2c02705702d69a7bcc6",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-3-0",
+                        "aria-expanded": "false",
+                        "aria-label": "Kids",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "3,0,-1",
+                        "data-path": "kids",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/kids",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 5010,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "1007_36_57_60_Kids",
+                    "tagName": "a",
+                    "text": "Kids",
+                    "width": 57.0,
+                    "x": 1007.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 1007.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 57.0
+                },
+                "tag_name": "a",
+                "text": "Kids"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Kids",
+            "text_hash": "d5f22cecb775ab8d8a97c9cef4762d2a",
+            "transformed": true,
+            "width": 57,
+            "x": 1007,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/a_X1064_Y36_W56_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "E+os0C2SV7u9HnpznxDmrA==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X1064_Y36_W56_H60",
+            "human_readable": "a_1064_36_56_60_a_fffffffffffffffffffff3bfe00fe007e007f26fffffffffffffffffffffffff_030911dad5cf7d45766d062f328e7d49",
+            "img_hash": "b6c00f7ec7af3de381af7eba44c15829",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-4-0",
+                        "aria-expanded": "false",
+                        "aria-label": "Sale",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "4,0,-1",
+                        "data-path": "clearance",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/w/sale-3yaep",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 5167,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "1064_36_56_60_Sale",
+                    "tagName": "a",
+                    "text": "Sale",
+                    "width": 56.0,
+                    "x": 1064.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 1064.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 56.0
+                },
+                "tag_name": "a",
+                "text": "Sale"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Sale",
+            "text_hash": "030911dad5cf7d45766d062f328e7d49",
+            "transformed": true,
+            "width": 56,
+            "x": 1064,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145550602240/a_X1120_Y36_W59_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ZoM7fiFcN0zq6+3oHRxoqw==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "a_X1120_Y36_W59_H60",
+            "human_readable": "a_1120_36_59_60_a_fffffffffffffffffffff37fe007e007e007f28fffffffffffffffffffffffff_b6e50553cab0fbe9f738a8def7a4491d",
+            "img_hash": "0d5b7530cd0bb0d4586b02935fae682d",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "DesktopMenu-0-5-0",
+                        "aria-expanded": "false",
+                        "aria-label": "Gifts",
+                        "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                        "data-nav": "5,0,-1",
+                        "data-path": "gifts",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShoppingMenu",
+                        "href": "https://www.nike.com/gifting",
+                        "role": "menu"
+                    },
+                    "backend_node_id": 5206,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "1120_36_59_60_Gifts",
+                    "tagName": "a",
+                    "text": "Gifts",
+                    "width": 59.0,
+                    "x": 1120.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 1120.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 59.0
+                },
+                "tag_name": "a",
+                "text": "Gifts"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Gifts",
+            "text_hash": "b6e50553cab0fbe9f738a8def7a4491d",
+            "transformed": true,
+            "width": 59,
+            "x": 1120,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "input",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/input_X1598_Y46_W180_H40.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "/5Y/JORsFTkhb0FsFCFwCQ==\n",
+            "height": 40,
+            "hier_level": 0,
+            "human_hash": "input_X1598_Y46_W180_H40",
+            "human_readable": "input_1598_46_180_40_input_ffffffffffffffff9fff1fff137f107f107f107f907f8fffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "faa764f1f068ed72f20d6cf0ea50c64f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-controls": "VisualSearchSuggestionsList",
+                        "aria-expanded": "false",
+                        "aria-label": "Search Products",
+                        "aria-owns": "VisualSearchSuggestionsList",
+                        "autocomplete": "off",
+                        "class": "pre-search-input headline-5",
+                        "data-var": "vsInput",
+                        "id": "VisualSearchInput",
+                        "name": "search",
+                        "placeholder": "Search",
+                        "role": "combobox",
+                        "tabindex": "0",
+                        "type": "text"
+                    },
+                    "backend_node_id": 5326,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 40.0,
+                    "key": "1598_46_180_40_",
+                    "tagName": "input",
+                    "text": "",
+                    "width": 180.0,
+                    "x": 1598.0,
+                    "y": 46.0
+                },
+                "location": {
+                    "x": 1598.0,
+                    "y": 46.0
+                },
+                "size": {
+                    "height": 40.0,
+                    "width": 180.0
+                },
+                "tag_name": "input",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "input",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 180,
+            "x": 1598,
+            "y": 46
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145517023232/div_X136_Y36_W1642_H266.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "K+mP0pzQ4ZMuH6WuM6QU8A==\n",
+            "height": 266,
+            "hier_level": 0,
+            "human_hash": "div_X136_Y36_W1642_H266",
+            "human_readable": "div_136_36_1642_266_div_fffffc3ffffffffffc3ffffffffffffffffffffff80fffffffff000000000000_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "5153b103cfcecc8e13b667791c5684a0",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-search-box"
+                    },
+                    "backend_node_id": 5322,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 266.0,
+                    "key": "136_36_1642_266_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 1642.0,
+                    "x": 136.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 136.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 266.0,
+                    "width": 1642.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 1642,
+            "x": 136,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/div_X120_Y36_W1678_H60.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "jMn+U0qmEcnpODtxlRBXPQ==\n",
+            "height": 60,
+            "hier_level": 0,
+            "human_hash": "div_X120_Y36_W1678_H60",
+            "human_readable": "div_120_36_1678_60_div_fffffffffffffffcfffcffbcf81cf81cf81cfc3cfffcfffcfffcffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "9c712146179168bba561992eb4834f26",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-l-search",
+                        "data-pre": "VisualSearch"
+                    },
+                    "backend_node_id": 5321,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 60.0,
+                    "key": "120_36_1678_60_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 1678.0,
+                    "x": 120.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 120.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 60.0,
+                    "width": 1678.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 1678,
+            "x": 120,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/button_X1600_Y48_W40_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "Na6lULCLABdsZQY5AelmUg==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "button_X1600_Y48_W40_H36",
+            "human_readable": "button_1600_48_40_36_button_fffffffffffffc7ff83ff39ff3cfe7cff7cff39ff81ffc4fffefffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "10b5d76ee28708033624193c13e12026",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Open Search Modal",
+                        "class": "pre-search-btn ripple",
+                        "data-search-closed-label": "Search",
+                        "data-search-open-label": "Open Search Modal",
+                        "data-var": "vsButton"
+                    },
+                    "backend_node_id": 3940,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1600_48_40_36_",
+                    "tagName": "button",
+                    "text": "",
+                    "width": 40.0,
+                    "x": 1600.0,
+                    "y": 48.0
+                },
+                "location": {
+                    "x": 1600.0,
+                    "y": 48.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 40.0
+                },
+                "tag_name": "button",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 40,
+            "x": 1600,
+            "y": 48
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/a_X1798_Y48_W36_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "mYbXZKJwF3gCvmXoWz9Gbw==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "a_X1798_Y48_W36_H36",
+            "human_readable": "a_1798_48_36_36_a_fffffffffffff99fe007e667eff7e7e7e7e7f3cff99ffc3ffe7fffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "d14b0fffb1e93b9214288ca33f61ae7c",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Favorites",
+                        "class": "pre-btn-header ripple mr3-sm d-sm-h d-lg-ib",
+                        "data-path": "favorites",
+                        "data-pre": "ILink",
+                        "data-type": "click_navShortcut",
+                        "data-var": "favoritesLink",
+                        "href": "https://www.nike.com/favorites",
+                        "title": "Favorites"
+                    },
+                    "backend_node_id": 3938,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1798_48_36_36_",
+                    "tagName": "a",
+                    "text": "",
+                    "width": 36.0,
+                    "x": 1798.0,
+                    "y": 48.0
+                },
+                "location": {
+                    "x": 1798.0,
+                    "y": 48.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 36.0
+                },
+                "tag_name": "a",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 36,
+            "x": 1798,
+            "y": 48
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/div_X1798_Y36_W84_H68.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "tuCXhl+WceZfxc57RROf5A==\n",
+            "height": 68,
+            "hier_level": 0,
+            "human_hash": "div_X1798_Y36_W84_H68",
+            "human_readable": "div_1798_36_84_68_div_ffffffffffffffffc7e383c1bbc993c9c7c9efc1ffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "5c39c9a719ced6c79921b4bf87151bd4",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "pre-acct-btn-group pt2-sm pt3-lg d-sm-ib ta-sm-r flx-gro-sm-1 flx-gro-lg-0",
+                        "data-pre": "HeaderButtonGroup"
+                    },
+                    "backend_node_id": 5368,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 68.0,
+                    "key": "1798_36_84_68_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 84.0,
+                    "x": 1798.0,
+                    "y": 36.0
+                },
+                "location": {
+                    "x": 1798.0,
+                    "y": 36.0
+                },
+                "size": {
+                    "height": 68.0,
+                    "width": 84.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 84,
+            "x": 1798,
+            "y": 36
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/div_X1852_Y54_W24_H24.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "nylSOmX9Vd6L+T6pPtG5xg==\n",
+            "height": 24,
+            "hier_level": 0,
+            "human_hash": "div_X1852_Y54_W24_H24",
+            "human_readable": "div_1852_54_24_24_div_fc3ff81ffbdfc00380019ff99ff99ff99ff99ff99ff99ff99ff99ff98001e007_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "6ad120ef6b33fd8389014a2945c585bd",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": ""
+                    },
+                    "backend_node_id": 5374,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 24.0,
+                    "key": "1852_54_24_24_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 24.0,
+                    "x": 1852.0,
+                    "y": 54.0
+                },
+                "location": {
+                    "x": 1852.0,
+                    "y": 54.0
+                },
+                "size": {
+                    "height": 24.0,
+                    "width": 24.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 24,
+            "x": 1852,
+            "y": 54
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/a_X1846_Y48_W36_H36.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "RNfyccti4jEfTBWFM0BeFQ==\n",
+            "height": 36,
+            "hier_level": 0,
+            "human_hash": "a_X1846_Y48_W36_H36",
+            "human_readable": "a_1846_48_36_36_a_fffffffffffffc3ff00fe007e7e7e7e7e7e7e7e7e7e7e7e7e007ffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "img_hash": "0d0b8cee0905a1edf050b773aaa8f258",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Bag Items: 0",
+                        "class": "icon-btn ripple d-sm-b",
+                        "data-path": "cart",
+                        "data-pre": "ILink",
+                        "data-type": "click_navCart",
+                        "data-var": "anchor",
+                        "href": "https://www.nike.com/cart",
+                        "rel": "nofollow",
+                        "title": "Bag Items: 0"
+                    },
+                    "backend_node_id": 3939,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 36.0,
+                    "key": "1846_48_36_36_",
+                    "tagName": "a",
+                    "text": "",
+                    "width": 36.0,
+                    "x": 1846.0,
+                    "y": 48.0
+                },
+                "location": {
+                    "x": 1846.0,
+                    "y": 48.0
+                },
+                "size": {
+                    "height": 36.0,
+                    "width": 36.0
+                },
+                "tag_name": "a",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "",
+            "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+            "transformed": true,
+            "width": 36,
+            "x": 1846,
+            "y": 48
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145550602240/span_X0_Y106_W1920_H14.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "OCOYjPz3kAUitsXnUlAuWg==\n",
+            "height": 14,
+            "hier_level": 0,
+            "human_hash": "span_X0_Y106_W1920_H14",
+            "human_readable": "span_0_106_1920_14_span_fffffffffc3ffc3ffc3ffc3ffc3ffc3ffc3ffc3ffc3ffc3ffc3ffc3fffffffff_3609330c167abb171278fd97c30fec4a",
+            "img_hash": "6eb464c6b57123a2a7d519bd8503acc5",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "_2vXfoh-O"
+                    },
+                    "backend_node_id": 5405,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 14.0,
+                    "key": "0_106_1920_14_Free Shipping + Returns, Free Membership, Exclusive Products",
+                    "tagName": "span",
+                    "text": "Free Shipping + Returns, Free Membership, Exclusive Products",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 106.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 106.0
+                },
+                "size": {
+                    "height": 14.0,
+                    "width": 1920.0
+                },
+                "tag_name": "span",
+                "text": "Free Shipping + Returns, Free Membership, Exclusive Products"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Free Shipping + Returns, Free Membership, Exclusive Products",
+            "text_hash": "3609330c167abb171278fd97c30fec4a",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 106
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/div_X0_Y106_W1920_H42.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "2hj3taYkUGyP1KqXnfIRNw==\n",
+            "height": 42,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y106_W1920_H42",
+            "human_readable": "div_0_106_1920_42_div_fdfffc3ffc3ffc3ffc3ffffffffffffffffffffffe7ffe7ffe7ffe7fffffffff_285846e7b9050693f2564af7071d1710",
+            "img_hash": "71f9e2b3f4b61ffa39369aec4f8838cb",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "swiper-wrapper"
+                    },
+                    "backend_node_id": 3962,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 42.0,
+                    "key": "0_106_1920_42_Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+                    "tagName": "div",
+                    "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 106.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 106.0
+                },
+                "size": {
+                    "height": 42.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+            "text_hash": "285846e7b9050693f2564af7071d1710",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 106
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145617760256/div_X0_Y96_W1920_H58.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "8TwPR6wVOaZ+oD1aZvmO9w==\n",
+            "height": 58,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y96_W1920_H58",
+            "human_readable": "div_0_96_1920_58_div_fffffffffffffc3ffc3ffc3ffc3ffffffffffffffe7ffe7ffe7fffffffff0000_285846e7b9050693f2564af7071d1710",
+            "img_hash": "504b72231ab4648596ca802be24830ab",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "bannerWrap"
+                    },
+                    "backend_node_id": 5400,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 58.0,
+                    "key": "0_96_1920_58_Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+                    "tagName": "div",
+                    "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 96.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 96.0
+                },
+                "size": {
+                    "height": 58.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+            "text_hash": "285846e7b9050693f2564af7071d1710",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 96
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/a_X934_Y128_W52_H15.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "61GA3FzS6slZOWYbUHeNhA==\n",
+            "height": 15,
+            "hier_level": 0,
+            "human_hash": "a_X934_Y128_W52_H15",
+            "human_readable": "a_934_128_52_15_a_ffffffffffffb75fbf1f89078100810091009100010001000be5ffff0000ffff_95aff225aecf8b893ffc0d738e0835f2",
+            "img_hash": "65b68a400637d064489fa0466abc6520",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "_2trpWJ_I",
+                        "data-analytics-action-id": "830b1617-1046-455c-8d8d-818de91d35cf",
+                        "href": "https://www.nike.com/register"
+                    },
+                    "backend_node_id": 5409,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 15.0,
+                    "key": "934_128_52_15_Join Now",
+                    "tagName": "a",
+                    "text": "Join Now",
+                    "width": 52.0,
+                    "x": 934.0,
+                    "y": 128.0
+                },
+                "location": {
+                    "x": 934.0,
+                    "y": 128.0
+                },
+                "size": {
+                    "height": 15.0,
+                    "width": 52.0
+                },
+                "tag_name": "a",
+                "text": "Join Now"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Join Now",
+            "text_hash": "95aff225aecf8b893ffc0d738e0835f2",
+            "transformed": true,
+            "width": 52,
+            "x": 934,
+            "y": 128
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "p",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/p_X934_Y124_W52_H24.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "lsuaRZIAa7caFkKeqyBafw==\n",
+            "height": 24,
+            "hier_level": 0,
+            "human_hash": "p_X934_Y124_W52_H24",
+            "human_readable": "p_934_124_52_24_p_ffffffffffffffffffffb71f810081000100010009c50000ffffffffffffffff_95aff225aecf8b893ffc0d738e0835f2",
+            "img_hash": "b8d91199c325006d50361a10c12484e5",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5408,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 24.0,
+                    "key": "934_124_52_24_Join Now",
+                    "tagName": "p",
+                    "text": "Join Now",
+                    "width": 52.0,
+                    "x": 934.0,
+                    "y": 124.0
+                },
+                "location": {
+                    "x": 934.0,
+                    "y": 124.0
+                },
+                "size": {
+                    "height": 24.0,
+                    "width": 52.0
+                },
+                "tag_name": "p",
+                "text": "Join Now"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "p",
+            "text": "Join Now",
+            "text_hash": "95aff225aecf8b893ffc0d738e0835f2",
+            "transformed": true,
+            "width": 52,
+            "x": 934,
+            "y": 124
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "h1",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/h1_X64_Y182_W175_H42.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "yIIR9nil7RAERl0c8XAKAQ==\n",
+            "height": 42,
+            "hier_level": 0,
+            "human_hash": "h1_X64_Y182_W175_H42",
+            "human_readable": "h1_64_182_175_42_h1_ffffffffffffffffffff3fff00ff00ff00ff00ff00ff00ffffffffffffffffff_f84743d892286b675f691d0613041893",
+            "img_hash": "b212d7417dab080a30a80e790a96503f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "_1ZsY6zh2"
+                    },
+                    "backend_node_id": 5437,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 42.0,
+                    "key": "64_182_175_42_Women",
+                    "tagName": "h1",
+                    "text": "Women",
+                    "width": 175.0,
+                    "x": 64.0,
+                    "y": 182.0
+                },
+                "location": {
+                    "x": 64.0,
+                    "y": 182.0
+                },
+                "size": {
+                    "height": 42.0,
+                    "width": 175.0
+                },
+                "tag_name": "h1",
+                "text": "Women"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "h1",
+            "text": "Women",
+            "text_hash": "f84743d892286b675f691d0613041893",
+            "transformed": true,
+            "width": 175,
+            "x": 64,
+            "y": 182
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "nav",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145550602240/nav_X56_Y154_W1808_H104.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "iSZ4kRmy9YesGiXrj2MVnw==\n",
+            "height": 104,
+            "hier_level": 0,
+            "human_hash": "nav_X56_Y154_W1808_H104",
+            "human_readable": "nav_56_154_1808_104_nav_ffffffffffffffffffffffff7fff700f700ffbbfffffffffffffffffffffffff_c9322719ac8604042369304b72fd3fbf",
+            "img_hash": "cece848cff902ac08d99b54e1c9a421e",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "secondary",
+                        "class": "ncss-container fixed-fluid _1gSEALx7"
+                    },
+                    "backend_node_id": 5436,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 104.0,
+                    "key": "56_154_1808_104_Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "tagName": "nav",
+                    "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "width": 1808.0,
+                    "x": 56.0,
+                    "y": 154.0
+                },
+                "location": {
+                    "x": 56.0,
+                    "y": 154.0
+                },
+                "size": {
+                    "height": 104.0,
+                    "width": 1808.0
+                },
+                "tag_name": "nav",
+                "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "nav",
+            "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+            "text_hash": "c9322719ac8604042369304b72fd3fbf",
+            "transformed": true,
+            "width": 1808,
+            "x": 56,
+            "y": 154
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/div_X0_Y154_W1920_H104.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "yjv0KNFTkFWfwuLeU4MpRQ==\n",
+            "height": 104,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y154_W1920_H104",
+            "human_readable": "div_0_154_1920_104_div_ffffffffffffffffffffffff3fff300f300fff3fffffffffffffffffffffffff_c9322719ac8604042369304b72fd3fbf",
+            "img_hash": "e95a7c7d6dbc4acd9cc95b2c30f668ab",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sticky-inner-wrapper",
+                        "style": "position:relative;top:0px"
+                    },
+                    "backend_node_id": 5435,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 104.0,
+                    "key": "0_154_1920_104_Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "tagName": "div",
+                    "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 154.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 154.0
+                },
+                "size": {
+                    "height": 104.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Women Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+            "text_hash": "c9322719ac8604042369304b72fd3fbf",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 154
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/a_X585_Y192_W46_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "TJgmhn5qMdoymUnzYoV5iQ==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X585_Y192_W46_H27",
+            "human_readable": "a_585_192_46_27_a_ffffffffffffffff9fff07ff436c30008481448400000420ffffffffffffffff_ef5db54fa6a089470cbee22b8138b65c",
+            "img_hash": "10edb56ae14694b489250b51fa28b4f0",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Shoes",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "79bf35df-f99f-4ed2-9996-a972e26ded95",
+                        "href": "https://www.nike.com/w/womens-shoes-5e1x6zy7ok"
+                    },
+                    "backend_node_id": 5442,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "585_192_46_27_Shoes",
+                    "tagName": "a",
+                    "text": "Shoes",
+                    "width": 46.0,
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 46.0
+                },
+                "tag_name": "a",
+                "text": "Shoes"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Shoes",
+            "text_hash": "ef5db54fa6a089470cbee22b8138b65c",
+            "transformed": true,
+            "width": 46,
+            "x": 585,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/li_X585_Y192_W46_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "uq+gkXfNRAqjeA5vtCdRJg==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X585_Y192_W46_H28",
+            "human_readable": "li_585_192_46_28_li_ffffffffffffffff97ff07ff626410008480448400009564ffffffffffffffff_ef5db54fa6a089470cbee22b8138b65c",
+            "img_hash": "3f35f3c36e58350ce823fd8e08575876",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5441,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "585_192_46_28_Shoes",
+                    "tagName": "li",
+                    "text": "Shoes",
+                    "width": 46.0,
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 46.0
+                },
+                "tag_name": "li",
+                "text": "Shoes"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Shoes",
+            "text_hash": "ef5db54fa6a089470cbee22b8138b65c",
+            "transformed": true,
+            "width": 46,
+            "x": 585,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "ul",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/ul_X585_Y192_W750_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "icmJtQs1/IwfCHRYNn0KRQ==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "ul_X585_Y192_W750_H28",
+            "human_readable": "ul_585_192_750_28_ul_fffffffffffffffffffdbab9000000000000000000004c88ffefffffffffffff_8a172cfdecd60791d225d19729a0d2c9",
+            "img_hash": "12911039c8c616c5f764d70a576fddab",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "_AKr_3ox"
+                    },
+                    "backend_node_id": 5440,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "585_192_750_28_Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "tagName": "ul",
+                    "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+                    "width": 750.0,
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 585.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 750.0
+                },
+                "tag_name": "ul",
+                "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "ul",
+            "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+            "text_hash": "8a172cfdecd60791d225d19729a0d2c9",
+            "transformed": true,
+            "width": 750,
+            "x": 585,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145617760256/a_X663_Y192_W62_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X663_Y192_W62_H27",
+            "human_readable": "a_663_192_62_27_a_ffffffffffffffffbfff0e5f482460006000440200008200fffcfffcffffffff_60807e9dca5e5c9c5fe628f15b740208",
+            "img_hash": "1161155edd8212bce3863b4168751904",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Clothing",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "985b591b-c6e3-499c-bcf8-a98f6ca974e6",
+                        "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+                    },
+                    "backend_node_id": 5445,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "663_192_62_27_Clothing",
+                    "tagName": "a",
+                    "text": "Clothing",
+                    "width": 62.0,
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 62.0
+                },
+                "tag_name": "a",
+                "text": "Clothing"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Clothing",
+            "text_hash": "60807e9dca5e5c9c5fe628f15b740208",
+            "transformed": true,
+            "width": 62,
+            "x": 663,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145651339264/li_X663_Y192_W62_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "/Stqg5bjAv+/Ez81yPoeww==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X663_Y192_W62_H28",
+            "human_readable": "li_663_192_62_28_li_ffffffffffffffffbf5f0e5f40246000640044000000b2c8fffcfffdffffffff_60807e9dca5e5c9c5fe628f15b740208",
+            "img_hash": "2ab5bd1c6e15139403ceb4f6b1c9671a",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5444,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "663_192_62_28_Clothing",
+                    "tagName": "li",
+                    "text": "Clothing",
+                    "width": 62.0,
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 663.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 62.0
+                },
+                "tag_name": "li",
+                "text": "Clothing"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Clothing",
+            "text_hash": "60807e9dca5e5c9c5fe628f15b740208",
+            "transformed": true,
+            "width": 62,
+            "x": 663,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/a_X757_Y192_W32_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "Xn+zY+OiSrGPrjmEd2kddA==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X757_Y192_W32_H27",
+            "human_readable": "a_757_192_32_27_a_ffffffffffffffffcfff87cf244908408400700021048410ffffffffffffffff_030911dad5cf7d45766d062f328e7d49",
+            "img_hash": "eff7db42bdc03af82572a5ab01a8431f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Sale",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "f652d1d1-9c11-4775-a810-13fc92433cdd",
+                        "href": "https://www.nike.com/w/womens-sale-3yaepz5e1x6"
+                    },
+                    "backend_node_id": 5448,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "757_192_32_27_Sale",
+                    "tagName": "a",
+                    "text": "Sale",
+                    "width": 32.0,
+                    "x": 757.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 757.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 32.0
+                },
+                "tag_name": "a",
+                "text": "Sale"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Sale",
+            "text_hash": "030911dad5cf7d45766d062f328e7d49",
+            "transformed": true,
+            "width": 32,
+            "x": 757,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145584181248/li_X757_Y192_W32_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "1x+i8gDKwB4n/gbenL1NHA==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X757_Y192_W32_H28",
+            "human_readable": "li_757_192_32_28_li_ffffffffffffffff8fdf07cf34498800c400300000008c19ffffffffffffffff_030911dad5cf7d45766d062f328e7d49",
+            "img_hash": "ad1cf6267f0b543651e991d33ed48ee2",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5447,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "757_192_32_28_Sale",
+                    "tagName": "li",
+                    "text": "Sale",
+                    "width": 32.0,
+                    "x": 757.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 757.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 32.0
+                },
+                "tag_name": "li",
+                "text": "Sale"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Sale",
+            "text_hash": "030911dad5cf7d45766d062f328e7d49",
+            "transformed": true,
+            "width": 32,
+            "x": 757,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145533812736/a_X821_Y192_W154_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "c6g9r4JH2JxrWpt1IcyAbw==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X821_Y192_W154_H27",
+            "human_readable": "a_821_192_154_27_a_ffffffffffffffff7fff2779800000000100110000000100ffffffffffffffff_d0cd65932b83fd33fa9de0197d2be809",
+            "img_hash": "a55c7ce8552b5525e349f3038b67f19f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Find Your Sports Bra",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "4208084c-3c47-4464-8ead-17a29d96af72",
+                        "href": "https://www.nike.com/women/compare-sports-bras"
+                    },
+                    "backend_node_id": 5451,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "821_192_154_27_Find Your Sports Bra",
+                    "tagName": "a",
+                    "text": "Find Your Sports Bra",
+                    "width": 154.0,
+                    "x": 821.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 821.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 154.0
+                },
+                "tag_name": "a",
+                "text": "Find Your Sports Bra"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Find Your Sports Bra",
+            "text_hash": "d0cd65932b83fd33fa9de0197d2be809",
+            "transformed": true,
+            "width": 154,
+            "x": 821,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145517023232/li_X821_Y192_W154_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "sk9Bt4M7LSVF1FgDuj92sA==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X821_Y192_W154_H28",
+            "human_readable": "li_821_192_154_28_li_ffffffffffffffff7f7b677980000000010011000000d900ffffffffffffffff_d0cd65932b83fd33fa9de0197d2be809",
+            "img_hash": "7f576e5b0f120b95b59b1a247846385f",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5450,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "821_192_154_28_Find Your Sports Bra",
+                    "tagName": "li",
+                    "text": "Find Your Sports Bra",
+                    "width": 154.0,
+                    "x": 821.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 821.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 154.0
+                },
+                "tag_name": "li",
+                "text": "Find Your Sports Bra"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Find Your Sports Bra",
+            "text_hash": "d0cd65932b83fd33fa9de0197d2be809",
+            "transformed": true,
+            "width": 154,
+            "x": 821,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145600970752/a_X1007_Y192_W146_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "HENsEQBaR5JtQtwQRkBrpA==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X1007_Y192_W146_H27",
+            "human_readable": "a_1007_192_146_27_a_ffffffffffffffffffff377f144000000000088000000000ffc5ffc5ffffffff_1a204aba7d176c0a14c6f75da8a544af",
+            "img_hash": "82c664fb03dd994d14d82d30aee5137d",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Nike Luxe Leggings",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "c51053c2-3455-4ecb-9d31-fb579870404f",
+                        "href": "https://www.nike.com/women/compare-pants-tights"
+                    },
+                    "backend_node_id": 5454,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "1007_192_146_27_Nike Luxe Leggings",
+                    "tagName": "a",
+                    "text": "Nike Luxe Leggings",
+                    "width": 146.0,
+                    "x": 1007.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 1007.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 146.0
+                },
+                "tag_name": "a",
+                "text": "Nike Luxe Leggings"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Nike Luxe Leggings",
+            "text_hash": "1a204aba7d176c0a14c6f75da8a544af",
+            "transformed": true,
+            "width": 146,
+            "x": 1007,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145634549760/li_X1007_Y192_W146_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "+T+15+QtzjXXz9yzX9VV2g==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X1007_Y192_W146_H28",
+            "human_readable": "li_1007_192_146_28_li_ffffffffffffffffbfff377f000000000000008000008004ffc5ffefffffffff_1a204aba7d176c0a14c6f75da8a544af",
+            "img_hash": "99e7d6e301ea7937be64d57b450a24f6",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5453,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "1007_192_146_28_Nike Luxe Leggings",
+                    "tagName": "li",
+                    "text": "Nike Luxe Leggings",
+                    "width": 146.0,
+                    "x": 1007.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 1007.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 146.0
+                },
+                "tag_name": "li",
+                "text": "Nike Luxe Leggings"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Nike Luxe Leggings",
+            "text_hash": "1a204aba7d176c0a14c6f75da8a544af",
+            "transformed": true,
+            "width": 146,
+            "x": 1007,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145498087424/a_X1184_Y192_W151_H27.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "Cqq7gQkgizn1/3FcMEIauw==\n",
+            "height": 27,
+            "hier_level": 0,
+            "human_hash": "a_X1184_Y192_W151_H27",
+            "human_readable": "a_1184_192_151_27_a_ffffffffffffffff7bff3805000000000000000000000000ffffffffffffffff_0510d0dacb0d4152b318d1012ebc3ed0",
+            "img_hash": "e7991ccfd5f0d7d85268906cb84d49aa",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Shoes $100 & Under",
+                        "class": "JSftBPEZ",
+                        "data-analytics-action-id": "e92dcaec-91c8-41aa-9bea-f34015d3c73a",
+                        "href": "https://www.nike.com/w/womens-100-and-under-shoes-3s37kz5e1x6zy7ok"
+                    },
+                    "backend_node_id": 5457,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 27.0,
+                    "key": "1184_192_151_27_Shoes $100 & Under",
+                    "tagName": "a",
+                    "text": "Shoes $100 & Under",
+                    "width": 151.0,
+                    "x": 1184.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 1184.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 27.0,
+                    "width": 151.0
+                },
+                "tag_name": "a",
+                "text": "Shoes $100 & Under"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Shoes $100 & Under",
+            "text_hash": "0510d0dacb0d4152b318d1012ebc3ed0",
+            "transformed": true,
+            "width": 151,
+            "x": 1184,
+            "y": 192
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "li",
+            "clickable": true,
+            "content-desc": "",
+            "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209234113/tmpZ/123145567391744/li_X1184_Y192_W151_H28.png",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "cgp4vfS5oJMfBqfLtsYuFw==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "li_X1184_Y192_W151_H28",
+            "human_readable": "li_1184_192_151_28_li_ffffffffffffffff7bff3805000000000000000000004140ffffffffffffffff_0510d0dacb0d4152b318d1012ebc3ed0",
+            "img_hash": "5c829bdbfd50d894fee2f41c59ab0fe2",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 5456,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "1184_192_151_28_Shoes $100 & Under",
+                    "tagName": "li",
+                    "text": "Shoes $100 & Under",
+                    "width": 151.0,
+                    "x": 1184.0,
+                    "y": 192.0
+                },
+                "location": {
+                    "x": 1184.0,
+                    "y": 192.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 151.0
+                },
+                "tag_name": "li",
+                "text": "Shoes $100 & Under"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "li",
+            "text": "Shoes $100 & Under",
+            "text_hash": "0510d0dacb0d4152b318d1012ebc3ed0",
+            "transformed": true,
+            "width": 151,
+            "x": 1184,
+            "y": 192
+        }
+    ],
+    "cpu": 0.0,
+    "jank": 0.0,
+    "mem": 0.0,
+    "net": 0.0,
+    "timing": 0.7881011962890625
+}

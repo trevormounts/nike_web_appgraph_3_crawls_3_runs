@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ko94xlK21fwgHZBsgpZHUw==\n",
+    "height": 69,
+    "hier_level": 0,
+    "human_hash": "img_X1248_Y324_W69_H69",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Cyber Teal/Cyber Teal/Black",
+                "class": "bg-medium-grey",
+                "src": "https://static.nike.com/a/images/t_PDP_144_v1/f_auto/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png"
+            },
+            "backend_node_id": 12662,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 69.0,
+            "key": "1248_324_69_69_",
+            "tagName": "img",
+            "text": "",
+            "width": 69.0,
+            "x": 1248.0,
+            "y": 324.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 324.0
+        },
+        "size": {
+            "height": 69.0,
+            "width": 69.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 69,
+    "x": 1248,
+    "y": 324
+}

@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZDm0o1HMsSVnepUORVrlZw==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "button_X52_Y446_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Travel & Shoe Bags",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--button",
+                "data-group-type": "category",
+                "data-ndx": "6",
+                "data-url": "https://www.nike.com/w/kids-travel-shoe-bags-akbu6zv4dh",
+                "role": "link",
+                "type": "button"
+            },
+            "backend_node_id": 11915,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_446_184_32_Travel & Shoe Bags",
+            "tagName": "button",
+            "text": "Travel & Shoe Bags",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "button",
+        "text": "Travel & Shoe Bags"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Travel & Shoe Bags",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 446
+}

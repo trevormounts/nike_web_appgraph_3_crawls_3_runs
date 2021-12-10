@@ -1,0 +1,326 @@
+[
+    {
+        "hash": "fb892e85b05d67c1998c539e120b1a66"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "I35U/wTf7PvZtuRCoLb/lg==\n",
+                "height": 60,
+                "hier_level": 0,
+                "human_hash": "a_X870_Y36_W56_H60",
+                "human_readable": "a_870_36_56_60_a_fffffffffffffffffffff4ffe40fe007e007ff3fffffffffffffffffffffffff_4cfd213d82c3360d355f819a111d11d0",
+                "img_hash": "0c6bd9bdfba10b65edc237e880c7adfa",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-controls": "DesktopMenu-0-1-0",
+                            "aria-expanded": "false",
+                            "aria-label": "Men",
+                            "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                            "data-nav": "1,0,-1",
+                            "data-path": "men",
+                            "data-pre": "ILink",
+                            "data-type": "click_navShoppingMenu",
+                            "href": "https://www.nike.com/men",
+                            "role": "menu"
+                        },
+                        "backend_node_id": 830,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 60.0,
+                        "key": "870_36_56_60_Men",
+                        "tagName": "a",
+                        "text": "Men",
+                        "width": 56.0,
+                        "x": 870.0,
+                        "y": 36.0
+                    },
+                    "location": {
+                        "x": 870.0,
+                        "y": 36.0
+                    },
+                    "size": {
+                        "height": 60.0,
+                        "width": 56.0
+                    },
+                    "tag_name": "a",
+                    "text": "Men"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffffff131f13df3bdf31df31df705f7878783bf038101010100030003",
+                "resource-id": "",
+                "screen_hash": "fb892e85b05d67c1998c539e120b1a66",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Men",
+                "text_hash": "4cfd213d82c3360d355f819a111d11d0",
+                "transformed": true,
+                "width": 56,
+                "x": 870,
+                "y": 36
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI"
+    },
+    {
+        "hash": "c7f533e791cc9532df01159b9c6865cd"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "jyylNvkF18k/ZhSNYK9LqQ==\n",
+                "height": 27,
+                "hier_level": 0,
+                "human_hash": "a_X797_Y192_W46_H27",
+                "human_readable": "a_797_192_46_27_a_ffffffffffffffffbfff07ff436d30008081408400000000ffffffffffffffff_ef5db54fa6a089470cbee22b8138b65c",
+                "img_hash": "2ad53fb388dbdc8d8875eb8478ac18a1",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Shoes",
+                            "class": "JSftBPEZ",
+                            "data-analytics-action-id": "92da0d89-fb8a-482e-b1a7-367d82c7fb90",
+                            "href": "https://www.nike.com/w/mens-shoes-nik1zy7ok"
+                        },
+                        "backend_node_id": 5470,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 27.0,
+                        "key": "797_192_46_27_Shoes",
+                        "tagName": "a",
+                        "text": "Shoes",
+                        "width": 46.0,
+                        "x": 797.0,
+                        "y": 192.0
+                    },
+                    "location": {
+                        "x": 797.0,
+                        "y": 192.0
+                    },
+                    "size": {
+                        "height": 27.0,
+                        "width": 46.0
+                    },
+                    "tag_name": "a",
+                    "text": "Shoes"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffffffffffffffff80b380b181b923b1b3b1b3b1b111c111012101010001",
+                "resource-id": "",
+                "screen_hash": "c7f533e791cc9532df01159b9c6865cd",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Shoes",
+                "text_hash": "ef5db54fa6a089470cbee22b8138b65c",
+                "transformed": true,
+                "width": 46,
+                "x": 797,
+                "y": 192
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY"
+    },
+    {
+        "hash": "b1ef139f393103edc1392f684641a753"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "LEXiMMlfAfjYwo3m2LBzMw==\n",
+                "height": 32,
+                "hier_level": 0,
+                "human_hash": "a_X52_Y240_W184_H32",
+                "human_readable": "a_52_240_184_32_a_ffffffff37ff27ff03ff03ff03ff03ff03ffefffffffffffffffffffffffffff_18e5d1444824e2e2b82741744c4c51c5",
+                "img_hash": "53e7fba69de99c4ece1fbacf76ab814a",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Category for Lifestyle",
+                            "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                            "data-group-type": "category",
+                            "data-ndx": "0",
+                            "href": "https://www.nike.com/w/mens-lifestyle-shoes-13jrmznik1zy7ok"
+                        },
+                        "backend_node_id": 9320,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 32.0,
+                        "key": "52_240_184_32_Lifestyle",
+                        "tagName": "a",
+                        "text": "Lifestyle",
+                        "width": 184.0,
+                        "x": 52.0,
+                        "y": 240.0
+                    },
+                    "location": {
+                        "x": 52.0,
+                        "y": 240.0
+                    },
+                    "size": {
+                        "height": 32.0,
+                        "width": 184.0
+                    },
+                    "tag_name": "a",
+                    "text": "Lifestyle"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "7ffcfc7ffc7f1fffffff7fff7fff7bfb7110f00062013fffffffeeefffffffff",
+                "resource-id": "",
+                "screen_hash": "b1ef139f393103edc1392f684641a753",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Lifestyle",
+                "text_hash": "18e5d1444824e2e2b82741744c4c51c5",
+                "transformed": true,
+                "width": 184,
+                "x": 52,
+                "y": 240
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE"
+    },
+    {
+        "hash": "b8518b99468247157f0713b7ff004022"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "bMdIUV5+Sla0lr+pAU2UUw==\n",
+                "height": 508,
+                "hier_level": 0,
+                "human_hash": "img_X308_Y256_W508_H508",
+                "human_readable": "img_308_256_508_508_img_ffffffffffffffffffffffc3ff83ff03fc03c00180038001e003ffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "2f4f814a7c808572f548f3eccdbad1ea",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "Air Jordan 11 Retro Men's Shoes",
+                            "class": "css-1fxh5tw product-card__hero-image",
+                            "loading": "eager",
+                            "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                            "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png",
+                            "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 400w"
+                        },
+                        "backend_node_id": 12872,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 508.0,
+                        "key": "308_256_508_508_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 508.0,
+                        "x": 308.0,
+                        "y": 256.0
+                    },
+                    "location": {
+                        "x": 308.0,
+                        "y": 256.0
+                    },
+                    "size": {
+                        "height": 508.0,
+                        "width": 508.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffe7fffff1ffffffffffffffff9bf7199e101e02163f1fffffefffeffffff",
+                "resource-id": "",
+                "screen_hash": "b8518b99468247157f0713b7ff004022",
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 508,
+                "x": 308,
+                "y": 256
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY"
+    },
+    {
+        "hash": "95002fd63f3afd56fa52605fac06d896"
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "61GA3FzS6slZOWYbUHeNhA==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "a_X934_Y128_W52_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_2trpWJ_I",
+                "data-analytics-action-id": "830b1617-1046-455c-8d8d-818de91d35cf",
+                "href": "https://www.nike.com/register"
+            },
+            "backend_node_id": 5425,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "934_128_52_15_Join Now",
+            "tagName": "a",
+            "text": "Join Now",
+            "width": 52.0,
+            "x": 934.0,
+            "y": 128.0
+        },
+        "location": {
+            "x": 934.0,
+            "y": 128.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 52.0
+        },
+        "tag_name": "a",
+        "text": "Join Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Join Now",
+    "transformed": true,
+    "width": 52,
+    "x": 934,
+    "y": 128
+}

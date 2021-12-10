@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NgqftByP6psNV4IlOs2okQ==\n",
+    "height": 140,
+    "hier_level": 0,
+    "human_hash": "p_X1248_Y748_W376_H140",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 14324,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 140.0,
+            "key": "1248_748_376_140_The Nike Classic Backpack is the pack you know and love (now with an awesome safari-inspired print). Extra pockets and padded straps add storage and comfort to the large main compartment. It's all the space you need for school and practice gear.",
+            "tagName": "p",
+            "text": "The Nike Classic Backpack is the pack you know and love (now with an awesome safari-inspired print). Extra pockets and padded straps add storage and comfort to the large main compartment. It's all the space you need for school and practice gear.",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 748.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 748.0
+        },
+        "size": {
+            "height": 140.0,
+            "width": 376.0
+        },
+        "tag_name": "p",
+        "text": "The Nike Classic Backpack is the pack you know and love (now with an awesome safari-inspired print). Extra pockets and padded straps add storage and comfort to the large main compartment. It's all the space you need for school and practice gear."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "The Nike Classic Backpack is the pack you know and love (now with an awesome safari-inspired print). Extra pockets and padded straps add storage and comfort to the large main compartment. It's all the space you need for school and practice gear.",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 748
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aZsqBSBjIdseb+WpP0k4dA==\n",
+    "height": 108,
+    "hier_level": 0,
+    "human_hash": "ul_X1248_Y806_W376_H108",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "description-preview__features pt8-sm pb6-sm ncss-list-ul"
+            },
+            "backend_node_id": 15298,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 108.0,
+            "key": "1248_806_376_108_Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+            "tagName": "ul",
+            "text": "Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 806.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 806.0
+        },
+        "size": {
+            "height": 108.0,
+            "width": 376.0
+        },
+        "tag_name": "ul",
+        "text": "Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 806
+}

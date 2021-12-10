@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "K95qvof3sfAK77BXIrDB3A==\n",
+    "height": 542,
+    "hier_level": 0,
+    "human_hash": "img_X296_Y200_W434_H542",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Sportswear Women's Fleece Pullover Hoodie",
+                "class": "css-viwop1 u-full-width u-full-height css-m5dkrx",
+                "data-fade-in": "css-147n82m",
+                "src": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d0877fab-b612-494d-bbf7-3af37deef10f/sportswear-womens-fleece-pullover-hoodie-nbChnV.png",
+                "style": "object-fit: contain;"
+            },
+            "backend_node_id": 13563,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 542.0,
+            "key": "296_200_434_542_",
+            "tagName": "img",
+            "text": "",
+            "width": 434.0,
+            "x": 296.0,
+            "y": 200.0
+        },
+        "location": {
+            "x": 296.0,
+            "y": 200.0
+        },
+        "size": {
+            "height": 542.0,
+            "width": 434.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 434,
+    "x": 296,
+    "y": 200
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "//iI5F0M+O5I2phrJWlRkw==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "div_X1705_Y0_W177_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-usermenu d-sm-h d-md-flx flx-dir-md-r",
+                "data-pre": "DesktopUserMenu"
+            },
+            "backend_node_id": 4414,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "1705_0_177_36_Help | Join Us | Sign In",
+            "tagName": "div",
+            "text": "Help | Join Us | Sign In",
+            "width": 177.0,
+            "x": 1705.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 1705.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 177.0
+        },
+        "tag_name": "div",
+        "text": "Help | Join Us | Sign In"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Help | Join Us | Sign In",
+    "transformed": true,
+    "width": 177,
+    "x": 1705,
+    "y": 0
+}

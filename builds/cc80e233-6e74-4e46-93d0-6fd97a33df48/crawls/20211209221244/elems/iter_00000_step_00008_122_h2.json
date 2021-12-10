@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "nbryqhL0lzk+tiuhLJIhjw==\n",
+    "height": 38,
+    "hier_level": 0,
+    "human_hash": "h2_X774_Y356_W372_H38",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1brtky1 e1n1kzst1"
+            },
+            "backend_node_id": 16436,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 38.0,
+            "key": "774_356_372_38_Error",
+            "tagName": "h2",
+            "text": "Error",
+            "width": 372.0,
+            "x": 774.0,
+            "y": 356.0
+        },
+        "location": {
+            "x": 774.0,
+            "y": 356.0
+        },
+        "size": {
+            "height": 38.0,
+            "width": 372.0
+        },
+        "tag_name": "h2",
+        "text": "Error"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Error",
+    "transformed": true,
+    "width": 372,
+    "x": 774,
+    "y": 356
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "G3X3t6udEBu3XKPbvE9G1Q==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y773_W203_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__messaging accent--color"
+            },
+            "backend_node_id": 12687,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "832_773_203_28_Best Seller",
+            "tagName": "div",
+            "text": "Best Seller",
+            "width": 203.0,
+            "x": 832.0,
+            "y": 773.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 773.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 203.0
+        },
+        "tag_name": "div",
+        "text": "Best Seller"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Best Seller",
+    "transformed": true,
+    "width": 203,
+    "x": 832,
+    "y": 773
+}

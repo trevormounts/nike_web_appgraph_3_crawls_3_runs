@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NxID6NAs3Ap225n8dumLJA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X1091_Y192_W32_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Sale",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "bc372979-d0d8-41c0-9dca-8ce7f4a4d784",
+                "href": "https://www.nike.com/w/mens-sale-3yaepznik1"
+            },
+            "backend_node_id": 5539,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1091_192_32_27_Sale",
+            "tagName": "a",
+            "text": "Sale",
+            "width": 32.0,
+            "x": 1091.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1091.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 32.0
+        },
+        "tag_name": "a",
+        "text": "Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Sale",
+    "transformed": true,
+    "width": 32,
+    "x": 1091,
+    "y": 192
+}

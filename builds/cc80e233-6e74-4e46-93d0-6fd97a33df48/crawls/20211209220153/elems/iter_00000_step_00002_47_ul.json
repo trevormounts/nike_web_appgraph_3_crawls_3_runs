@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "s8NBZizbBCW7hy/EqZ5z1A==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "ul_X797_Y192_W326_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_AKr_3ox"
+            },
+            "backend_node_id": 5528,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "797_192_326_28_Shoes Clothing Accessories Sale",
+            "tagName": "ul",
+            "text": "Shoes Clothing Accessories Sale",
+            "width": 326.0,
+            "x": 797.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 797.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 326.0
+        },
+        "tag_name": "ul",
+        "text": "Shoes Clothing Accessories Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Shoes Clothing Accessories Sale",
+    "transformed": true,
+    "width": 326,
+    "x": 797,
+    "y": 192
+}

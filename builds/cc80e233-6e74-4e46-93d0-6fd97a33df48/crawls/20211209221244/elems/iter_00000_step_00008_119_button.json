@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "e2rGvhLzz31s5+KYiTSNKQ==\n",
+    "height": 61,
+    "hier_level": 0,
+    "human_hash": "button_X1144_Y312_W46_H61",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "modal-close-btn css-1nc5y54 e1jdve9b0 focus-visible",
+                "data-focus-visible-added": "",
+                "type": "button"
+            },
+            "backend_node_id": 16433,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 61.0,
+            "key": "1144_312_46_61_",
+            "tagName": "button",
+            "text": "",
+            "width": 46.0,
+            "x": 1144.0,
+            "y": 312.0
+        },
+        "location": {
+            "x": 1144.0,
+            "y": 312.0
+        },
+        "size": {
+            "height": 61.0,
+            "width": 46.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 46,
+    "x": 1144,
+    "y": 312
+}

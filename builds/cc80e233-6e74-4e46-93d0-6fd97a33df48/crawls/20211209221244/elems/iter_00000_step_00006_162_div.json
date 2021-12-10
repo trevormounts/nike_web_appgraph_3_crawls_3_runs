@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "hi1fA2EfEXsxA8YGzoFeVQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y801_W157_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__title",
+                "id": "Nike Therma-FIT"
+            },
+            "backend_node_id": 12723,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1356_801_157_24_Nike Therma-FIT",
+            "tagName": "div",
+            "text": "Nike Therma-FIT",
+            "width": 157.0,
+            "x": 1356.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 157.0
+        },
+        "tag_name": "div",
+        "text": "Nike Therma-FIT"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Nike Therma-FIT",
+    "transformed": true,
+    "width": 157,
+    "x": 1356,
+    "y": 801
+}

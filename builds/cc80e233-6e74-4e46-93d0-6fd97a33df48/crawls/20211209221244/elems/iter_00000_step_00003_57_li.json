@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "cgp4vfS5oJMfBqfLtsYuFw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X1184_Y192_W151_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5472,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "1184_192_151_28_Shoes $100 & Under",
+            "tagName": "li",
+            "text": "Shoes $100 & Under",
+            "width": 151.0,
+            "x": 1184.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1184.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 151.0
+        },
+        "tag_name": "li",
+        "text": "Shoes $100 & Under"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Shoes $100 & Under",
+    "transformed": true,
+    "width": 151,
+    "x": 1184,
+    "y": 192
+}

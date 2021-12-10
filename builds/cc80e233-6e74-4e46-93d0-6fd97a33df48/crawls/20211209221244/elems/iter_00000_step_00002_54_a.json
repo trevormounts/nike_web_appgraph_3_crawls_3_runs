@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HENsEQBaR5JtQtwQRkBrpA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X1007_Y192_W146_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Nike Luxe Leggings",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "c51053c2-3455-4ecb-9d31-fb579870404f",
+                "href": "https://www.nike.com/women/compare-pants-tights"
+            },
+            "backend_node_id": 5470,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1007_192_146_27_Nike Luxe Leggings",
+            "tagName": "a",
+            "text": "Nike Luxe Leggings",
+            "width": 146.0,
+            "x": 1007.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1007.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 146.0
+        },
+        "tag_name": "a",
+        "text": "Nike Luxe Leggings"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Nike Luxe Leggings",
+    "transformed": true,
+    "width": 146,
+    "x": 1007,
+    "y": 192
+}

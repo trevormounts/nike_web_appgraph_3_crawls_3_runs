@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bMdIUV5+Sla0lr+pAU2UUw==\n",
+    "height": 508,
+    "hier_level": 0,
+    "human_hash": "img_X308_Y256_W508_H508",
+    "human_readable": "img_308_256_508_508_img_ffffffffffffffffffffffc3ff83ff03fc03c00180038001e003ffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Air Jordan 11 Retro Men's Shoes",
+                "class": "css-1fxh5tw product-card__hero-image",
+                "loading": "eager",
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png",
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/9f22c518-cc42-418b-a19b-bb395a8cbbd3/air-jordan-11-retro-mens-shoes-ZNF1qX.png 400w"
+            },
+            "backend_node_id": 12967,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 508.0,
+            "key": "308_256_508_508_",
+            "tagName": "img",
+            "text": "",
+            "width": 508.0,
+            "x": 308.0,
+            "y": 256.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 256.0
+        },
+        "size": {
+            "height": 508.0,
+            "width": 508.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7ae3edc158373a70b1dec4175f3ac5ec",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 508,
+    "x": 308,
+    "y": 256
+}

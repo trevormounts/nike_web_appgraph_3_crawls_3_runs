@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "r1khvX6F/2PKcjZ59TumnA==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y776_W151_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__titles"
+            },
+            "backend_node_id": 10179,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "832_776_151_48_Nike Classic Kids' Backpack (16L)",
+            "tagName": "div",
+            "text": "Nike Classic Kids' Backpack (16L)",
+            "width": 151.0,
+            "x": 832.0,
+            "y": 776.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 776.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 151.0
+        },
+        "tag_name": "div",
+        "text": "Nike Classic Kids' Backpack (16L)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Nike Classic Kids' Backpack (16L)",
+    "transformed": true,
+    "width": 151,
+    "x": 832,
+    "y": 776
+}

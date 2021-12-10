@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "DsDcN1zPsg+Lb0QyTid4ug==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y825_W236_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 12696,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "832_825_236_24_Women's Fleece Pullover Hoodie",
+            "tagName": "div",
+            "text": "Women's Fleece Pullover Hoodie",
+            "width": 236.0,
+            "x": 832.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 236.0
+        },
+        "tag_name": "div",
+        "text": "Women's Fleece Pullover Hoodie"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Women's Fleece Pullover Hoodie",
+    "transformed": true,
+    "width": 236,
+    "x": 832,
+    "y": 825
+}

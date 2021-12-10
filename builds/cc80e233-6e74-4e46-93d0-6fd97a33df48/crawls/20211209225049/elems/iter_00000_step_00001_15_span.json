@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fqt6MOT/WI21z0a0eaAnYQ==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "span_X1834_Y10_W38_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "hf_title_signin_membership"
+            },
+            "backend_node_id": 596,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1834_10_38_15_Sign In",
+            "tagName": "span",
+            "text": "Sign In",
+            "width": 38.0,
+            "x": 1834.0,
+            "y": 10.0
+        },
+        "location": {
+            "x": 1834.0,
+            "y": 10.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 38.0
+        },
+        "tag_name": "span",
+        "text": "Sign In"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Sign In",
+    "transformed": true,
+    "width": 38,
+    "x": 1834,
+    "y": 10
+}

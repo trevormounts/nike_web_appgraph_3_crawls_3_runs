@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0RQjfITiRVEvlJq8HpNjSg==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "p_X1275_Y678_W322_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 15159,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "1275_678_322_40_4 interest-free payments of $18.75 with  Klarna .  Learn more",
+            "tagName": "p",
+            "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more",
+            "width": 322.0,
+            "x": 1275.0,
+            "y": 678.0
+        },
+        "location": {
+            "x": 1275.0,
+            "y": 678.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 322.0
+        },
+        "tag_name": "p",
+        "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more",
+    "transformed": true,
+    "width": 322,
+    "x": 1275,
+    "y": 678
+}

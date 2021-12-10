@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u1f6hsY08UX75nUwcBZwpQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X72_Y734_W108_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            },
+            "backend_node_id": 9306,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "72_734_108_24_Training & Gym",
+            "tagName": "span",
+            "text": "Training & Gym",
+            "width": 108.0,
+            "x": 72.0,
+            "y": 734.0
+        },
+        "location": {
+            "x": 72.0,
+            "y": 734.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 108.0
+        },
+        "tag_name": "span",
+        "text": "Training & Gym"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Training & Gym",
+    "transformed": true,
+    "width": 108,
+    "x": 72,
+    "y": 734
+}

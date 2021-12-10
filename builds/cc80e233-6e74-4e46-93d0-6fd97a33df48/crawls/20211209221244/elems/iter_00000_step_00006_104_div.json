@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ilK7hkT1qaoVbFOxyALq5w==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y633_W175_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trigger-content__label"
+            },
+            "backend_node_id": 9286,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "48_633_175_24_Sports & Activities",
+            "tagName": "div",
+            "text": "Sports & Activities",
+            "width": 175.0,
+            "x": 48.0,
+            "y": 633.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 633.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 175.0
+        },
+        "tag_name": "div",
+        "text": "Sports & Activities"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Sports & Activities",
+    "transformed": true,
+    "width": 175,
+    "x": 48,
+    "y": 633
+}

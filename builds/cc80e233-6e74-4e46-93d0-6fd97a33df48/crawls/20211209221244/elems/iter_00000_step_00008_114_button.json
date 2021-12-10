@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "D7iSTaDw6mmf6o2oNRR6hA==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "button_X1424_Y699_W82_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link",
+                "onclick": "kmerchant.openHostedInterstitial({ url: 'https://na-assets.klarnaservices.com/learn-more/index.html?showButtons=true&showBackground=false#eyJ0aWVySWQiOjQ0ODc1LCJsYW5ndWFnZSI6IkVOIiwiY291bnRyeSI6IlVTIiwicHVyY2hhc2VBbW91bnQiOjc1MDAsImlzVGhyZXNob2xkIjpmYWxzZSwicGF5bWVudE1ldGhvZElkIjo5LCJ0cmFja2VyUGFyYW1ldGVycyI6eyJhIjoiZDY1OGY1ZjUtYWVmZi0zMjU1LTk5YWYtMTdjM2QyMTEwNzEyIiwiYiI6IjFvVU1FUGtUTjNyVVJXT0hvbjk0cyIsImYiOiI2IiwiaCI6IkVOIiwiaSI6IlVTIiwiaiI6Ijc4YzYwYWExLTU4Y2MtNDIzMi05N2YzLWM3MjM2OTE3NjUzOCIsImsiOiJlYjRmNzU1Ni01ZTM0LTQzNjUtYjZkYS0xNzBlNTZmODE3YTIiLCJsIjoiMTIxMyIsIm4iOiJ3d3cubmlrZS5jb20iLCJzIjoiMTAwNCIsImQiOiJjcmVkaXQtcHJvbW90aW9uLXN0YW5kYXJkIiwiZyI6IjQ3ODlmZjY4LWQ2MDItNWQ3ZC1iMTk4LWI3ZDEzYzMwYWE1MCIsImFhIjo3NTAwfSwidGllckhhc2giOiI2ZTM0YjFhZDY2YWE0NWYzYzVlNWI3OTc4ZDBiNGQyOTBhMWIzZjRjMWI4MTI3MDg0MjM2MmQxYTBhNGNkMmMwIn0=' }, arguments, undefined, this)"
+            },
+            "backend_node_id": 15164,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "1424_699_82_18_Learn more",
+            "tagName": "button",
+            "text": "Learn more",
+            "width": 82.0,
+            "x": 1424.0,
+            "y": 699.0
+        },
+        "location": {
+            "x": 1424.0,
+            "y": 699.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 82.0
+        },
+        "tag_name": "button",
+        "text": "Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Learn more",
+    "transformed": true,
+    "width": 82,
+    "x": 1424,
+    "y": 699
+}

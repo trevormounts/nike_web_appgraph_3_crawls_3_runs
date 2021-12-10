@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jPmJbwuedDIpk+wIle5W6Q==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y852_W52_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Available in 1 Color",
+                "class": "product-card__product-count"
+            },
+            "backend_node_id": 12981,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "308_852_52_24_1 Color",
+            "tagName": "div",
+            "text": "1 Color",
+            "width": 52.0,
+            "x": 308.0,
+            "y": 852.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 852.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 52.0
+        },
+        "tag_name": "div",
+        "text": "1 Color"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "1 Color",
+    "transformed": true,
+    "width": 52,
+    "x": 308,
+    "y": 852
+}

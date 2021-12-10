@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jzU6Zp+RFt7GyeNNjN4PzQ==\n",
+    "height": 19,
+    "hier_level": 0,
+    "human_hash": "span_X707_Y196_W46_H19",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-haspopup": "true",
+                "class": "headline-5",
+                "role": "button",
+                "tabindex": "0"
+            },
+            "backend_node_id": 5573,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 19.0,
+            "key": "707_196_46_19_Shoes",
+            "tagName": "span",
+            "text": "Shoes",
+            "width": 46.0,
+            "x": 707.0,
+            "y": 196.0
+        },
+        "location": {
+            "x": 707.0,
+            "y": 196.0
+        },
+        "size": {
+            "height": 19.0,
+            "width": 46.0
+        },
+        "tag_name": "span",
+        "text": "Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Shoes",
+    "transformed": true,
+    "width": 46,
+    "x": 707,
+    "y": 196
+}

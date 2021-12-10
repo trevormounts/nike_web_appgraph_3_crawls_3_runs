@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/L/aRZgybcbZT6xtdQmQWw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X72_Y903_W71_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            },
+            "backend_node_id": 9650,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "72_903_71_24_Oversized",
+            "tagName": "span",
+            "text": "Oversized",
+            "width": 71.0,
+            "x": 72.0,
+            "y": 903.0
+        },
+        "location": {
+            "x": 72.0,
+            "y": 903.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 71.0
+        },
+        "tag_name": "span",
+        "text": "Oversized"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Oversized",
+    "transformed": true,
+    "width": 71,
+    "x": 72,
+    "y": 903
+}

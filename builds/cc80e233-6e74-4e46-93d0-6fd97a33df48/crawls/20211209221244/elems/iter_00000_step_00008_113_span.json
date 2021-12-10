@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jId9vIAyd34ibQBFEdH7LQ==\n",
+    "height": 19,
+    "hier_level": 0,
+    "human_hash": "span_X1366_Y698_W49_H19",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "logo"
+            },
+            "backend_node_id": 15161,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 19.0,
+            "key": "1366_698_49_19_Klarna",
+            "tagName": "span",
+            "text": "Klarna",
+            "width": 49.0,
+            "x": 1366.0,
+            "y": 698.0
+        },
+        "location": {
+            "x": 1366.0,
+            "y": 698.0
+        },
+        "size": {
+            "height": 19.0,
+            "width": 49.0
+        },
+        "tag_name": "span",
+        "text": "Klarna"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Klarna",
+    "transformed": true,
+    "width": 49,
+    "x": 1366,
+    "y": 698
+}

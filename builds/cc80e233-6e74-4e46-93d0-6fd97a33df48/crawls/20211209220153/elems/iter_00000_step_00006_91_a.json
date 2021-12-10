@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "7C66YZg7tIsr/qN3inkxvw==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y572_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Tennis",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "10",
+                "href": "https://www.nike.com/w/mens-tennis-shoes-ed1qznik1zy7ok"
+            },
+            "backend_node_id": 9399,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_572_184_32_Tennis",
+            "tagName": "a",
+            "text": "Tennis",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 572.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 572.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Tennis"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Tennis",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 572
+}

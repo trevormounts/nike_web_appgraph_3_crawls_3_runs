@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "i719S4ZQXeY6y9gocfPjsA==\n",
+    "height": 52,
+    "hier_level": 0,
+    "human_hash": "div_X44_Y769_W196_H52",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Kids",
+                "class": "filter-group__items-group",
+                "id": "wallNavFG1",
+                "role": "group"
+            },
+            "backend_node_id": 9724,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 52.0,
+            "key": "44_769_196_52_Boys  Girls",
+            "tagName": "div",
+            "text": "Boys  Girls",
+            "width": 196.0,
+            "x": 44.0,
+            "y": 769.0
+        },
+        "location": {
+            "x": 44.0,
+            "y": 769.0
+        },
+        "size": {
+            "height": 52.0,
+            "width": 196.0
+        },
+        "tag_name": "div",
+        "text": "Boys  Girls"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Boys  Girls",
+    "transformed": true,
+    "width": 196,
+    "x": 44,
+    "y": 769
+}

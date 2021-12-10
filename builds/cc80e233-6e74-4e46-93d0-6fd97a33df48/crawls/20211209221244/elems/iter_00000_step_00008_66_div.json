@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZZFTfLFSSTCIrXWbv2FMiw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X1248_Y284_W368_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-price__wrapper css-1ae18be"
+            },
+            "backend_node_id": 15101,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1248_284_368_24_$75",
+            "tagName": "div",
+            "text": "$75",
+            "width": 368.0,
+            "x": 1248.0,
+            "y": 284.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 284.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 368.0
+        },
+        "tag_name": "div",
+        "text": "$75"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "$75",
+    "transformed": true,
+    "width": 368,
+    "x": 1248,
+    "y": 284
+}

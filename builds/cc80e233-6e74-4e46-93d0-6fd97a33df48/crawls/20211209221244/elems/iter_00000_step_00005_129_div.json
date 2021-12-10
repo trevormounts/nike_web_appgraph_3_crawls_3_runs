@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "hA3M0/Doih+MgcALKPk4cA==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y870_W508_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__price"
+            },
+            "backend_node_id": 10447,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "1356_870_508_28_$50",
+            "tagName": "div",
+            "text": "$50",
+            "width": 508.0,
+            "x": 1356.0,
+            "y": 870.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 870.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 508.0
+        },
+        "tag_name": "div",
+        "text": "$50"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "$50",
+    "transformed": true,
+    "width": 508,
+    "x": 1356,
+    "y": 870
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IVPxPSywLKN3XtzJnwnASQ==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y809_W336_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 10418,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "832_809_336_24_Women's Oversized Woven Joggers (Plus Size)",
+            "tagName": "div",
+            "text": "Women's Oversized Woven Joggers (Plus Size)",
+            "width": 336.0,
+            "x": 832.0,
+            "y": 809.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 809.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 336.0
+        },
+        "tag_name": "div",
+        "text": "Women's Oversized Woven Joggers (Plus Size)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Women's Oversized Woven Joggers (Plus Size)",
+    "transformed": true,
+    "width": 336,
+    "x": 832,
+    "y": 809
+}

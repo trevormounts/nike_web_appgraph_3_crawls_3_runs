@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LZ0ibY3ojtIDFAC9G8qr2Q==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "a_X1545_Y504_W79_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "text-color-secondary pr0-sm d-sm-ib sizeGuide css-1i84jnn",
+                "href": "https://www.nike.com/size-fit/womens-tops-alpha",
+                "rel": "noopener noreferrer",
+                "target": "_blank"
+            },
+            "backend_node_id": 15121,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1545_504_79_24_Size Guide",
+            "tagName": "a",
+            "text": "Size Guide",
+            "width": 79.0,
+            "x": 1545.0,
+            "y": 504.0
+        },
+        "location": {
+            "x": 1545.0,
+            "y": 504.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 79.0
+        },
+        "tag_name": "a",
+        "text": "Size Guide"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Size Guide",
+    "transformed": true,
+    "width": 79,
+    "x": 1545,
+    "y": 504
+}

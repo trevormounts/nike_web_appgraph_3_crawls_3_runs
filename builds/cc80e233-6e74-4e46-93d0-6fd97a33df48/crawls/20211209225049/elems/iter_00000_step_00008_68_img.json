@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Qh1SZjUIjqk/xuAWExOdSw==\n",
+    "height": 542,
+    "hier_level": 0,
+    "human_hash": "img_X742_Y200_W434_H542",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Classic Kids' Backpack (16L)",
+                "class": "css-viwop1 u-full-width u-full-height css-147n82m",
+                "data-fade-in": "css-147n82m",
+                "src": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/68c03e77-989f-487a-bda2-3a3b288ae9aa/classic-kids-backpack-16l-Bb8P5P.png",
+                "style": "object-fit: contain;"
+            },
+            "backend_node_id": 12737,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 542.0,
+            "key": "742_200_434_542_",
+            "tagName": "img",
+            "text": "",
+            "width": 434.0,
+            "x": 742.0,
+            "y": 200.0
+        },
+        "location": {
+            "x": 742.0,
+            "y": 200.0
+        },
+        "size": {
+            "height": 542.0,
+            "width": 434.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 434,
+    "x": 742,
+    "y": 200
+}

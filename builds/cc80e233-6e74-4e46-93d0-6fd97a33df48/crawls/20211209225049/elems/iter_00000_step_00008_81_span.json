@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "BPxZt8ouB6iIRknHMPR65A==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X1248_Y430_W73_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "prl0-sm ta-sm-l bg-transparent sizeHeader"
+            },
+            "backend_node_id": 14293,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1248_430_73_24_ONE SIZE",
+            "tagName": "span",
+            "text": "ONE SIZE",
+            "width": 73.0,
+            "x": 1248.0,
+            "y": 430.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 430.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 73.0
+        },
+        "tag_name": "span",
+        "text": "ONE SIZE"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "ONE SIZE",
+    "transformed": true,
+    "width": 73,
+    "x": 1248,
+    "y": 430
+}

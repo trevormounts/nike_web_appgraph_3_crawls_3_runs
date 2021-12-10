@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "le7oSJKQit8NBOzIHQNcpw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "p_X1248_Y428_W376_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "description-preview responsive-body-3-2 ta-sm-c mt2-sm"
+            },
+            "backend_node_id": 15286,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1248_428_376_24_Available 12/11 at 10:00 AM EST",
+            "tagName": "p",
+            "text": "Available 12/11 at 10:00 AM EST",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 428.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 428.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 376.0
+        },
+        "tag_name": "p",
+        "text": "Available 12/11 at 10:00 AM EST"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Available 12/11 at 10:00 AM EST",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 428
+}

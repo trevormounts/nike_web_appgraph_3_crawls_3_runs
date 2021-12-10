@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dJDtKZsaAB8JSOZY9wv+1w==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y776_W110_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__titles"
+            },
+            "backend_node_id": 10150,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "308_776_110_48_Nike Fuel Pack Lunch Bag",
+            "tagName": "div",
+            "text": "Nike Fuel Pack Lunch Bag",
+            "width": 110.0,
+            "x": 308.0,
+            "y": 776.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 776.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 110.0
+        },
+        "tag_name": "div",
+        "text": "Nike Fuel Pack Lunch Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Nike Fuel Pack Lunch Bag",
+    "transformed": true,
+    "width": 110,
+    "x": 308,
+    "y": 776
+}

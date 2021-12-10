@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/a4SZGAFF3RhteaNsd8UwA==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "a_X46_Y734_W188_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false",
+                "aria-label": "Filter for Training & Gym",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm filter-item is--default css-1kqgukw  is--link",
+                "data-group-ndx": "1",
+                "data-group-type": "filter",
+                "data-is-color": "false",
+                "data-ndx": "2",
+                "href": "https://www.nike.com/w/womens-training-gym-hoodies-pullovers-58jtoz5e1x6z6rive",
+                "role": "menuitemcheckbox"
+            },
+            "backend_node_id": 9304,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "46_734_188_24_Training & Gym",
+            "tagName": "a",
+            "text": "Training & Gym",
+            "width": 188.0,
+            "x": 46.0,
+            "y": 734.0
+        },
+        "location": {
+            "x": 46.0,
+            "y": 734.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 188.0
+        },
+        "tag_name": "a",
+        "text": "Training & Gym"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Training & Gym",
+    "transformed": true,
+    "width": 188,
+    "x": 46,
+    "y": 734
+}

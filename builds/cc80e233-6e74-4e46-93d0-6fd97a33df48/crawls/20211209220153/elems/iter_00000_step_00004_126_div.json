@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZJieQ3y/2hPrmdbCSDVhNg==\n",
+    "height": 73,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y760_W116_H73",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_msg_info"
+            },
+            "backend_node_id": 7829,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 73.0,
+            "key": "1356_760_116_73_Best Seller Nike Air Max 97 Men's Shoes",
+            "tagName": "div",
+            "text": "Best Seller Nike Air Max 97 Men's Shoes",
+            "width": 116.0,
+            "x": 1356.0,
+            "y": 760.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 760.0
+        },
+        "size": {
+            "height": 73.0,
+            "width": 116.0
+        },
+        "tag_name": "div",
+        "text": "Best Seller Nike Air Max 97 Men's Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Best Seller Nike Air Max 97 Men's Shoes",
+    "transformed": true,
+    "width": 116,
+    "x": 1356,
+    "y": 760
+}

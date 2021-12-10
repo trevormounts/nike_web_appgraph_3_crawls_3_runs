@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "rla6FlJvOOAiPAY1nTTK8A==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "span_X1387_Y632_W84_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wishlist-btn__tooltip prl3-sm pt1-sm pb1-sm"
+            },
+            "backend_node_id": 14319,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1387_632_84_27_Favorite",
+            "tagName": "span",
+            "text": "Favorite",
+            "width": 84.0,
+            "x": 1387.0,
+            "y": 632.0
+        },
+        "location": {
+            "x": 1387.0,
+            "y": 632.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 84.0
+        },
+        "tag_name": "span",
+        "text": "Favorite"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Favorite",
+    "transformed": true,
+    "width": 84,
+    "x": 1387,
+    "y": 632
+}

@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MgmvjHiiPzshdTZga5LY1g==\n",
+    "height": 14,
+    "hier_level": 0,
+    "human_hash": "a_X135_Y171_W166_H14",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm wall-breadcrumbs__item  is--link",
+                "data-ndx": "1",
+                "href": "https://www.nike.com/w/accessories-equipment-awwpw"
+            },
+            "backend_node_id": 9617,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 14.0,
+            "key": "135_171_166_14_Accessories & Equipment",
+            "tagName": "a",
+            "text": "Accessories & Equipment",
+            "width": 166.0,
+            "x": 135.0,
+            "y": 171.0
+        },
+        "location": {
+            "x": 135.0,
+            "y": 171.0
+        },
+        "size": {
+            "height": 14.0,
+            "width": 166.0
+        },
+        "tag_name": "a",
+        "text": "Accessories & Equipment"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Accessories & Equipment",
+    "transformed": true,
+    "width": 166,
+    "x": 135,
+    "y": 171
+}

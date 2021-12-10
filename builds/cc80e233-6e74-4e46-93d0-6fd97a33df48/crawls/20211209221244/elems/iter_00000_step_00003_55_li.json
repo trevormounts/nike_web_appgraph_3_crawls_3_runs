@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+T+15+QtzjXXz9yzX9VV2g==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X1007_Y192_W146_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5469,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "1007_192_146_28_Nike Luxe Leggings",
+            "tagName": "li",
+            "text": "Nike Luxe Leggings",
+            "width": 146.0,
+            "x": 1007.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1007.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 146.0
+        },
+        "tag_name": "li",
+        "text": "Nike Luxe Leggings"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Nike Luxe Leggings",
+    "transformed": true,
+    "width": 146,
+    "x": 1007,
+    "y": 192
+}

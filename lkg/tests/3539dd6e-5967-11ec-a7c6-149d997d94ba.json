@@ -1,0 +1,67 @@
+{
+    "Women's Clothes - Sweatshirts": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "ddm_women"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_clothing_women"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "mi_hoodies_pullovers"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_womens_fleece_hoodie"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            }
+        ],
+        "tags": [],
+        "temp_id": "3539dd6e-5967-11ec-a7c6-149d997d94ba",
+        "title": "Women's Clothes - Sweatshirts"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Xk+fy4ORQLdddYa96dTdOg==\n",
+    "height": 508,
+    "hier_level": 0,
+    "human_hash": "img_X1356_Y256_W508_H508",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Gym Club Kids' Duffel Bag (25L)",
+                "class": "css-1fxh5tw product-card__hero-image",
+                "loading": "lazy",
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6a148f83-5d6f-4897-9103-51ec0384335d/gym-club-kids-duffel-bag-25l-DNTBjb81.png",
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/6a148f83-5d6f-4897-9103-51ec0384335d/gym-club-kids-duffel-bag-25l-DNTBjb81.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6a148f83-5d6f-4897-9103-51ec0384335d/gym-club-kids-duffel-bag-25l-DNTBjb81.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/6a148f83-5d6f-4897-9103-51ec0384335d/gym-club-kids-duffel-bag-25l-DNTBjb81.png 400w"
+            },
+            "backend_node_id": 10472,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 508.0,
+            "key": "1356_256_508_508_",
+            "tagName": "img",
+            "text": "",
+            "width": 508.0,
+            "x": 1356.0,
+            "y": 256.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 256.0
+        },
+        "size": {
+            "height": 508.0,
+            "width": 508.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 508,
+    "x": 1356,
+    "y": 256
+}

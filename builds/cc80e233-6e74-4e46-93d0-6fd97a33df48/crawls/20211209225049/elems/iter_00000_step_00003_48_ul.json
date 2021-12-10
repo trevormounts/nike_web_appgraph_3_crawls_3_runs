@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "moV4et/9mCdxc255CcT7EA==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "ul_X707_Y192_W506_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_AKr_3ox"
+            },
+            "backend_node_id": 5570,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "707_192_506_28_Shoes Clothing New Arrivals Gear & Accessories Sale",
+            "tagName": "ul",
+            "text": "Shoes Clothing New Arrivals Gear & Accessories Sale",
+            "width": 506.0,
+            "x": 707.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 707.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 506.0
+        },
+        "tag_name": "ul",
+        "text": "Shoes Clothing New Arrivals Gear & Accessories Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Shoes Clothing New Arrivals Gear & Accessories Sale",
+    "transformed": true,
+    "width": 506,
+    "x": 707,
+    "y": 192
+}

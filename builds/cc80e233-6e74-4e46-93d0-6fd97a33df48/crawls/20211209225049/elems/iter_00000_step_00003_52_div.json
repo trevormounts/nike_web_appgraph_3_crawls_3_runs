@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "TutM/wEhsWMv+domQekTjg==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "div_X879_Y192_W92_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_5Lc8LAgK"
+            },
+            "backend_node_id": 5603,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "879_192_92_28_New Arrivals",
+            "tagName": "div",
+            "text": "New Arrivals",
+            "width": 92.0,
+            "x": 879.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 879.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 92.0
+        },
+        "tag_name": "div",
+        "text": "New Arrivals"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "New Arrivals",
+    "transformed": true,
+    "width": 92,
+    "x": 879,
+    "y": 192
+}

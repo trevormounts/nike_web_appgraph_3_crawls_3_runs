@@ -1,0 +1,513 @@
+{
+    "cc80e233-6e74-4e46-93d0-6fd97a33df48": {
+        "pass": [
+            {
+                "carbon_log_file_path": "run-41724035.log",
+                "crawl_directory": "test_runs/20211209234113",
+                "created": "2021-12-09 23:42:10",
+                "curr_label": null,
+                "curr_nav_substep": 0,
+                "curr_step": 3,
+                "curr_sub_step": 0,
+                "custom_data": [
+                    {
+                        "id": "browser_name",
+                        "label": "Browser",
+                        "value": "Chrome"
+                    }
+                ],
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name",
+                        "label": "Original Test Case Name",
+                        "value": "Women's Clothes - Sweatshirts"
+                    }
+                ],
+                "description": "",
+                "failures": {},
+                "is_deactivated": false,
+                "log": [
+                    "step:0sub_step:0  found:ddm_women",
+                    "step:1sub_step:0  found:lnk_clothing_women",
+                    "step:2sub_step:0  found:mi_hoodies_pullovers",
+                    "step:3sub_step:0  found:img_womens_fleece_hoodie"
+                ],
+                "note": "",
+                "result": "pass",
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "a",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "83ZZpBrpjiulQL28EYllTQ==\n",
+                                "height": 60,
+                                "hier_level": 0,
+                                "human_hash": "a_X927_Y36_W80_H60",
+                                "human_readable": "a_927_36_80_60_a_fffffffffffff131f13df3bdf31df31df705f7878783bf038101010100030003_f84743d892286b675f691d0613041893",
+                                "img_hash": "387b05555e682fd33d06e866d869b42b",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-controls": "DesktopMenu-0-2-0",
+                                            "aria-expanded": "false",
+                                            "aria-label": "Women",
+                                            "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                                            "data-nav": "2,0,-1",
+                                            "data-path": "women",
+                                            "data-pre": "ILink",
+                                            "data-type": "click_navShoppingMenu",
+                                            "href": "https://www.nike.com/women",
+                                            "role": "menu"
+                                        },
+                                        "backend_node_id": 975,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 60.0,
+                                        "key": "927_36_80_60_Women",
+                                        "tagName": "a",
+                                        "text": "Women",
+                                        "width": 80.0,
+                                        "x": 927.0,
+                                        "y": 36.0
+                                    },
+                                    "location": {
+                                        "x": 927.0,
+                                        "y": 36.0
+                                    },
+                                    "size": {
+                                        "height": 60.0,
+                                        "width": 80.0
+                                    },
+                                    "tag_name": "a",
+                                    "text": "Women"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffffffffff131f13df3bdf31df31df705f7878783bf038101010100030003",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "a",
+                                "text": "Women",
+                                "text_hash": "f84743d892286b675f691d0613041893",
+                                "transformed": true,
+                                "width": 80,
+                                "x": 927,
+                                "y": 36
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "ddm_women"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f/iter_00000_step_00000_screenshot.png",
+                        "step_num": 0,
+                        "test_labels": [
+                            "ddm_women"
+                        ],
+                        "timing": 8.283985137939453
+                    },
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "a",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+                                "height": 27,
+                                "hier_level": 0,
+                                "human_hash": "a_X663_Y192_W62_H27",
+                                "human_readable": "a_663_192_62_27_a_fffffffffffffffffcff800180398039803980358035801d801d800d8041a001_60807e9dca5e5c9c5fe628f15b740208",
+                                "img_hash": "1161155edd8212bce3863b4168751904",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-label": "Clothing",
+                                            "class": "JSftBPEZ",
+                                            "data-analytics-action-id": "985b591b-c6e3-499c-bcf8-a98f6ca974e6",
+                                            "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+                                        },
+                                        "backend_node_id": 5445,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 27.0,
+                                        "key": "663_192_62_27_Clothing",
+                                        "tagName": "a",
+                                        "text": "Clothing",
+                                        "width": 62.0,
+                                        "x": 663.0,
+                                        "y": 192.0
+                                    },
+                                    "location": {
+                                        "x": 663.0,
+                                        "y": 192.0
+                                    },
+                                    "size": {
+                                        "height": 27.0,
+                                        "width": 62.0
+                                    },
+                                    "tag_name": "a",
+                                    "text": "Clothing"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffffffffffffffcff800180398039803980358035801d801d800d8041a001",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "a",
+                                "text": "Clothing",
+                                "text_hash": "60807e9dca5e5c9c5fe628f15b740208",
+                                "transformed": true,
+                                "width": 62,
+                                "x": 663,
+                                "y": 192
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "lnk_clothing_women"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f/iter_00000_step_00001_screenshot.png",
+                        "step_num": 1,
+                        "test_labels": [
+                            "lnk_clothing_women"
+                        ],
+                        "timing": 0.7881011962890625
+                    },
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "a",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "a",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "MnCYndOqIJtlYsoPCk1t5Q==\n",
+                                "height": 32,
+                                "hier_level": 0,
+                                "human_hash": "a_X52_Y240_W184_H32",
+                                "human_readable": "a_52_240_184_32_a_fffffffffefffffff3bbf33bf339ff11ff31ff31f731e331e3f1ffffffffffff_ae614c466f22b54e2d183941530ebe20",
+                                "img_hash": "55fa491b1246fd10c10c6101b8c7387a",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-label": "Category for Hoodies & Pullovers",
+                                            "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                                            "data-group-type": "category",
+                                            "data-ndx": "0",
+                                            "href": "https://www.nike.com/w/womens-hoodies-pullovers-5e1x6z6rive"
+                                        },
+                                        "backend_node_id": 9114,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 32.0,
+                                        "key": "52_240_184_32_Hoodies & Pullovers",
+                                        "tagName": "a",
+                                        "text": "Hoodies & Pullovers",
+                                        "width": 184.0,
+                                        "x": 52.0,
+                                        "y": 240.0
+                                    },
+                                    "location": {
+                                        "x": 52.0,
+                                        "y": 240.0
+                                    },
+                                    "size": {
+                                        "height": 32.0,
+                                        "width": 184.0
+                                    },
+                                    "tag_name": "a",
+                                    "text": "Hoodies & Pullovers"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffffffefffffff3bbf33bf339ff11ff31ff31f731e331e3f1ffffffffffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "a",
+                                "text": "Hoodies & Pullovers",
+                                "text_hash": "ae614c466f22b54e2d183941530ebe20",
+                                "transformed": true,
+                                "width": 184,
+                                "x": 52,
+                                "y": 240
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "mi_hoodies_pullovers"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f/iter_00000_step_00002_screenshot.png",
+                        "step_num": 2,
+                        "test_labels": [
+                            "mi_hoodies_pullovers"
+                        ],
+                        "timing": 9.080661058425903
+                    },
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "img",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "img",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+                                "height": 508,
+                                "hier_level": 0,
+                                "human_hash": "img_X832_Y256_W508_H508",
+                                "human_readable": "img_832_256_508_508_img_fffffe7fffff0ffff73bf331f331f733ff11f711f311e311e331efffeeffffff_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "bbf5b5a674d7103e30451f9799314893",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "alt": "Nike Sportswear Women's Fleece Pullover Hoodie",
+                                            "class": "css-1fxh5tw product-card__hero-image",
+                                            "loading": "eager",
+                                            "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                                            "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png",
+                                            "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 400w"
+                                        },
+                                        "backend_node_id": 12456,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 508.0,
+                                        "key": "832_256_508_508_",
+                                        "tagName": "img",
+                                        "text": "",
+                                        "width": 508.0,
+                                        "x": 832.0,
+                                        "y": 256.0
+                                    },
+                                    "location": {
+                                        "x": 832.0,
+                                        "y": 256.0
+                                    },
+                                    "size": {
+                                        "height": 508.0,
+                                        "width": 508.0
+                                    },
+                                    "tag_name": "img",
+                                    "text": ""
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffe7fffff0ffff73bf331f331f733ff11f711f311e311e331efffeeffffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "img",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "transformed": true,
+                                "width": 508,
+                                "x": 832,
+                                "y": 256
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "img_womens_fleece_hoodie"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f/iter_00000_step_00003_screenshot.png",
+                        "step_num": 3,
+                        "test_labels": [
+                            "img_womens_fleece_hoodie"
+                        ],
+                        "timing": 1.6474859714508057
+                    },
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "kWr84Jad8eBreHR8BZSlxA==\n",
+                                "height": 931,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1920_H931",
+                                "human_readable": "screen_0_0_1920_931_screen_fffffe7ffefff7efe66fe67fe667e25fe27fe23fe23fe23fe643c443c43fe43f_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "fffffe7ffefff7efe66fe67fe667e25fe27fe23fe23fe23fe643c443c43fe43f",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1920,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f/iter_00000_step_00004_screenshot.png",
+                        "step_num": 4,
+                        "timing": 1.8319778442382812
+                    }
+                },
+                "steps": [
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "ddm_women"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "lnk_clothing_women"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "mi_hoodies_pullovers"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_womens_fleece_hoodie"
+                        ],
+                        "run_only_if_label_present": false,
+                        "type": "action",
+                        "widget": "default"
+                    }
+                ],
+                "tags": [],
+                "temp_id": "3539dd6e-5967-11ec-a7c6-149d997d94ba",
+                "title": "Women's Clothes - Sweatshirts - 899404b9-a6f0-47c5-9b46-1e413d283d1f",
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

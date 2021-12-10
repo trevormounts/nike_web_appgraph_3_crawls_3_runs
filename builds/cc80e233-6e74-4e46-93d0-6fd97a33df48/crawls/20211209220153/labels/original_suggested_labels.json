@@ -1,0 +1,14 @@
+{
+    "elems": {
+        "iter_00000_step_00008_26_a.png": {
+            "ddm_kids": {
+                "all_scores": {
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        }
+    },
+    "screens": {}
+}

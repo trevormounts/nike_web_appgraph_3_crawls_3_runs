@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/Kd1axbZdMjQOJ0TGGoFsw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X1248_Y504_W82_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "prl0-sm ta-sm-l bg-transparent sizeHeader"
+            },
+            "backend_node_id": 15119,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1248_504_82_24_Select Size",
+            "tagName": "span",
+            "text": "Select Size",
+            "width": 82.0,
+            "x": 1248.0,
+            "y": 504.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 504.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 82.0
+        },
+        "tag_name": "span",
+        "text": "Select Size"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Select Size",
+    "transformed": true,
+    "width": 82,
+    "x": 1248,
+    "y": 504
+}

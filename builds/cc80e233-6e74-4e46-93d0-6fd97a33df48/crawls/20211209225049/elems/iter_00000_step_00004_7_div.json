@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "9IEOtAGLbf3MnHsOHUza5Q==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "div_X1705_Y0_W42_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-dropdown-menu",
+                "data-pre": "DropdownMenu",
+                "id": "HelpMenuDropdown"
+            },
+            "backend_node_id": 8570,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "1705_0_42_36_Help",
+            "tagName": "div",
+            "text": "Help",
+            "width": 42.0,
+            "x": 1705.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 1705.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 42.0
+        },
+        "tag_name": "div",
+        "text": "Help"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Help",
+    "transformed": true,
+    "width": 42,
+    "x": 1705,
+    "y": 0
+}

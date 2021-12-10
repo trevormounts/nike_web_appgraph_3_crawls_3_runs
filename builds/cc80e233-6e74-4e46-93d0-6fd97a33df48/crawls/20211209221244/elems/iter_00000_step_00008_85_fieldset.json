@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "fieldset",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XA7qt4ZCwYvWTUMt+NaBVQ==\n",
+    "height": 135,
+    "hier_level": 0,
+    "human_hash": "fieldset_X1248_Y504_W376_H135",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " mt5-sm mb3-sm body-2 css-1pj6y87"
+            },
+            "backend_node_id": 15116,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 135.0,
+            "key": "1248_504_376_135_Select Size Size Guide  XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+            "tagName": "fieldset",
+            "text": "Select Size Size Guide  XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 504.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 504.0
+        },
+        "size": {
+            "height": 135.0,
+            "width": 376.0
+        },
+        "tag_name": "fieldset",
+        "text": "Select Size Size Guide  XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "fieldset",
+    "text": "Select Size Size Guide  XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 504
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X663_Y192_W62_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Clothing",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "985b591b-c6e3-499c-bcf8-a98f6ca974e6",
+                "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+            },
+            "backend_node_id": 5461,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "663_192_62_27_Clothing",
+            "tagName": "a",
+            "text": "Clothing",
+            "width": 62.0,
+            "x": 663.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 663.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 62.0
+        },
+        "tag_name": "a",
+        "text": "Clothing"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Clothing",
+    "transformed": true,
+    "width": 62,
+    "x": 663,
+    "y": 192
+}

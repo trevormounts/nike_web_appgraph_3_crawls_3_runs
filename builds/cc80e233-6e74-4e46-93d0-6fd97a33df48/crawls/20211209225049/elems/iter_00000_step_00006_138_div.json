@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "QyPIIXT6MNWgpxK3fzaxbw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y800_W151_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 10182,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "832_800_151_24_Kids' Backpack (16L)",
+            "tagName": "div",
+            "text": "Kids' Backpack (16L)",
+            "width": 151.0,
+            "x": 832.0,
+            "y": 800.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 800.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 151.0
+        },
+        "tag_name": "div",
+        "text": "Kids' Backpack (16L)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Kids' Backpack (16L)",
+    "transformed": true,
+    "width": 151,
+    "x": 832,
+    "y": 800
+}

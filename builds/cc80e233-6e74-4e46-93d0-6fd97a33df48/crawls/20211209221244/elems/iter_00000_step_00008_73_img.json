@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jN1rVHfn9ZTXj+FceI/yKA==\n",
+    "height": 69,
+    "hier_level": 0,
+    "human_hash": "img_X1394_Y324_W69_H69",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Cave Purple/Coconut Milk/Pollen",
+                "class": "bg-lighter-grey",
+                "src": "https://static.nike.com/a/images/t_PDP_144_v1/f_auto/4cbb685b-37af-4891-a0d1-e811a9e031e1/sportswear-womens-fleece-pullover-hoodie-nbChnV.png"
+            },
+            "backend_node_id": 13507,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 69.0,
+            "key": "1394_324_69_69_",
+            "tagName": "img",
+            "text": "",
+            "width": 69.0,
+            "x": 1394.0,
+            "y": 324.0
+        },
+        "location": {
+            "x": 1394.0,
+            "y": 324.0
+        },
+        "size": {
+            "height": 69.0,
+            "width": 69.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 69,
+    "x": 1394,
+    "y": 324
+}

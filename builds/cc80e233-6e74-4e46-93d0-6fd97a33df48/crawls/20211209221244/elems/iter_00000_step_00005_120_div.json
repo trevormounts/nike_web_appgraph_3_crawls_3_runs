@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "hehXNjVGbExrNMlsSsrtsQ==\n",
+    "height": 73,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y760_W236_H73",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_msg_info"
+            },
+            "backend_node_id": 7577,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 73.0,
+            "key": "1356_760_236_73_Just In Nike Sportswear Icon Clash Women's Mock Long-Sleeve Top",
+            "tagName": "div",
+            "text": "Just In Nike Sportswear Icon Clash Women's Mock Long-Sleeve Top",
+            "width": 236.0,
+            "x": 1356.0,
+            "y": 760.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 760.0
+        },
+        "size": {
+            "height": 73.0,
+            "width": 236.0
+        },
+        "tag_name": "div",
+        "text": "Just In Nike Sportswear Icon Clash Women's Mock Long-Sleeve Top"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Just In Nike Sportswear Icon Clash Women's Mock Long-Sleeve Top",
+    "transformed": true,
+    "width": 236,
+    "x": 1356,
+    "y": 760
+}

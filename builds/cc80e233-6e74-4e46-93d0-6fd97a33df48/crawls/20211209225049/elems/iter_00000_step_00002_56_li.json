@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "uPWseuN2xJr747Q7nH3jhg==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X1181_Y192_W32_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5616,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "1181_192_32_28_Sale",
+            "tagName": "li",
+            "text": "Sale",
+            "width": 32.0,
+            "x": 1181.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1181.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 32.0
+        },
+        "tag_name": "li",
+        "text": "Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Sale",
+    "transformed": true,
+    "width": 32,
+    "x": 1181,
+    "y": 192
+}

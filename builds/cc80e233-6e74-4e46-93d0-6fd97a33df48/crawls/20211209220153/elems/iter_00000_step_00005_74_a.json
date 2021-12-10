@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3lctNJnTHZAZ0Tp0+om12g==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y493_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Baseball",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "8",
+                "href": "https://www.nike.com/w/mens-baseball-shoes-99fchznik1zy7ok"
+            },
+            "backend_node_id": 9395,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_493_184_32_Baseball",
+            "tagName": "a",
+            "text": "Baseball",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 493.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 493.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Baseball"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Baseball",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 493
+}

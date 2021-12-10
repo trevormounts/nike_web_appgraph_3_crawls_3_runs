@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IFrCPw3zsw6rtP4ICT0RCw==\n",
+    "height": 104,
+    "hier_level": 0,
+    "human_hash": "div_X8_Y154_W1904_H104",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sticky-inner-wrapper",
+                "style": "position:relative;top:0px"
+            },
+            "backend_node_id": 5565,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 104.0,
+            "key": "8_154_1904_104_Kids Shoes Clothing New Arrivals Gear & Accessories Sale",
+            "tagName": "div",
+            "text": "Kids Shoes Clothing New Arrivals Gear & Accessories Sale",
+            "width": 1904.0,
+            "x": 8.0,
+            "y": 154.0
+        },
+        "location": {
+            "x": 8.0,
+            "y": 154.0
+        },
+        "size": {
+            "height": 104.0,
+            "width": 1904.0
+        },
+        "tag_name": "div",
+        "text": "Kids Shoes Clothing New Arrivals Gear & Accessories Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Kids Shoes Clothing New Arrivals Gear & Accessories Sale",
+    "transformed": true,
+    "width": 1904,
+    "x": 8,
+    "y": 154
+}

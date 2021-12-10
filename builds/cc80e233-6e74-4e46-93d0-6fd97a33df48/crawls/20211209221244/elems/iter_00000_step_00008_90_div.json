@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "c5srWh6RnOxIw2y09KWDJQ==\n",
+    "height": 103,
+    "hier_level": 0,
+    "human_hash": "div_X1248_Y536_W376_H103",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mt2-sm css-12whm6j"
+            },
+            "backend_node_id": 13571,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 103.0,
+            "key": "1248_536_376_103_XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+            "tagName": "div",
+            "text": "XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "size": {
+            "height": 103.0,
+            "width": 376.0
+        },
+        "tag_name": "div",
+        "text": "XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "XS (0\u20132)  S (4\u20136)  M (8\u201310)  L (12\u201314)  XL (16\u201318)  2XL (20\u201322)",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 536
+}

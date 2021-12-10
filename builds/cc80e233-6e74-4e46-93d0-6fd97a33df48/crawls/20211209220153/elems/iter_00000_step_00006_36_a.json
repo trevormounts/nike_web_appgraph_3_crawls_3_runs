@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RNfyccti4jEfTBWFM0BeFQ==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "a_X1846_Y48_W36_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Bag Items: 0",
+                "class": "icon-btn ripple d-sm-b",
+                "data-path": "cart",
+                "data-pre": "ILink",
+                "data-type": "click_navCart",
+                "data-var": "anchor",
+                "href": "https://www.nike.com/cart",
+                "rel": "nofollow",
+                "title": "Bag Items: 0"
+            },
+            "backend_node_id": 7788,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "1846_48_36_36_",
+            "tagName": "a",
+            "text": "",
+            "width": 36.0,
+            "x": 1846.0,
+            "y": 48.0
+        },
+        "location": {
+            "x": 1846.0,
+            "y": 48.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 36.0
+        },
+        "tag_name": "a",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "",
+    "transformed": true,
+    "width": 36,
+    "x": 1846,
+    "y": 48
+}

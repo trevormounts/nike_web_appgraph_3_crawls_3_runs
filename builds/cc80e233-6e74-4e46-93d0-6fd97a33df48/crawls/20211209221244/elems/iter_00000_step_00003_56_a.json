@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Cqq7gQkgizn1/3FcMEIauw==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X1184_Y192_W151_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Shoes $100 & Under",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "e92dcaec-91c8-41aa-9bea-f34015d3c73a",
+                "href": "https://www.nike.com/w/womens-100-and-under-shoes-3s37kz5e1x6zy7ok"
+            },
+            "backend_node_id": 5473,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1184_192_151_27_Shoes $100 & Under",
+            "tagName": "a",
+            "text": "Shoes $100 & Under",
+            "width": 151.0,
+            "x": 1184.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 1184.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 151.0
+        },
+        "tag_name": "a",
+        "text": "Shoes $100 & Under"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Shoes $100 & Under",
+    "transformed": true,
+    "width": 151,
+    "x": 1184,
+    "y": 192
+}

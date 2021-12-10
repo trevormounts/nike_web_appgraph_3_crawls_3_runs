@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Z7sPDNDMcP/iANIGSebj2A==\n",
+    "height": 106,
+    "hier_level": 0,
+    "human_hash": "p_X1248_Y536_W376_H106",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2 pb5-sm pb8-md prl6-sm prl0-lg"
+            },
+            "backend_node_id": 15290,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 106.0,
+            "key": "1248_536_376_106_Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+            "tagName": "p",
+            "text": "Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "size": {
+            "height": 106.0,
+            "width": 376.0
+        },
+        "tag_name": "p",
+        "text": "Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 536
+}

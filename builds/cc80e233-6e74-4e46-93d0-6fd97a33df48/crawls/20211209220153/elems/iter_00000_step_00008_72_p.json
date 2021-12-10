@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NRRsSnQfwKft4gpebJmFBg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "p_X1248_Y492_W376_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headline-5 mt5-sm mt10-md mb5-sm prl6-sm prl0-lg"
+            },
+            "backend_node_id": 15288,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1248_492_376_24_Get in Line. Get the goods.",
+            "tagName": "p",
+            "text": "Get in Line. Get the goods.",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 492.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 492.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 376.0
+        },
+        "tag_name": "p",
+        "text": "Get in Line. Get the goods."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Get in Line. Get the goods.",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 492
+}

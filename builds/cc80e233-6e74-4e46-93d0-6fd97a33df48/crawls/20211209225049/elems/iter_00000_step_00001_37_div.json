@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2hj3taYkUGyP1KqXnfIRNw==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "div_X0_Y106_W1920_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "swiper-container swiper-container-initialized swiper-container-horizontal"
+            },
+            "backend_node_id": 1511,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "0_106_1920_42_Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+            "tagName": "div",
+            "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+            "width": 1920.0,
+            "x": 0.0,
+            "y": 106.0
+        },
+        "location": {
+            "x": 0.0,
+            "y": 106.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 1920.0
+        },
+        "tag_name": "div",
+        "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now Order by 12.15 for Delivery by 12.25 Learn More Save Up to 40% Shop All Our New Markdowns",
+    "transformed": true,
+    "width": 1920,
+    "x": 0,
+    "y": 106
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "klarna-placement",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "uNYaMAr5+xvgEBwVAzWcOQ==\n",
+    "height": 58,
+    "hier_level": 0,
+    "human_hash": "klarna-placement_X1261_Y478_W350_H58",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-key": "credit-promotion-standard",
+                "data-locale": "en-US",
+                "data-purchase-amount": "3000",
+                "id": "klarna-pdp"
+            },
+            "backend_node_id": 14299,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 58.0,
+            "key": "1261_478_350_58_",
+            "tagName": "klarna-placement",
+            "text": "",
+            "width": 350.0,
+            "x": 1261.0,
+            "y": 478.0
+        },
+        "location": {
+            "x": 1261.0,
+            "y": 478.0
+        },
+        "size": {
+            "height": 58.0,
+            "width": 350.0
+        },
+        "tag_name": "klarna-placement",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "klarna-placement",
+    "text": "",
+    "transformed": true,
+    "width": 350,
+    "x": 1261,
+    "y": 478
+}

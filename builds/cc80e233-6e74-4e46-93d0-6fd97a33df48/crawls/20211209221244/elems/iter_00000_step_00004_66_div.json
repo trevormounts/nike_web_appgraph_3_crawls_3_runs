@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/ElxYTzloCF5B8QfcgdnUg==\n",
+    "height": 504,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y240_W192_H504",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "categories css-l49xoc is--desktop"
+            },
+            "backend_node_id": 9148,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 504.0,
+            "key": "48_240_192_504_Hoodies & Pullovers Sports Bras Pants & Tights Jackets & Vests Tops & T-Shirts Shorts Compression & Baselayer Bodysuits Jumpsuits & Rompers Tracksuits Skirts & Dresses Swimwear Hijabs Socks",
+            "tagName": "div",
+            "text": "Hoodies & Pullovers Sports Bras Pants & Tights Jackets & Vests Tops & T-Shirts Shorts Compression & Baselayer Bodysuits Jumpsuits & Rompers Tracksuits Skirts & Dresses Swimwear Hijabs Socks",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 240.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 240.0
+        },
+        "size": {
+            "height": 504.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "Hoodies & Pullovers Sports Bras Pants & Tights Jackets & Vests Tops & T-Shirts Shorts Compression & Baselayer Bodysuits Jumpsuits & Rompers Tracksuits Skirts & Dresses Swimwear Hijabs Socks"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Hoodies & Pullovers Sports Bras Pants & Tights Jackets & Vests Tops & T-Shirts Shorts Compression & Baselayer Bodysuits Jumpsuits & Rompers Tracksuits Skirts & Dresses Swimwear Hijabs Socks",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 240
+}

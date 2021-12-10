@@ -1,0 +1,60 @@
+{
+    "elems": {
+        "iter_00000_step_00003_45_a.png": {
+            "lnk_shoes_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.94
+                },
+                "score": 0.94,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00007_24_a.png": {
+            "ddm_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0,
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00007_26_a.png": {
+            "ddm_kids": {
+                "all_scores": {
+                    "hash_based": 1.0
+                },
+                "score": 1.0,
+                "source": "hash_based"
+            }
+        },
+        "iter_00000_step_00008_24_a.png": {
+            "ddm_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.98
+                },
+                "score": 0.98,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00008_25_a.png": {
+            "ddm_women": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.99
+                },
+                "score": 0.99,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00008_67_img.png": {
+            "img_womens_fleece_hoodie": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.87
+                },
+                "score": 0.87,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    },
+    "screens": {}
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MYsjK1rvR0jFho/1AWHNmw==\n",
+    "height": 52,
+    "hier_level": 0,
+    "human_hash": "div_X44_Y568_W196_H52",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer",
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            },
+            "backend_node_id": 9274,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 52.0,
+            "key": "44_568_196_52_Plus Size",
+            "tagName": "div",
+            "text": "Plus Size",
+            "width": 196.0,
+            "x": 44.0,
+            "y": 568.0
+        },
+        "location": {
+            "x": 44.0,
+            "y": 568.0
+        },
+        "size": {
+            "height": 52.0,
+            "width": 196.0
+        },
+        "tag_name": "div",
+        "text": "Plus Size"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Plus Size",
+    "transformed": true,
+    "width": 196,
+    "x": 44,
+    "y": 568
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gNuxDyODvv9qGtEixcZAjg==\n",
+    "height": 149,
+    "hier_level": 0,
+    "human_hash": "div_X1248_Y324_W368_H149",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-activedescendant": "DO6213-574",
+                "aria-label": "Choose a Style Color",
+                "class": "colorway-images ta-sm-c d-lg-t",
+                "role": "listbox",
+                "tabindex": "0"
+            },
+            "backend_node_id": 13499,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 149.0,
+            "key": "1248_324_368_149_",
+            "tagName": "div",
+            "text": "",
+            "width": 368.0,
+            "x": 1248.0,
+            "y": 324.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 324.0
+        },
+        "size": {
+            "height": 149.0,
+            "width": 368.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 368,
+    "x": 1248,
+    "y": 324
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2qFqoicWaCB8ohSVTKdMKA==\n",
+    "height": 74,
+    "hier_level": 0,
+    "human_hash": "div_X46_Y793_W192_H74",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentInner find_in_store__content css-1az01ki"
+            },
+            "backend_node_id": 9185,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 74.0,
+            "key": "46_793_192_74_Filter by Store",
+            "tagName": "div",
+            "text": "Filter by Store",
+            "width": 192.0,
+            "x": 46.0,
+            "y": 793.0
+        },
+        "location": {
+            "x": 46.0,
+            "y": 793.0
+        },
+        "size": {
+            "height": 74.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "Filter by Store"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Filter by Store",
+    "transformed": true,
+    "width": 192,
+    "x": 46,
+    "y": 793
+}

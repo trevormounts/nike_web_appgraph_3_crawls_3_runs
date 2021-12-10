@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aXEi+fZuMBZvISzIQK6B6w==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "button_X902_Y531_W115_H44",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " css-16fa9vw-PrimaryDarkButton-buttonPaddingBorderRadiusStyles-disabledButtonStyles-primaryDisabledStyles-primaryDarkButtonStyles e9cn8z80",
+                "data-automation-id": "error-view-cart",
+                "data-version": "@nike/shop-components@1.121.0",
+                "href": "https://www.nike.com/cart",
+                "tabindex": "0",
+                "type": "button"
+            },
+            "backend_node_id": 15576,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "902_531_115_44_View Bag",
+            "tagName": "button",
+            "text": "View Bag",
+            "width": 115.0,
+            "x": 902.0,
+            "y": 531.0
+        },
+        "location": {
+            "x": 902.0,
+            "y": 531.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 115.0
+        },
+        "tag_name": "button",
+        "text": "View Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "View Bag",
+    "transformed": true,
+    "width": 115,
+    "x": 902,
+    "y": 531
+}
