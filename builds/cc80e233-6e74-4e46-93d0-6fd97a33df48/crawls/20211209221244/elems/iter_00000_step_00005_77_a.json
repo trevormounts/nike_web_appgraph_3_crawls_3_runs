@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "C1xWzCVEHT6a3EPbthZEgg==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y609_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Swimwear",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "11",
+                "href": "https://www.nike.com/w/womens-surf-swimwear-5e1x6zq3un"
+            },
+            "backend_node_id": 9171,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_609_184_32_Swimwear",
+            "tagName": "a",
+            "text": "Swimwear",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 609.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 609.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Swimwear"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Swimwear",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 609
+}

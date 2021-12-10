@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "B3mLomVlBVa2zFT6bT8F9w==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "p_X1722_Y114_W166_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 9087,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1722_114_166_24_Shop All Our New Markdowns",
+            "tagName": "p",
+            "text": "Shop All Our New Markdowns",
+            "width": 166.0,
+            "x": 1722.0,
+            "y": 114.0
+        },
+        "location": {
+            "x": 1722.0,
+            "y": 114.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 166.0
+        },
+        "tag_name": "p",
+        "text": "Shop All Our New Markdowns"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Shop All Our New Markdowns",
+    "transformed": true,
+    "width": 166,
+    "x": 1722,
+    "y": 114
+}

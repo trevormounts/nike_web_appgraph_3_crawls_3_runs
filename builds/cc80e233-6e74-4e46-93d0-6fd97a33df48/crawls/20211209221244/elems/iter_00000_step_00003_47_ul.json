@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "icmJtQs1/IwfCHRYNn0KRQ==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "ul_X585_Y192_W750_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_AKr_3ox"
+            },
+            "backend_node_id": 5456,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "585_192_750_28_Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+            "tagName": "ul",
+            "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+            "width": 750.0,
+            "x": 585.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 585.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 750.0
+        },
+        "tag_name": "ul",
+        "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Shoes Clothing Sale Find Your Sports Bra Nike Luxe Leggings Shoes $100 & Under",
+    "transformed": true,
+    "width": 750,
+    "x": 585,
+    "y": 192
+}

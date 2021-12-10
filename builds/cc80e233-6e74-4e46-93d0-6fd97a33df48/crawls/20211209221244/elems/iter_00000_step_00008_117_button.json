@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OUmUa4vQP3UcQaLaEfiGNw==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "button_X1248_Y807_W376_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Favorite",
+                "aria-pressed": "false",
+                "class": "wishlist-btn ncss-btn-secondary-dark btn-lg mt3-sm",
+                "data-test": "wishlistBtn",
+                "type": "button"
+            },
+            "backend_node_id": 13574,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "1248_807_376_60_Favorite",
+            "tagName": "button",
+            "text": "Favorite",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 807.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 807.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 376.0
+        },
+        "tag_name": "button",
+        "text": "Favorite"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Favorite",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 807
+}

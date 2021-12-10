@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3fhJu3wKCKsW7UUJ4b0VjQ==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y757_W336_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__messaging accent--color"
+            },
+            "backend_node_id": 10413,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "832_757_336_28_Just In",
+            "tagName": "div",
+            "text": "Just In",
+            "width": 336.0,
+            "x": 832.0,
+            "y": 757.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 757.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 336.0
+        },
+        "tag_name": "div",
+        "text": "Just In"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Just In",
+    "transformed": true,
+    "width": 336,
+    "x": 832,
+    "y": 757
+}

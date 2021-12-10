@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "vhHdXeFznyVQv0JaBe8P4g==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "a_X922_Y128_W166_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_2trpWJ_I",
+                "data-analytics-action-id": "0b2171ef-32fc-4af3-9cd7-ac5b10e8ac71",
+                "href": "https://www.nike.com/w/sale-3yaep"
+            },
+            "backend_node_id": 1528,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "922_128_166_15_Shop All Our New Markdowns",
+            "tagName": "a",
+            "text": "Shop All Our New Markdowns",
+            "width": 166.0,
+            "x": 922.0,
+            "y": 128.0
+        },
+        "location": {
+            "x": 922.0,
+            "y": 128.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 166.0
+        },
+        "tag_name": "a",
+        "text": "Shop All Our New Markdowns"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Shop All Our New Markdowns",
+    "transformed": true,
+    "width": 166,
+    "x": 922,
+    "y": 128
+}

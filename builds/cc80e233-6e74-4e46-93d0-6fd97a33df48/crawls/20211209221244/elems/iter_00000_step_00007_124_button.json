@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "cmB7nnBwgdcJkUXKiT8qTg==\n",
+    "height": 30,
+    "hier_level": 0,
+    "human_hash": "button_X44_Y795_W196_H30",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-describedby": "Sports & Activities",
+                "aria-expanded": "false",
+                "aria-pressed": "false",
+                "class": "show-more css-72flnn__trigger is-closed  show-more__btn",
+                "tabindex": "0"
+            },
+            "backend_node_id": 9313,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 30.0,
+            "key": "44_795_196_30_+ More",
+            "tagName": "button",
+            "text": "+ More",
+            "width": 196.0,
+            "x": 44.0,
+            "y": 795.0
+        },
+        "location": {
+            "x": 44.0,
+            "y": 795.0
+        },
+        "size": {
+            "height": 30.0,
+            "width": 196.0
+        },
+        "tag_name": "button",
+        "text": "+ More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "+ More",
+    "transformed": true,
+    "width": 196,
+    "x": 44,
+    "y": 795
+}

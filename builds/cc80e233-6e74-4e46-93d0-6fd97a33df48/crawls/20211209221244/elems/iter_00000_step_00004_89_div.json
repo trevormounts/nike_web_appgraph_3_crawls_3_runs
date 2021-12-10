@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "WxOzrkdZmdw8e8SPoPwJMg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y880_W175_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trigger-content__label"
+            },
+            "backend_node_id": 9192,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "48_880_175_24_Gender  ( 1 )",
+            "tagName": "div",
+            "text": "Gender  ( 1 )",
+            "width": 175.0,
+            "x": 48.0,
+            "y": 880.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 880.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 175.0
+        },
+        "tag_name": "div",
+        "text": "Gender  ( 1 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Gender  ( 1 )",
+    "transformed": true,
+    "width": 175,
+    "x": 48,
+    "y": 880
+}

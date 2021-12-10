@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "O5eAwP7lv7VQbvBIzCRe5g==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "label_X1248_Y536_W121_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-xf3ahq",
+                "for": "skuAndSize__27699377",
+                "tabindex": "-1"
+            },
+            "backend_node_id": 15125,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1248_536_121_48_XS (0\u20132)",
+            "tagName": "label",
+            "text": "XS (0\u20132)",
+            "width": 121.0,
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 121.0
+        },
+        "tag_name": "label",
+        "text": "XS (0\u20132)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "XS (0\u20132)",
+    "transformed": true,
+    "width": 121,
+    "x": 1248,
+    "y": 536
+}

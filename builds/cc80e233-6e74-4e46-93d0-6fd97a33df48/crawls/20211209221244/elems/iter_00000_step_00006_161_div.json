@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+0hwTPVQ/I8WAm45nZx6jw==\n",
+    "height": 73,
+    "hier_level": 0,
+    "human_hash": "div_X1356_Y776_W157_H73",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_msg_info"
+            },
+            "backend_node_id": 12719,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 73.0,
+            "key": "1356_776_157_73_Best Seller Nike Therma-FIT Women's Training Top",
+            "tagName": "div",
+            "text": "Best Seller Nike Therma-FIT Women's Training Top",
+            "width": 157.0,
+            "x": 1356.0,
+            "y": 776.0
+        },
+        "location": {
+            "x": 1356.0,
+            "y": 776.0
+        },
+        "size": {
+            "height": 73.0,
+            "width": 157.0
+        },
+        "tag_name": "div",
+        "text": "Best Seller Nike Therma-FIT Women's Training Top"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Best Seller Nike Therma-FIT Women's Training Top",
+    "transformed": true,
+    "width": 157,
+    "x": 1356,
+    "y": 776
+}

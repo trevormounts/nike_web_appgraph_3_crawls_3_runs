@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KiO3d0ZItjLJM+mdtX+LWg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X44_Y572_W196_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "More Sizes",
+                "class": "filter-group__items-group",
+                "id": "wallNavFG0",
+                "role": "group"
+            },
+            "backend_node_id": 9276,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "44_572_196_24_Plus Size",
+            "tagName": "div",
+            "text": "Plus Size",
+            "width": 196.0,
+            "x": 44.0,
+            "y": 572.0
+        },
+        "location": {
+            "x": 44.0,
+            "y": 572.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 196.0
+        },
+        "tag_name": "div",
+        "text": "Plus Size"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Plus Size",
+    "transformed": true,
+    "width": 196,
+    "x": 44,
+    "y": 572
+}

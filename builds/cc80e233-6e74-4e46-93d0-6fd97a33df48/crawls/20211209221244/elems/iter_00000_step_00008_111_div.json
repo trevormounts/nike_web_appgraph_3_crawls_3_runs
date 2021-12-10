@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2rwoe1sULHcqDiN2dYH4Ow==\n",
+    "height": 58,
+    "hier_level": 0,
+    "human_hash": "div_X1261_Y669_W350_H58",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "style": "all: initial;"
+            },
+            "backend_node_id": 15153,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 58.0,
+            "key": "1261_669_350_58_4 interest-free payments of $18.75 with  Klarna .  Learn more",
+            "tagName": "div",
+            "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more",
+            "width": 350.0,
+            "x": 1261.0,
+            "y": 669.0
+        },
+        "location": {
+            "x": 1261.0,
+            "y": 669.0
+        },
+        "size": {
+            "height": 58.0,
+            "width": 350.0
+        },
+        "tag_name": "div",
+        "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "4 interest-free payments of $18.75 with  Klarna .  Learn more",
+    "transformed": true,
+    "width": 350,
+    "x": 1261,
+    "y": 669
+}

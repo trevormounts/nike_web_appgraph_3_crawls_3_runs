@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZXARb8CRtpiDucVxKxmR2g==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y852_W60_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Available in 7 Colors",
+                "class": "product-card__product-count"
+            },
+            "backend_node_id": 12701,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "832_852_60_24_7 Colors",
+            "tagName": "div",
+            "text": "7 Colors",
+            "width": 60.0,
+            "x": 832.0,
+            "y": 852.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 852.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 60.0
+        },
+        "tag_name": "div",
+        "text": "7 Colors"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "7 Colors",
+    "transformed": true,
+    "width": 60,
+    "x": 832,
+    "y": 852
+}

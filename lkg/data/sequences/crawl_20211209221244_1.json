@@ -1,0 +1,318 @@
+[
+    {
+        "hash": "4ea73f26eccd688f4243762d5cc55ddf"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "83ZZpBrpjiulQL28EYllTQ==\n",
+                "height": 60,
+                "hier_level": 0,
+                "human_hash": "a_X927_Y36_W80_H60",
+                "human_readable": "a_927_36_80_60_a_ffffffffffffffffffffd7ffc003c003c003fdcfffffffffffffffffffffffff_f84743d892286b675f691d0613041893",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-controls": "DesktopMenu-0-2-0",
+                            "aria-expanded": "false",
+                            "aria-label": "Women",
+                            "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                            "data-nav": "2,0,-1",
+                            "data-path": "women",
+                            "data-pre": "ILink",
+                            "data-type": "click_navShoppingMenu",
+                            "href": "https://www.nike.com/women",
+                            "role": "menu"
+                        },
+                        "backend_node_id": 968,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 60.0,
+                        "key": "927_36_80_60_Women",
+                        "tagName": "a",
+                        "text": "Women",
+                        "width": 80.0,
+                        "x": 927.0,
+                        "y": 36.0
+                    },
+                    "location": {
+                        "x": 927.0,
+                        "y": 36.0
+                    },
+                    "size": {
+                        "height": 60.0,
+                        "width": 80.0
+                    },
+                    "tag_name": "a",
+                    "text": "Women"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffffff131f13df3bdf31df31df705f7878783bf038101010100030003",
+                "resource-id": "",
+                "screen_hash": "4ea73f26eccd688f4243762d5cc55ddf",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Women",
+                "transformed": true,
+                "width": 80,
+                "x": 927,
+                "y": 36
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ"
+    },
+    {
+        "hash": "7b9e12824785de4d2ddb963807d95b89"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+                "height": 27,
+                "hier_level": 0,
+                "human_hash": "a_X663_Y192_W62_H27",
+                "human_readable": "a_663_192_62_27_a_ffffffffffffffffbfff0e5f482460006000440200008200fffcfffcffffffff_60807e9dca5e5c9c5fe628f15b740208",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Clothing",
+                            "class": "JSftBPEZ",
+                            "data-analytics-action-id": "985b591b-c6e3-499c-bcf8-a98f6ca974e6",
+                            "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+                        },
+                        "backend_node_id": 5461,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 27.0,
+                        "key": "663_192_62_27_Clothing",
+                        "tagName": "a",
+                        "text": "Clothing",
+                        "width": 62.0,
+                        "x": 663.0,
+                        "y": 192.0
+                    },
+                    "location": {
+                        "x": 663.0,
+                        "y": 192.0
+                    },
+                    "size": {
+                        "height": 27.0,
+                        "width": 62.0
+                    },
+                    "tag_name": "a",
+                    "text": "Clothing"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffffffffffcff800180398039803980358035801d801d800d8041a001",
+                "resource-id": "",
+                "screen_hash": "7b9e12824785de4d2ddb963807d95b89",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Clothing",
+                "transformed": true,
+                "width": 62,
+                "x": 663,
+                "y": 192
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ"
+    },
+    {
+        "hash": "cb38f158aa23e7f4dcf89482ec59a343"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "MnCYndOqIJtlYsoPCk1t5Q==\n",
+                "height": 32,
+                "hier_level": 0,
+                "human_hash": "a_X52_Y240_W184_H32",
+                "human_readable": "a_52_240_184_32_a_ffffffff6cff683f00070007000700070107ffffffffffffffffffffffffffff_ae614c466f22b54e2d183941530ebe20",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Category for Hoodies & Pullovers",
+                            "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                            "data-group-type": "category",
+                            "data-ndx": "0",
+                            "href": "https://www.nike.com/w/womens-hoodies-pullovers-5e1x6z6rive"
+                        },
+                        "backend_node_id": 9149,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 32.0,
+                        "key": "52_240_184_32_Hoodies & Pullovers",
+                        "tagName": "a",
+                        "text": "Hoodies & Pullovers",
+                        "width": 184.0,
+                        "x": 52.0,
+                        "y": 240.0
+                    },
+                    "location": {
+                        "x": 52.0,
+                        "y": 240.0
+                    },
+                    "size": {
+                        "height": 32.0,
+                        "width": 184.0
+                    },
+                    "tag_name": "a",
+                    "text": "Hoodies & Pullovers"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffefffffff3bbf33bf339ff11ff31ff31f731e331e3f1ffffffffffff",
+                "resource-id": "",
+                "screen_hash": "cb38f158aa23e7f4dcf89482ec59a343",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Hoodies & Pullovers",
+                "transformed": true,
+                "width": 184,
+                "x": 52,
+                "y": 240
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE"
+    },
+    {
+        "hash": "b26f5045d576c05b3c7f8239b6022a12"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+                "height": 508,
+                "hier_level": 0,
+                "human_hash": "img_X832_Y256_W508_H508",
+                "human_readable": "img_832_256_508_508_img_fe7ffc3ffc7ffe7ffe1ffc1ffc0ff80ff80ff80ff80ff80ff80ff00ff00ffc1f_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "Nike Sportswear Women's Fleece Pullover Hoodie",
+                            "class": "css-1fxh5tw product-card__hero-image",
+                            "loading": "eager",
+                            "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                            "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png",
+                            "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/83825ad0-5452-47b8-843c-56a5090d397d/sportswear-womens-fleece-pullover-hoodie-nbChnV.png 400w"
+                        },
+                        "backend_node_id": 12531,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 508.0,
+                        "key": "832_256_508_508_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 508.0,
+                        "x": 832.0,
+                        "y": 256.0
+                    },
+                    "location": {
+                        "x": 832.0,
+                        "y": 256.0
+                    },
+                    "size": {
+                        "height": 508.0,
+                        "width": 508.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffe7fffff0ffff73bf331f331f733ff11f711f311e311e331efffeeffffff",
+                "resource-id": "",
+                "screen_hash": "b26f5045d576c05b3c7f8239b6022a12",
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "transformed": true,
+                "width": 508,
+                "x": 832,
+                "y": 256
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM"
+    },
+    {
+        "hash": "392fa6287534c6fa59ca4db8e006442a"
+    }
+]

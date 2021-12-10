@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "A6ukK6aXuhTXaFkWeHF6aQ==\n",
+    "height": 1,
+    "hier_level": 0,
+    "human_hash": "input_X1248_Y536_W1_H1",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-describedby": "pdp-buytools-low-inventory-messaging",
+                "class": "visually-hidden",
+                "id": "skuAndSize__27699377",
+                "name": "skuAndSize",
+                "type": "radio",
+                "value": "27699377:XS"
+            },
+            "backend_node_id": 15124,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 1.0,
+            "key": "1248_536_1_1_",
+            "tagName": "input",
+            "text": "",
+            "width": 1.0,
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 536.0
+        },
+        "size": {
+            "height": 1.0,
+            "width": 1.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "27699377:XS",
+    "transformed": true,
+    "width": 1,
+    "x": 1248,
+    "y": 536
+}

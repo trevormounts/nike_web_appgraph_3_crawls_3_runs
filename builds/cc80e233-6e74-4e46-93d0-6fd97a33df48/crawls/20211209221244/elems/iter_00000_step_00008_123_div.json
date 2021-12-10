@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qlXg/aj6N3keJW4pS5Biww==\n",
+    "height": 282,
+    "hier_level": 0,
+    "human_hash": "div_X742_Y324_W436_H282",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-bsyjwa e1n1kzst0",
+                "data-automation": "error-message-container"
+            },
+            "backend_node_id": 16435,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 282.0,
+            "key": "742_324_436_282_Error We had an issue with your request. If you continue experiencing issues, try refreshing the page. [ Code: 74914217 ] View Bag",
+            "tagName": "div",
+            "text": "Error We had an issue with your request. If you continue experiencing issues, try refreshing the page. [ Code: 74914217 ] View Bag",
+            "width": 436.0,
+            "x": 742.0,
+            "y": 324.0
+        },
+        "location": {
+            "x": 742.0,
+            "y": 324.0
+        },
+        "size": {
+            "height": 282.0,
+            "width": 436.0
+        },
+        "tag_name": "div",
+        "text": "Error We had an issue with your request. If you continue experiencing issues, try refreshing the page. [ Code: 74914217 ] View Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Error We had an issue with your request. If you continue experiencing issues, try refreshing the page. [ Code: 74914217 ] View Bag",
+    "transformed": true,
+    "width": 436,
+    "x": 742,
+    "y": 324
+}

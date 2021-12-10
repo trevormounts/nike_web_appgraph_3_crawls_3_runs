@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Xn+zY+OiSrGPrjmEd2kddA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "a_X757_Y192_W32_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Sale",
+                "class": "JSftBPEZ",
+                "data-analytics-action-id": "f652d1d1-9c11-4775-a810-13fc92433cdd",
+                "href": "https://www.nike.com/w/womens-sale-3yaepz5e1x6"
+            },
+            "backend_node_id": 5464,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "757_192_32_27_Sale",
+            "tagName": "a",
+            "text": "Sale",
+            "width": 32.0,
+            "x": 757.0,
+            "y": 192.0
+        },
+        "location": {
+            "x": 757.0,
+            "y": 192.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 32.0
+        },
+        "tag_name": "a",
+        "text": "Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Sale",
+    "transformed": true,
+    "width": 32,
+    "x": 757,
+    "y": 192
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mgVtuKM3GAtzsV0vhwKlYQ==\n",
+    "height": 19,
+    "hier_level": 0,
+    "human_hash": "span_X774_Y491_W140_H19",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1bux3ic e1n1kzst2"
+            },
+            "backend_node_id": 16440,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 19.0,
+            "key": "774_491_140_19_[ Code: 74914217 ]",
+            "tagName": "span",
+            "text": "[ Code: 74914217 ]",
+            "width": 140.0,
+            "x": 774.0,
+            "y": 491.0
+        },
+        "location": {
+            "x": 774.0,
+            "y": 491.0
+        },
+        "size": {
+            "height": 19.0,
+            "width": 140.0
+        },
+        "tag_name": "span",
+        "text": "[ Code: 74914217 ]"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "[ Code: 74914217 ]",
+    "transformed": true,
+    "width": 140,
+    "x": 774,
+    "y": 491
+}

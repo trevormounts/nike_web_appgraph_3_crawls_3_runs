@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "VAfuPis87X8ilVQ+NY743w==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "div_X1080_Y96_W79_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-subtitle css-vpn3kn css-1i7m6xw css-8vtwnt"
+            },
+            "backend_node_id": 9078,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "1080_96_79_60_Learn More",
+            "tagName": "div",
+            "text": "Learn More",
+            "width": 79.0,
+            "x": 1080.0,
+            "y": 96.0
+        },
+        "location": {
+            "x": 1080.0,
+            "y": 96.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 79.0
+        },
+        "tag_name": "div",
+        "text": "Learn More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Learn More",
+    "transformed": true,
+    "width": 79,
+    "x": 1080,
+    "y": 96
+}

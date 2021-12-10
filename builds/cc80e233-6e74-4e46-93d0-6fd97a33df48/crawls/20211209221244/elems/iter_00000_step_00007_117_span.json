@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Gs//NWYDz0S9brk8DuMgyg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X72_Y706_W59_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            },
+            "backend_node_id": 9302,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "72_706_59_24_Running",
+            "tagName": "span",
+            "text": "Running",
+            "width": 59.0,
+            "x": 72.0,
+            "y": 706.0
+        },
+        "location": {
+            "x": 72.0,
+            "y": 706.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 59.0
+        },
+        "tag_name": "span",
+        "text": "Running"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Running",
+    "transformed": true,
+    "width": 59,
+    "x": 72,
+    "y": 706
+}

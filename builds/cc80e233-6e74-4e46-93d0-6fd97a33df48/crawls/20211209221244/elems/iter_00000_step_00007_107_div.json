@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bzdYNAHeP77Ea4N/30LJvA==\n",
+    "height": 225,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y621_W192_H225",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible filter-group filter-group__open"
+            },
+            "backend_node_id": 9284,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 225.0,
+            "key": "48_621_192_225_Sports & Activities    Lifestyle  Running  Training & Gym  Yoga + More",
+            "tagName": "div",
+            "text": "Sports & Activities    Lifestyle  Running  Training & Gym  Yoga + More",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 621.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 621.0
+        },
+        "size": {
+            "height": 225.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "Sports & Activities    Lifestyle  Running  Training & Gym  Yoga + More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Sports & Activities    Lifestyle  Running  Training & Gym  Yoga + More",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 621
+}

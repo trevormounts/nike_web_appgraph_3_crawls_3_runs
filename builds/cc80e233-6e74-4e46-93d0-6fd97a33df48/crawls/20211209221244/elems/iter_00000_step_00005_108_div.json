@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+d4yLQlVawgXNDOXiY219w==\n",
+    "height": 73,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y760_W336_H73",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_msg_info"
+            },
+            "backend_node_id": 7574,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 73.0,
+            "key": "832_760_336_73_Just In Nike Sportswear Essential Women's Oversized Woven Joggers (Plus Size)",
+            "tagName": "div",
+            "text": "Just In Nike Sportswear Essential Women's Oversized Woven Joggers (Plus Size)",
+            "width": 336.0,
+            "x": 832.0,
+            "y": 760.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 760.0
+        },
+        "size": {
+            "height": 73.0,
+            "width": 336.0
+        },
+        "tag_name": "div",
+        "text": "Just In Nike Sportswear Essential Women's Oversized Woven Joggers (Plus Size)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Just In Nike Sportswear Essential Women's Oversized Woven Joggers (Plus Size)",
+    "transformed": true,
+    "width": 336,
+    "x": 832,
+    "y": 760
+}

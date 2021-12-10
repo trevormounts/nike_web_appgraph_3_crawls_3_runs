@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bhsmxNstMBaEyiKX8GNRMw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "a_X1705_Y6_W42_H24",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "HelpMenuDropdown-Menu",
+                "aria-expanded": "false",
+                "aria-label": "Help",
+                "class": "pre-help-button body-4 u-bold",
+                "data-path": "get help",
+                "data-pre": "ILink",
+                "data-type": "click_navHelpMenu",
+                "data-var": "ctrl",
+                "href": "https://www.nike.com/help",
+                "role": "listbox"
+            },
+            "backend_node_id": 505,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1705_6_42_24_Help",
+            "tagName": "a",
+            "text": "Help",
+            "width": 42.0,
+            "x": 1705.0,
+            "y": 6.0
+        },
+        "location": {
+            "x": 1705.0,
+            "y": 6.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 42.0
+        },
+        "tag_name": "a",
+        "text": "Help"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Help",
+    "transformed": true,
+    "width": 42,
+    "x": 1705,
+    "y": 6
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0b6l8IO/7kC1igXSQ70AkA==\n",
+    "height": 107,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y514_W192_H107",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible filter-group filter-group__open"
+            },
+            "backend_node_id": 9264,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 107.0,
+            "key": "48_514_192_107_More Sizes    Plus Size",
+            "tagName": "div",
+            "text": "More Sizes    Plus Size",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 514.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 514.0
+        },
+        "size": {
+            "height": 107.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "More Sizes    Plus Size"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "More Sizes    Plus Size",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 514
+}

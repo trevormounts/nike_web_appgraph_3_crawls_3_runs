@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mbUUq3uX9a3xTsks6SVUYg==\n",
+    "height": 68,
+    "hier_level": 0,
+    "human_hash": "div_X120_Y36_W1678_H68",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-l-nav-box flx-gro-sm-1"
+            },
+            "backend_node_id": 601,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 68.0,
+            "key": "120_36_1678_68_New Releases Men Women Kids Sale Gifts",
+            "tagName": "div",
+            "text": "New Releases Men Women Kids Sale Gifts",
+            "width": 1678.0,
+            "x": 120.0,
+            "y": 36.0
+        },
+        "location": {
+            "x": 120.0,
+            "y": 36.0
+        },
+        "size": {
+            "height": 68.0,
+            "width": 1678.0
+        },
+        "tag_name": "div",
+        "text": "New Releases Men Women Kids Sale Gifts"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "New Releases Men Women Kids Sale Gifts",
+    "transformed": true,
+    "width": 1678,
+    "x": 120,
+    "y": 36
+}

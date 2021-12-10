@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dT/VcbOgv448pDzYvKaaOA==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "span_X48_Y868_W192_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__trigger is-open  filter-group__btn headline-5 is--open"
+            },
+            "backend_node_id": 9191,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "48_868_192_48_Gender  ( 1 )",
+            "tagName": "span",
+            "text": "Gender  ( 1 )",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 868.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 868.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 192.0
+        },
+        "tag_name": "span",
+        "text": "Gender  ( 1 )"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Gender  ( 1 )",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 868
+}

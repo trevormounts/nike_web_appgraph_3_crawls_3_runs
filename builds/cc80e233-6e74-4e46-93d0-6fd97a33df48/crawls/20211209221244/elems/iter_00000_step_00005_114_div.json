@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "18AYznuuwNhWc52ChUDhGw==\n",
+    "height": 35,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y835_W508_H35",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__count-wrapper show--all undefined"
+            },
+            "backend_node_id": 7575,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 35.0,
+            "key": "832_835_508_35_7 Colors",
+            "tagName": "div",
+            "text": "7 Colors",
+            "width": 508.0,
+            "x": 832.0,
+            "y": 835.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 835.0
+        },
+        "size": {
+            "height": 35.0,
+            "width": 508.0
+        },
+        "tag_name": "div",
+        "text": "7 Colors"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "7 Colors",
+    "transformed": true,
+    "width": 508,
+    "x": 832,
+    "y": 835
+}

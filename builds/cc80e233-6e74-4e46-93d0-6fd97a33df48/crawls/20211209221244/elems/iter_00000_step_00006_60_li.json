@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IbM0tGhGFluWFAGP+VY4yQ==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "li_X48_Y171_W54_H16",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 12550,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "48_171_54_16_Clothing",
+            "tagName": "li",
+            "text": "Clothing",
+            "width": 54.0,
+            "x": 48.0,
+            "y": 171.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 171.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 54.0
+        },
+        "tag_name": "li",
+        "text": "Clothing"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Clothing",
+    "transformed": true,
+    "width": 54,
+    "x": 48,
+    "y": 171
+}

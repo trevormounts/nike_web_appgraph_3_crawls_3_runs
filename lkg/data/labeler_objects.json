@@ -1,13 +1,42 @@
 {
     "elems": {
         "dupe_to_master_key": {
+            "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png": "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png",
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png",
             "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png": "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png",
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png": "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png",
+            "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png": "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png",
+            "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png": "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png",
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png",
             "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png": "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png"
         },
         "elems_to_infos": {
+            "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png": {
+                "context_screen_img": "17671d66539a87cd4d718cba2d973610.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png",
+                    "hash": "tSr8UblMvAzCJrVshEpSRA==\n",
+                    "height": 27,
+                    "human_hash": "a_X663_Y192_W62_H27",
+                    "tag_name": "a",
+                    "text": "Clothing",
+                    "width": 62,
+                    "x": 663,
+                    "y": 192
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Clothing"
+                ]
+            },
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": {
                 "context_screen_img": "84b95795149351eee55c66816c274a87.png",
                 "dupe_count": 1,
@@ -86,6 +115,58 @@
                     "Lifestyle"
                 ]
             },
+            "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png": {
+                "context_screen_img": "cb38f158aa23e7f4dcf89482ec59a343.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png"
+                ],
+                "elem_info": {
+                    "class": "a",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png",
+                    "hash": "MnCYndOqIJtlYsoPCk1t5Q==\n",
+                    "height": 32,
+                    "human_hash": "a_X52_Y240_W184_H32",
+                    "tag_name": "a",
+                    "text": "Hoodies & Pullovers",
+                    "width": 184,
+                    "x": 52,
+                    "y": 240
+                },
+                "tags": [
+                    "all_elems",
+                    "a"
+                ],
+                "text": [
+                    "Hoodies_&_Pullovers"
+                ]
+            },
+            "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png": {
+                "context_screen_img": "b26f5045d576c05b3c7f8239b6022a12.png",
+                "dupe_count": 1,
+                "dupes": [
+                    "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png"
+                ],
+                "elem_info": {
+                    "class": "img",
+                    "elem_shot_file_path": "/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/data/elems/YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png",
+                    "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+                    "height": 508,
+                    "human_hash": "img_X832_Y256_W508_H508",
+                    "tag_name": "img",
+                    "text": "",
+                    "width": 508,
+                    "x": 832,
+                    "y": 256
+                },
+                "tags": [
+                    "all_elems",
+                    "img"
+                ],
+                "text": [
+                    ""
+                ]
+            },
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": {
                 "context_screen_img": "fb892e85b05d67c1998c539e120b1a66.png",
                 "dupe_count": 1,
@@ -142,11 +223,17 @@
         "sorted_elems": [
             "ZjUyMGM1YjRiMmQyOGExMmJmYmNjNzkxNTIyZDY4NGY.png",
             "NTM4NDkyZDlkMTUyY2Q4OTA5ZGJkZmRhZmFhYjQzYTI.png",
+            "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png",
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png",
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png",
+            "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png",
+            "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png",
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png"
         ],
         "uniques_to_dupes": {
+            "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png": [
+                "MDNlZTEzZjQxODZkOGRhNDYwMDZiMWM5OGJhZTI2YTQ.png"
+            ],
             "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png": [
                 "N2I1ZmNiYTEwMWU0NmMzNWYzZWY4NjY1ZjIxMzQ3OWY.png"
             ],
@@ -155,6 +242,12 @@
             ],
             "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png": [
                 "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png"
+            ],
+            "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png": [
+                "YjM5NjQzNDcyOGU0ZTk1M2RmYjBlMDAxOGMxYjg4OTE.png"
+            ],
+            "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png": [
+                "YzE3YTRmNWMzY2I5NzliMWJkNGY2YzMwNjFhMTg1NjM.png"
             ],
             "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png": [
                 "ZWRkMWU5NTcyODkzMGQyYTVkYzlmNjg2ODUyNDhiNzQ.png"
@@ -167,12 +260,18 @@
     "screens": {
         "dupe_to_master_key": {
             "0d0faa6ca1d72046b4681e25fec853d6.png": "0d0faa6ca1d72046b4681e25fec853d6.png",
+            "17671d66539a87cd4d718cba2d973610.png": "17671d66539a87cd4d718cba2d973610.png",
+            "392fa6287534c6fa59ca4db8e006442a.png": "392fa6287534c6fa59ca4db8e006442a.png",
+            "4ea73f26eccd688f4243762d5cc55ddf.png": "4ea73f26eccd688f4243762d5cc55ddf.png",
             "4fd406d457bf254b373ad845b936be44.png": "4fd406d457bf254b373ad845b936be44.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png": "7ae3edc158373a70b1dec4175f3ac5ec.png",
+            "7b9e12824785de4d2ddb963807d95b89.png": "7b9e12824785de4d2ddb963807d95b89.png",
             "7deaf55bef0528369e8a102040fccb99.png": "7deaf55bef0528369e8a102040fccb99.png",
             "84b95795149351eee55c66816c274a87.png": "84b95795149351eee55c66816c274a87.png",
             "93ef54eff33ccf015c73026608a6c64b.png": "93ef54eff33ccf015c73026608a6c64b.png",
+            "b26f5045d576c05b3c7f8239b6022a12.png": "b26f5045d576c05b3c7f8239b6022a12.png",
             "bec2387090b751ee71362c37c0884833.png": "bec2387090b751ee71362c37c0884833.png",
+            "cb38f158aa23e7f4dcf89482ec59a343.png": "cb38f158aa23e7f4dcf89482ec59a343.png",
             "fb892e85b05d67c1998c539e120b1a66.png": "fb892e85b05d67c1998c539e120b1a66.png"
         },
         "screens_to_elems": {},
@@ -237,6 +336,179 @@
                     "free_shipping_+_returns,_free_membership,_exclusive_products",
                     "shown:_medium_grey/multi-color/multi-color_style:_ct8012-005",
                     "join_now",
+                    "sign_in"
+                ]
+            },
+            "17671d66539a87cd4d718cba2d973610.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "17671d66539a87cd4d718cba2d973610.png"
+                ],
+                "tags": [
+                    "nav",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "men",
+                    "|",
+                    "women",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "shoes_clothing_sale_find_your_sports_bra_nike_luxe_leggings_shoes_$100_&_under",
+                    "clothing",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "women_shoes_clothing_sale_find_your_sports_bra_nike_luxe_leggings_shoes_$100_&_under",
+                    "help",
+                    "shoes",
+                    "nike_luxe_leggings",
+                    "learn_more",
+                    "shoes_$100_&_under",
+                    "join_us_|_sign_in",
+                    "find_your_sports_bra",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "sale",
+                    "sign_in"
+                ]
+            },
+            "392fa6287534c6fa59ca4db8e006442a.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "392fa6287534c6fa59ca4db8e006442a.png"
+                ],
+                "tags": [
+                    "h2",
+                    "label",
+                    "img",
+                    "div",
+                    "ul",
+                    "form",
+                    "input",
+                    "picture",
+                    "fieldset",
+                    "klarna-placement",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "xs_(0\u20132)",
+                    "[_code:_74914217_]",
+                    "men",
+                    "|",
+                    "women",
+                    "select_size",
+                    "select_size_size_guide__xs_(0\u20132)__s_(4\u20136)__m_(8\u201310)__l_(12\u201314)__xl_(16\u201318)__2xl_(20\u201322)",
+                    "xl_(16\u201318)",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "add_to_bag_favorite",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "27699376:xl",
+                    "xs_(0\u20132)__s_(4\u20136)__m_(8\u201310)__l_(12\u201314)__xl_(16\u201318)__2xl_(20\u201322)",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "s_(4\u20136)",
+                    "add_to_bag",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "27699375:s",
+                    "learn_more",
+                    "select_size_size_guide",
+                    "we_had_an_issue_with_your_request._if_you_continue_experiencing_issues,_try_refreshing_the_page.",
+                    "women's_fleece_pullover_hoodie",
+                    "size_guide",
+                    "27699378:2xl",
+                    "27699379:m",
+                    "join_us_|_sign_in",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "4_interest-free_payments_of_$18.75_with__klarna_.__learn_more",
+                    "nike_sportswear",
+                    "$75",
+                    "favorite",
+                    "2xl_(20\u201322)",
+                    "error",
+                    "l_(12\u201314)",
+                    "select_size_size_guide__xs_(0\u20132)__s_(4\u20136)__m_(8\u201310)__l_(12\u201314)__xl_(16\u201318)__2xl_(20\u201322)__add_to_bag_favorite",
+                    "sale",
+                    "nike_sportswear_women's_fleece_pullover_hoodie_$75",
+                    "m_(8\u201310)",
+                    "klarna",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "error_we_had_an_issue_with_your_request._if_you_continue_experiencing_issues,_try_refreshing_the_page._[_code:_74914217_]_view_bag",
+                    "join_now",
+                    "sign_in",
+                    "view_bag",
+                    "27699380:l",
+                    "27699377:xs"
+                ]
+            },
+            "4ea73f26eccd688f4243762d5cc55ddf.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "4ea73f26eccd688f4243762d5cc55ddf.png"
+                ],
+                "tags": [
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "header",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "join_us_|_sign_in",
+                    "|",
+                    "men",
+                    "women",
+                    "gifts",
+                    "sale",
+                    "join_us",
+                    "shop_all_our_new_markdowns",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help",
+                    "help_|",
+                    "new_releases",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
                     "sign_in"
                 ]
             },
@@ -383,6 +655,56 @@
                     "sign_in",
                     "lifestyle_/_shoes",
                     "soccer"
+                ]
+            },
+            "7b9e12824785de4d2ddb963807d95b89.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "7b9e12824785de4d2ddb963807d95b89.png"
+                ],
+                "tags": [
+                    "nav",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "men",
+                    "|",
+                    "women",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "shoes_clothing_sale_find_your_sports_bra_nike_luxe_leggings_shoes_$100_&_under",
+                    "clothing",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "women_shoes_clothing_sale_find_your_sports_bra_nike_luxe_leggings_shoes_$100_&_under",
+                    "help",
+                    "shoes",
+                    "nike_luxe_leggings",
+                    "shoes_$100_&_under",
+                    "join_us_|_sign_in",
+                    "find_your_sports_bra",
+                    "new_releases",
+                    "sale",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "join_now",
+                    "sign_in"
                 ]
             },
             "7deaf55bef0528369e8a102040fccb99.png": {
@@ -562,6 +884,106 @@
                     "soccer"
                 ]
             },
+            "b26f5045d576c05b3c7f8239b6022a12.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "b26f5045d576c05b3c7f8239b6022a12.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "sweatshirts",
+                    "sweaters",
+                    "save_up_to_40%",
+                    "more_sizes____plus_size",
+                    "best_seller",
+                    "men",
+                    "|",
+                    "women",
+                    "yoga",
+                    "nike_sportswear_essential_collection_women's_oversized_fleece_hoodie",
+                    "hide_filters",
+                    "join_us",
+                    "hoodies",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "9_colors",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "running",
+                    "$65",
+                    "clothing",
+                    "pick_up_today_at:",
+                    "hoodies_sweatshirts_sweaters_pick_up_today_at:__filter_by_store_more_sizes____plus_size_sports_&_activities____lifestyle__running__training_&_gym__yoga_+_more_fit____oversized__loose__slim__standard_+_more_length____cropped_athletes____lebron_james__kyrie_irving__kevin_durant__serena_williams_+_more_color____purple__black__red__orange__blue__white__brown__green__yellow__grey__pink_brand____nike_sportswear__jordan__nikelab__acg_+_more_material____fleece__tech_fleece__sustainable_materials_best_for____wet_weather_conditions__cold_weather__warm_weather_collaborator____sacai_neck_style____crew_neck__v-neck_technology____dri-fit__therma-fit__dri-fit_adv__therma-fit_adv_sleeve_length____long_sleeve_closure_type____button_down_features____water_resistant__thumbholes__pockets__hooded_+_more_benefits____staying_warm__staying_dry_icon____air_force_1__air_max__blazer__elite_+_more_shop_by_price____$0_-_$25__$25_-_$50__$50_-_$100__$100_-_$150_+_more_size___xxs_xs_(0\u20132)_s_(4\u20136)_s_tall_m_(8\u201310)_m_tall_l_(12\u201314)_l_tall_xl_(16\u201318)_xl_tall_1x_(16w-18w)_2x_(20w-22w)_2xl_(20\u201322)_2xl_tall_3x_(24w-26w)_3xl_tall",
+                    "fit",
+                    "help_|_join_us_|_sign_in",
+                    "hoodies_&_pullovers",
+                    "women's_sweatshirts_&_hoodies_(157)",
+                    "pick_up_today_at:__filter_by_store",
+                    "sports_&_activities____lifestyle__running__training_&_gym__yoga_+_more",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "plus_size",
+                    "oversized",
+                    "hoodies_sweatshirts_sweaters",
+                    "help",
+                    "save_up_to_40%_shop_all_our_new_markdowns",
+                    "lifestyle__running__training_&_gym__yoga_+_more",
+                    "clothing_/_hoodies_&_pullovers",
+                    "learn_more",
+                    "more_sizes",
+                    "sports_&_activities",
+                    "women's_fleece_pullover_hoodie",
+                    "order_by_12.15_for_delivery_by_12.25_learn_more",
+                    "/",
+                    "nike_therma-fit",
+                    "join_us_|_sign_in",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "(157)",
+                    "new_releases",
+                    "women's_sweatshirts_&_hoodies_(157)_hide_filters__sort_by",
+                    "nike_therma-fit_women's_training_top",
+                    "sort_by",
+                    "best_seller_nike_sportswear_essential_collection_women's_oversized_fleece_hoodie",
+                    "$90",
+                    "7_colors",
+                    "+_more",
+                    "women's_oversized_fleece_hoodie",
+                    "nike_sportswear",
+                    "$75",
+                    "lifestyle",
+                    "filter_by_store",
+                    "women's_training_top",
+                    "26_colors",
+                    "nike_sportswear_essential_collection",
+                    "best_seller_nike_therma-fit_women's_training_top",
+                    "sale",
+                    "shop_all_our_new_markdowns",
+                    "training_&_gym",
+                    "best_seller_nike_sportswear_women's_fleece_pullover_hoodie",
+                    "join_now",
+                    "sign_in",
+                    "nike_sportswear_women's_fleece_pullover_hoodie"
+                ]
+            },
             "bec2387090b751ee71362c37c0884833.png": {
                 "dupe_count": [
                     1
@@ -657,6 +1079,96 @@
                     "soccer"
                 ]
             },
+            "cb38f158aa23e7f4dcf89482ec59a343.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "cb38f158aa23e7f4dcf89482ec59a343.png"
+                ],
+                "tags": [
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "$50",
+                    "men",
+                    "|",
+                    "women",
+                    "nike_sportswear_essential",
+                    "hide_filters",
+                    "join_us",
+                    "hoodies_&_pullovers_sports_bras_pants_&_tights_jackets_&_vests_tops_&_t-shirts_shorts_compression_&_baselayer_bodysuits_jumpsuits_&_rompers_tracksuits_skirts_&_dresses_swimwear_hijabs_socks",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "nike_sportswear_icon_clash_women's_mock_long-sleeve_top",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "nike_sportswear_icon_clash",
+                    "tracksuits",
+                    "shorts",
+                    "pick_up_today_at:",
+                    "just_in",
+                    "help_|_join_us_|_sign_in",
+                    "hoodies_&_pullovers",
+                    "pick_up_today_at:__filter_by_store",
+                    "sports_bras",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "women's_oversized_woven_joggers_(plus_size)",
+                    "skirts_&_dresses",
+                    "(_1_)",
+                    "pants_&_tights",
+                    "(1430)",
+                    "bodysuits",
+                    "hijabs",
+                    "nike_therma-fit",
+                    "join_us_|_sign_in",
+                    "jumpsuits_&_rompers",
+                    "compression_&_baselayer",
+                    "women's_training_top_(plus_size)",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "4_colors",
+                    "swimwear",
+                    "new_releases",
+                    "just_in_nike_therma-fit_women's_training_top_(plus_size)",
+                    "nike_sportswear_essential_women's_oversized_woven_joggers_(plus_size)",
+                    "sort_by",
+                    "7_colors",
+                    "jackets_&_vests",
+                    "just_in_nike_sportswear_icon_clash_women's_mock_long-sleeve_top",
+                    "socks",
+                    "$75",
+                    "filter_by_store",
+                    "women's_mock_long-sleeve_top",
+                    "gender__(_1_)",
+                    "tops_&_t-shirts",
+                    "just_in_nike_sportswear_essential_women's_oversized_woven_joggers_(plus_size)",
+                    "sale",
+                    "$70",
+                    "nike_therma-fit_women's_training_top_(plus_size)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "womens_clothing_(1430)_hide_filters__sort_by",
+                    "join_now",
+                    "sign_in",
+                    "womens_clothing_(1430)"
+                ]
+            },
             "fb892e85b05d67c1998c539e120b1a66.png": {
                 "dupe_count": [
                     1
@@ -701,10 +1213,16 @@
         "sorted_screens": [
             "bec2387090b751ee71362c37c0884833.png",
             "fb892e85b05d67c1998c539e120b1a66.png",
+            "4ea73f26eccd688f4243762d5cc55ddf.png",
+            "cb38f158aa23e7f4dcf89482ec59a343.png",
+            "17671d66539a87cd4d718cba2d973610.png",
             "84b95795149351eee55c66816c274a87.png",
+            "7b9e12824785de4d2ddb963807d95b89.png",
             "7deaf55bef0528369e8a102040fccb99.png",
             "0d0faa6ca1d72046b4681e25fec853d6.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png",
+            "392fa6287534c6fa59ca4db8e006442a.png",
+            "b26f5045d576c05b3c7f8239b6022a12.png",
             "4fd406d457bf254b373ad845b936be44.png",
             "93ef54eff33ccf015c73026608a6c64b.png"
         ],
@@ -712,11 +1230,23 @@
             "0d0faa6ca1d72046b4681e25fec853d6.png": [
                 "0d0faa6ca1d72046b4681e25fec853d6.png"
             ],
+            "17671d66539a87cd4d718cba2d973610.png": [
+                "17671d66539a87cd4d718cba2d973610.png"
+            ],
+            "392fa6287534c6fa59ca4db8e006442a.png": [
+                "392fa6287534c6fa59ca4db8e006442a.png"
+            ],
+            "4ea73f26eccd688f4243762d5cc55ddf.png": [
+                "4ea73f26eccd688f4243762d5cc55ddf.png"
+            ],
             "4fd406d457bf254b373ad845b936be44.png": [
                 "4fd406d457bf254b373ad845b936be44.png"
             ],
             "7ae3edc158373a70b1dec4175f3ac5ec.png": [
                 "7ae3edc158373a70b1dec4175f3ac5ec.png"
+            ],
+            "7b9e12824785de4d2ddb963807d95b89.png": [
+                "7b9e12824785de4d2ddb963807d95b89.png"
             ],
             "7deaf55bef0528369e8a102040fccb99.png": [
                 "7deaf55bef0528369e8a102040fccb99.png"
@@ -727,8 +1257,14 @@
             "93ef54eff33ccf015c73026608a6c64b.png": [
                 "93ef54eff33ccf015c73026608a6c64b.png"
             ],
+            "b26f5045d576c05b3c7f8239b6022a12.png": [
+                "b26f5045d576c05b3c7f8239b6022a12.png"
+            ],
             "bec2387090b751ee71362c37c0884833.png": [
                 "bec2387090b751ee71362c37c0884833.png"
+            ],
+            "cb38f158aa23e7f4dcf89482ec59a343.png": [
+                "cb38f158aa23e7f4dcf89482ec59a343.png"
             ],
             "fb892e85b05d67c1998c539e120b1a66.png": [
                 "fb892e85b05d67c1998c539e120b1a66.png"

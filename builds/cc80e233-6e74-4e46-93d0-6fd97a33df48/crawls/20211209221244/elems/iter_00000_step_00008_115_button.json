@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+UUsuPSulYERm7zO4tTtKA==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "button_X1248_Y735_W376_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Add to Bag",
+                "class": "ncss-btn-primary-dark btn-lg add-to-cart-btn"
+            },
+            "backend_node_id": 13573,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "1248_735_376_60_Add to Bag",
+            "tagName": "button",
+            "text": "Add to Bag",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 735.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 735.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 376.0
+        },
+        "tag_name": "button",
+        "text": "Add to Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Add to Bag",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 735
+}

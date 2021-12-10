@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zdt7OONSEfb/j9DRNlSXTg==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "label_X1248_Y591_W121_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-xf3ahq",
+                "for": "skuAndSize__27699380",
+                "tabindex": "-1"
+            },
+            "backend_node_id": 15137,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1248_591_121_48_L (12\u201314)",
+            "tagName": "label",
+            "text": "L (12\u201314)",
+            "width": 121.0,
+            "x": 1248.0,
+            "y": 591.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 591.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 121.0
+        },
+        "tag_name": "label",
+        "text": "L (12\u201314)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "L (12\u201314)",
+    "transformed": true,
+    "width": 121,
+    "x": 1248,
+    "y": 591
+}
