@@ -399,8 +399,12 @@
             "84b95795149351eee55c66816c274a87.png": "84b95795149351eee55c66816c274a87.png",
             "894afe1d181a71a54feba59bbe81e933.png": "894afe1d181a71a54feba59bbe81e933.png",
             "93ef54eff33ccf015c73026608a6c64b.png": "93ef54eff33ccf015c73026608a6c64b.png",
+            "95002fd63f3afd56fa52605fac06d896.png": "95002fd63f3afd56fa52605fac06d896.png",
+            "b1ef139f393103edc1392f684641a753.png": "b1ef139f393103edc1392f684641a753.png",
             "b26f5045d576c05b3c7f8239b6022a12.png": "b26f5045d576c05b3c7f8239b6022a12.png",
+            "b8518b99468247157f0713b7ff004022.png": "b8518b99468247157f0713b7ff004022.png",
             "bec2387090b751ee71362c37c0884833.png": "bec2387090b751ee71362c37c0884833.png",
+            "c7f533e791cc9532df01159b9c6865cd.png": "c7f533e791cc9532df01159b9c6865cd.png",
             "cb38f158aa23e7f4dcf89482ec59a343.png": "cb38f158aa23e7f4dcf89482ec59a343.png",
             "e51edab04fe28d4bd86781dd2f3ef9ad.png": "e51edab04fe28d4bd86781dd2f3ef9ad.png",
             "f0a0737c799dbdca34622f8ae77a9cd6.png": "f0a0737c799dbdca34622f8ae77a9cd6.png",
@@ -1423,6 +1427,110 @@
                     "soccer"
                 ]
             },
+            "95002fd63f3afd56fa52605fac06d896.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "95002fd63f3afd56fa52605fac06d896.png"
+                ],
+                "tags": [
+                    "all_screens"
+                ],
+                "text": []
+            },
+            "b1ef139f393103edc1392f684641a753.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "b1ef139f393103edc1392f684641a753.png"
+                ],
+                "tags": [
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "jordan",
+                    "best_seller_nike_air_max_90_men's_shoes",
+                    "baseball",
+                    "best_seller",
+                    "men",
+                    "|",
+                    "women",
+                    "basketball",
+                    "nike_blazer_mid_'77_vintage",
+                    "hide_filters",
+                    "join_us",
+                    "tennis",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "running",
+                    "6_colors",
+                    "best_seller_nike_air_max_97_men's_shoes",
+                    "$100",
+                    "pick_up_today_at:",
+                    "(667)",
+                    "lifestyle_jordan_running_basketball_football_soccer_training_&_gym_skateboarding_baseball_golf_tennis_walking_track_&_field_sandals_&_slides_shoes_$100_&_under",
+                    "help_|_join_us_|_sign_in",
+                    "skateboarding",
+                    "pick_up_today_at:__filter_by_store",
+                    "$120",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "men's_shoes_&_sneakers_(667)_hide_filters__sort_by",
+                    "best_seller_nike_blazer_mid_'77_vintage_men's_shoes",
+                    "nike_air_max_97_men's_shoes",
+                    "(_1_)",
+                    "learn_more",
+                    "order_by_12.15_for_delivery_by_12.25_learn_more",
+                    "men's_shoes",
+                    "shoes_$100_&_under",
+                    "join_us_|_sign_in",
+                    "4_colors",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "sort_by",
+                    "sandals_&_slides",
+                    "3_colors",
+                    "track_&_field",
+                    "lifestyle",
+                    "nike_air_max_90",
+                    "filter_by_store",
+                    "men's_shoes_&_sneakers_(667)",
+                    "nike_blazer_mid_'77_vintage_men's_shoes",
+                    "gender__(_1_)",
+                    "nike_air_max_90_men's_shoes",
+                    "nike_air_max_97",
+                    "sale",
+                    "$170",
+                    "golf",
+                    "football",
+                    "training_&_gym",
+                    "walking",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "join_now",
+                    "sign_in",
+                    "soccer"
+                ]
+            },
             "b26f5045d576c05b3c7f8239b6022a12.png": {
                 "dupe_count": [
                     1
@@ -1523,6 +1631,104 @@
                     "nike_sportswear_women's_fleece_pullover_hoodie"
                 ]
             },
+            "b8518b99468247157f0713b7ff004022.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "b8518b99468247157f0713b7ff004022.png"
+                ],
+                "tags": [
+                    "ol",
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "jordan",
+                    "baseball",
+                    "save_up_to_40%",
+                    "best_seller",
+                    "men",
+                    "|",
+                    "women",
+                    "basketball",
+                    "coming_soon_air_jordan_11_retro_men's_shoes",
+                    "hide_filters",
+                    "join_us",
+                    "lifestyle_jordan_running_basketball_football_soccer_training_&_gym_skateboarding_baseball_golf_tennis_walking_track_&_field_sandals_&_slides_shoes_$100_&_under_pick_up_today_at:__filter_by_store_gender__(_1_)___men__women__unisex_kids____boys__girls_shop_by_price____$0_-_$25__$25_-_$50__$50_-_$100__$100_-_$150__over_$150_color____black__blue__brown__green__grey__multi-color__orange__pink__purple__red__white__yellow_brand____nike_sportswear__jordan__nike_by_you__converse_+_more_athletes____lebron_james__kyrie_irving__kevin_durant__stefan_janoski_+_more_collaborator____nike_x_mmw__sacai__gyakusou_icon____air_force_1__air_max__benassi__blazer_+_more_shoes____boots_air_max____air_max_1__air_max_90__air_max_95__air_max_97_+_more_shoe_height____low_top__mid_top__high_top_technology____nike_flyknit__nike_flymesh__gore-tex__nike_lunarlon_+_more_width____regular_surface____road_best_for____cold_weather_closure_type____slip_on__auto__click_material____canvas__fleece__leather__synthetics_+_more_features____reflective__spikeless__water_resistant__waterproof_+_more_benefits____easy_on_&_off__ultra_comfort__reflectivity_size___3_3.5_4_4.5_5_5.5_6_6.5_7_7.5_8_8.5_9_9.5_10_10.5_11_11.5_12_12.5_13_14_15_16_17_18_m_3.5_/_w_5_m_4_/_w_5.5_m_4.5_/_w_6_m_5_/_w_6.5_m_5.5_/_w_7_m_6_/_w_7.5_m_6.5_/_w_8_m_7_/_w_8.5_m_7.5_/_w_9_m_8_/_w_9.5_m_8.5_/_w_10_m_9_/_w_10.5_m_9.5_/_w_11_m_10_/_w_11.5_m_10.5_/_w_12_m_11_/_w_12.5_m_11.5_/_w_13_m_12_/_w_13.5_m_12.5_/_w_14_m_13_/_w_14.5_m_14_/_w_15.5_m_15_/_w_16.5_m_16_/_w_17.5_m_17_/_w_18.5_m_18_/_w_19.5_m_3_/_w_5_m_3.5_/_w_5.5_m_4_/_w_6_m_4.5_/_w_6.5_m_5_/_w_7_m_5.5_/_w_7.5_m_6_/_w_8_m_6.5_/_w_8.5_m_7_/_w_9_m_7.5_/_w_9.5_m_8_/_w_10_m_8.5_/_w_10.5_m_9_/_w_11_m_9.5_/_w_11.5_m_10_/_w_12_m_10.5_/_w_12.5_m_11_/_w_13_m_11.5_/_w_13.5_m_12_/_w_14_m_12.5_/_w_14.5_m_13_/_w_15_m_14_/_w_16_m_15_/_w_17_m_16_/_w_18_m_17_/_w_19",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "tennis",
+                    "nike_blazer_mid_'77_vintage",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "running",
+                    "6_colors",
+                    "$100",
+                    "nike_air_max_270_men's_shoes",
+                    "pick_up_today_at:",
+                    "air_jordan_11_retro",
+                    "lifestyle_jordan_running_basketball_football_soccer_training_&_gym_skateboarding_baseball_golf_tennis_walking_track_&_field_sandals_&_slides_shoes_$100_&_under",
+                    "help_|_join_us_|_sign_in",
+                    "skateboarding",
+                    "pick_up_today_at:__filter_by_store",
+                    "coming_soon",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "1_color",
+                    "mens_lifestyle_shoes_(286)",
+                    "help",
+                    "save_up_to_40%_shop_all_our_new_markdowns",
+                    "best_seller_nike_blazer_mid_'77_vintage_men's_shoes",
+                    "$150",
+                    "shoes",
+                    "(_1_)",
+                    "learn_more",
+                    "air_jordan_11_retro_men's_shoes",
+                    "$225",
+                    "order_by_12.15_for_delivery_by_12.25_learn_more",
+                    "(286)",
+                    "/",
+                    "men's_shoes",
+                    "shoes_$100_&_under",
+                    "join_us_|_sign_in",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "new_releases",
+                    "sort_by",
+                    "sandals_&_slides",
+                    "7_colors",
+                    "track_&_field",
+                    "nike_air_max_270",
+                    "lifestyle",
+                    "filter_by_store",
+                    "nike_blazer_mid_'77_vintage_men's_shoes",
+                    "gender__(_1_)",
+                    "sale",
+                    "shop_all_our_new_markdowns",
+                    "golf",
+                    "football",
+                    "training_&_gym",
+                    "walking",
+                    "join_now",
+                    "sign_in",
+                    "mens_lifestyle_shoes_(286)_hide_filters__sort_by",
+                    "lifestyle_/_shoes",
+                    "soccer"
+                ]
+            },
             "bec2387090b751ee71362c37c0884833.png": {
                 "dupe_count": [
                     1
@@ -1616,6 +1822,53 @@
                     "sign_in",
                     "lifestyle_/_shoes",
                     "soccer"
+                ]
+            },
+            "c7f533e791cc9532df01159b9c6865cd.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "c7f533e791cc9532df01159b9c6865cd.png"
+                ],
+                "tags": [
+                    "nav",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "men",
+                    "|",
+                    "women",
+                    "join_us",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "clothing",
+                    "men_shoes_clothing_accessories_sale",
+                    "accessories",
+                    "shoes_clothing_accessories_sale",
+                    "help_|_join_us_|_sign_in",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "help",
+                    "shoes",
+                    "learn_more",
+                    "join_us_|_sign_in",
+                    "new_releases",
+                    "sale",
+                    "sign_in"
                 ]
             },
             "cb38f158aa23e7f4dcf89482ec59a343.png": {
@@ -1909,6 +2162,8 @@
             "bec2387090b751ee71362c37c0884833.png",
             "700eb4d973658734a4c04fcede562696.png",
             "fb892e85b05d67c1998c539e120b1a66.png",
+            "c7f533e791cc9532df01159b9c6865cd.png",
+            "95002fd63f3afd56fa52605fac06d896.png",
             "4ea73f26eccd688f4243762d5cc55ddf.png",
             "592a739f2b4322cace5bc74fb33530e2.png",
             "cb38f158aa23e7f4dcf89482ec59a343.png",
@@ -1917,10 +2172,12 @@
             "894afe1d181a71a54feba59bbe81e933.png",
             "7b9e12824785de4d2ddb963807d95b89.png",
             "7deaf55bef0528369e8a102040fccb99.png",
+            "b1ef139f393103edc1392f684641a753.png",
             "0d0faa6ca1d72046b4681e25fec853d6.png",
             "43d2dc88c06863fddbcae2d2d36008d7.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png",
             "f0a0737c799dbdca34622f8ae77a9cd6.png",
+            "b8518b99468247157f0713b7ff004022.png",
             "392fa6287534c6fa59ca4db8e006442a.png",
             "7a6219302b2e8fc2725744637a208691.png",
             "b26f5045d576c05b3c7f8239b6022a12.png",
@@ -1978,11 +2235,23 @@
             "93ef54eff33ccf015c73026608a6c64b.png": [
                 "93ef54eff33ccf015c73026608a6c64b.png"
             ],
+            "95002fd63f3afd56fa52605fac06d896.png": [
+                "95002fd63f3afd56fa52605fac06d896.png"
+            ],
+            "b1ef139f393103edc1392f684641a753.png": [
+                "b1ef139f393103edc1392f684641a753.png"
+            ],
             "b26f5045d576c05b3c7f8239b6022a12.png": [
                 "b26f5045d576c05b3c7f8239b6022a12.png"
             ],
+            "b8518b99468247157f0713b7ff004022.png": [
+                "b8518b99468247157f0713b7ff004022.png"
+            ],
             "bec2387090b751ee71362c37c0884833.png": [
                 "bec2387090b751ee71362c37c0884833.png"
+            ],
+            "c7f533e791cc9532df01159b9c6865cd.png": [
+                "c7f533e791cc9532df01159b9c6865cd.png"
             ],
             "cb38f158aa23e7f4dcf89482ec59a343.png": [
                 "cb38f158aa23e7f4dcf89482ec59a343.png"
