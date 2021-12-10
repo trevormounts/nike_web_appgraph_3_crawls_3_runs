@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "4YOa9cGMHCD7OAjN4lW2sw==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "div_X766_Y96_W388_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-node css-gb9zhi"
+            },
+            "backend_node_id": 15135,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "766_96_388_60_Free Shipping + Returns, Free Membership, Exclusive Products Join Now",
+            "tagName": "div",
+            "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now",
+            "width": 388.0,
+            "x": 766.0,
+            "y": 96.0
+        },
+        "location": {
+            "x": 766.0,
+            "y": 96.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 388.0
+        },
+        "tag_name": "div",
+        "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Free Shipping + Returns, Free Membership, Exclusive Products Join Now",
+    "transformed": true,
+    "width": 388,
+    "x": 766,
+    "y": 96
+}

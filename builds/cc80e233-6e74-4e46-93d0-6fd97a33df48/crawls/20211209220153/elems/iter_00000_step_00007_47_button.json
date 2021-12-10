@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "xFGX0MzGcn7fLomElskzzg==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "button_X576_Y96_W106_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Previous",
+                "class": "css-12s4rz4 carousel-btn prev-btn carousel-btn-floating-false",
+                "data-automation": "carousel-nav-prev",
+                "type": "button"
+            },
+            "backend_node_id": 9320,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "576_96_106_60_",
+            "tagName": "button",
+            "text": "",
+            "width": 106.0,
+            "x": 576.0,
+            "y": 96.0
+        },
+        "location": {
+            "x": 576.0,
+            "y": 96.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 106.0
+        },
+        "tag_name": "button",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "",
+    "transformed": true,
+    "width": 106,
+    "x": 576,
+    "y": 96
+}

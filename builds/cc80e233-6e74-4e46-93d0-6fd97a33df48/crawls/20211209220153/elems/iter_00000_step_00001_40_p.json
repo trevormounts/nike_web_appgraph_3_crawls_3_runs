@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Z/6fddDAgKm5loREMOm5nA==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "p_X836_Y124_W52_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 1518,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "836_124_52_24_Join Now",
+            "tagName": "p",
+            "text": "Join Now",
+            "width": 52.0,
+            "x": 836.0,
+            "y": 124.0
+        },
+        "location": {
+            "x": 836.0,
+            "y": 124.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 52.0
+        },
+        "tag_name": "p",
+        "text": "Join Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Join Now",
+    "transformed": true,
+    "width": 52,
+    "x": 836,
+    "y": 124
+}

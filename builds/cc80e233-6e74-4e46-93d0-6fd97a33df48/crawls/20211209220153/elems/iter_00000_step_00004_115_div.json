@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "D877nLG4tW6m3nm4nnNTtA==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y785_W116_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__title",
+                "id": "Nike Air Max 90"
+            },
+            "backend_node_id": 10622,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "832_785_116_24_Nike Air Max 90",
+            "tagName": "div",
+            "text": "Nike Air Max 90",
+            "width": 116.0,
+            "x": 832.0,
+            "y": 785.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 785.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 116.0
+        },
+        "tag_name": "div",
+        "text": "Nike Air Max 90"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Nike Air Max 90",
+    "transformed": true,
+    "width": 116,
+    "x": 832,
+    "y": 785
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GfDw0rVuD7ZZmXMbKfiv7g==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y801_W143_H48",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__titles"
+            },
+            "backend_node_id": 12973,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "308_801_143_48_Air Jordan 11 Retro Men's Shoes",
+            "tagName": "div",
+            "text": "Air Jordan 11 Retro Men's Shoes",
+            "width": 143.0,
+            "x": 308.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 143.0
+        },
+        "tag_name": "div",
+        "text": "Air Jordan 11 Retro Men's Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Air Jordan 11 Retro Men's Shoes",
+    "transformed": true,
+    "width": 143,
+    "x": 308,
+    "y": 801
+}

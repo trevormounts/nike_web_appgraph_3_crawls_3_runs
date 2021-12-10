@@ -1,0 +1,70 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/5Y/JORsFTkhb0FsFCFwCQ==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "input_X1598_Y46_W180_H40",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "VisualSearchSuggestionsList",
+                "aria-expanded": "false",
+                "aria-label": "Search Products",
+                "aria-owns": "VisualSearchSuggestionsList",
+                "autocomplete": "off",
+                "class": "pre-search-input headline-5",
+                "data-var": "vsInput",
+                "id": "VisualSearchInput",
+                "name": "search",
+                "placeholder": "Search",
+                "role": "combobox",
+                "tabindex": "0",
+                "type": "text"
+            },
+            "backend_node_id": 1436,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "1598_46_180_40_",
+            "tagName": "input",
+            "text": "",
+            "width": 180.0,
+            "x": 1598.0,
+            "y": 46.0
+        },
+        "location": {
+            "x": 1598.0,
+            "y": 46.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 180.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 180,
+    "x": 1598,
+    "y": 46
+}

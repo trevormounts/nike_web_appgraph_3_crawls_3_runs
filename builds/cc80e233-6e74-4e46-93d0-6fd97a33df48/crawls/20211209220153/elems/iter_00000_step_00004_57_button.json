@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dOysaPfvXHYw/V6wDiuyNw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "button_X1647_Y181_W138_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "left-nav",
+                "aria-describedby": "Men's-Shoes-&-Sneakers",
+                "aria-expanded": "true",
+                "aria-label": "Hide Filters",
+                "aria-pressed": "true",
+                "class": "filters-btn css-ed1ipb css-hrsjq4 ",
+                "type": "button"
+            },
+            "backend_node_id": 9338,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "1647_181_138_28_Hide Filters",
+            "tagName": "button",
+            "text": "Hide Filters",
+            "width": 138.0,
+            "x": 1647.0,
+            "y": 181.0
+        },
+        "location": {
+            "x": 1647.0,
+            "y": 181.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 138.0
+        },
+        "tag_name": "button",
+        "text": "Hide Filters"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Hide Filters",
+    "transformed": true,
+    "width": 138,
+    "x": 1647,
+    "y": 181
+}

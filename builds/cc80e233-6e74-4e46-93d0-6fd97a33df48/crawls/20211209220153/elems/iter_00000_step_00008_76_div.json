@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w9xKbtaCBi/zlkm+EH2Nag==\n",
+    "height": 248,
+    "hier_level": 0,
+    "human_hash": "div_X1248_Y666_W376_H248",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "description-preview body-2 css-1pbvugb"
+            },
+            "backend_node_id": 15295,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 248.0,
+            "key": "1248_666_376_248_The Air Jordan 11 is one of the Jordan Brand's most memorable releases. This retro takes inspiration from the original that MJ wore en route to his 4th championship ring. It uses premium materials and full-length Nike Air cushioning. Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+            "tagName": "div",
+            "text": "The Air Jordan 11 is one of the Jordan Brand's most memorable releases. This retro takes inspiration from the original that MJ wore en route to his 4th championship ring. It uses premium materials and full-length Nike Air cushioning. Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 666.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 666.0
+        },
+        "size": {
+            "height": 248.0,
+            "width": 376.0
+        },
+        "tag_name": "div",
+        "text": "The Air Jordan 11 is one of the Jordan Brand's most memorable releases. This retro takes inspiration from the original that MJ wore en route to his 4th championship ring. It uses premium materials and full-length Nike Air cushioning. Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "The Air Jordan 11 is one of the Jordan Brand's most memorable releases. This retro takes inspiration from the original that MJ wore en route to his 4th championship ring. It uses premium materials and full-length Nike Air cushioning. Shown: Medium Grey/Multi-Color/Multi-Color Style: CT8012-005",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 666
+}

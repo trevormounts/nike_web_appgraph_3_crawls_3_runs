@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "m8FylXBQHtx35wcN+pkyOw==\n",
+    "height": 73,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y776_W203_H73",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_msg_info"
+            },
+            "backend_node_id": 7823,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 73.0,
+            "key": "832_776_203_73_Best Seller Nike Blazer Mid '77 Vintage Men's Shoes",
+            "tagName": "div",
+            "text": "Best Seller Nike Blazer Mid '77 Vintage Men's Shoes",
+            "width": 203.0,
+            "x": 832.0,
+            "y": 776.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 776.0
+        },
+        "size": {
+            "height": 73.0,
+            "width": 203.0
+        },
+        "tag_name": "div",
+        "text": "Best Seller Nike Blazer Mid '77 Vintage Men's Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Best Seller Nike Blazer Mid '77 Vintage Men's Shoes",
+    "transformed": true,
+    "width": 203,
+    "x": 832,
+    "y": 776
+}

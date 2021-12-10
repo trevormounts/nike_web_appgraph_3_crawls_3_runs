@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tuCXhl+WceZfxc57RROf5A==\n",
+    "height": 68,
+    "hier_level": 0,
+    "human_hash": "div_X1798_Y36_W84_H68",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-acct-btn-group pt2-sm pt3-lg d-sm-ib ta-sm-r flx-gro-sm-1 flx-gro-lg-0",
+                "data-pre": "HeaderButtonGroup"
+            },
+            "backend_node_id": 15097,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 68.0,
+            "key": "1798_36_84_68_",
+            "tagName": "div",
+            "text": "",
+            "width": 84.0,
+            "x": 1798.0,
+            "y": 36.0
+        },
+        "location": {
+            "x": 1798.0,
+            "y": 36.0
+        },
+        "size": {
+            "height": 68.0,
+            "width": 84.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 84,
+    "x": 1798,
+    "y": 36
+}

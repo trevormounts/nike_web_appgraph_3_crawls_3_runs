@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qWHg2jTe0um7me9G6lV/Hg==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y446_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Training & Gym",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "6",
+                "href": "https://www.nike.com/w/mens-training-gym-shoes-58jtoznik1zy7ok"
+            },
+            "backend_node_id": 9391,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_446_184_32_Training & Gym",
+            "tagName": "a",
+            "text": "Training & Gym",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 446.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 446.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Training & Gym"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Training & Gym",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 446
+}

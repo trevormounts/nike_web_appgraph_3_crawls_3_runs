@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kmioeXCLzmiohbX61joB8g==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "a_X1766_Y1_W42_H34",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm",
+                "data-path": "join us",
+                "data-pre": "ILink",
+                "data-type": "click_navMembership",
+                "href": "https://www.nike.com/membership"
+            },
+            "backend_node_id": 4569,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "1766_1_42_34_Join Us",
+            "tagName": "a",
+            "text": "Join Us",
+            "width": 42.0,
+            "x": 1766.0,
+            "y": 1.0
+        },
+        "location": {
+            "x": 1766.0,
+            "y": 1.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 42.0
+        },
+        "tag_name": "a",
+        "text": "Join Us"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Join Us",
+    "transformed": true,
+    "width": 42,
+    "x": 1766,
+    "y": 1
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Pr5i53XfiNg/hLyRexHdJw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "li_X1264_Y838_W360_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "description-preview__color-description ncss-li"
+            },
+            "backend_node_id": 15299,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "1264_838_360_24_Shown: Medium Grey/Multi-Color/Multi-Color",
+            "tagName": "li",
+            "text": "Shown: Medium Grey/Multi-Color/Multi-Color",
+            "width": 360.0,
+            "x": 1264.0,
+            "y": 838.0
+        },
+        "location": {
+            "x": 1264.0,
+            "y": 838.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 360.0
+        },
+        "tag_name": "li",
+        "text": "Shown: Medium Grey/Multi-Color/Multi-Color"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Shown: Medium Grey/Multi-Color/Multi-Color",
+    "transformed": true,
+    "width": 360,
+    "x": 1264,
+    "y": 838
+}

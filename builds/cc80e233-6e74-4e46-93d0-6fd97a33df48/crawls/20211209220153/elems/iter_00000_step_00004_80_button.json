@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "CARac0A3N/g2z7MK94EWKA==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "button_X52_Y682_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Shoes $100 & Under",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--button",
+                "data-group-type": "category",
+                "data-ndx": "14",
+                "data-url": "https://www.nike.com/w/mens-under-100-shoes-av8b2znik1zy7ok",
+                "role": "link",
+                "type": "button"
+            },
+            "backend_node_id": 9407,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_682_184_32_Shoes $100 & Under",
+            "tagName": "button",
+            "text": "Shoes $100 & Under",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 682.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 682.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "button",
+        "text": "Shoes $100 & Under"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Shoes $100 & Under",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 682
+}

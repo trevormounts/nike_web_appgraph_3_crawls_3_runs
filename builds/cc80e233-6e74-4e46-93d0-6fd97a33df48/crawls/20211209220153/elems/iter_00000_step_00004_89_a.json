@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "5fxpTVkQJF0gdJe8ieoSMw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "a_X46_Y810_W188_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "true",
+                "aria-label": "Filter for Men",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm filter-item is--default css-1kqgukw is--selected is--link",
+                "data-group-ndx": "0",
+                "data-group-type": "filter",
+                "data-is-color": "false",
+                "data-ndx": "0",
+                "href": "https://www.nike.com/w/shoes-y7ok",
+                "role": "menuitemcheckbox"
+            },
+            "backend_node_id": 7908,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "46_810_188_24_Men",
+            "tagName": "a",
+            "text": "Men",
+            "width": 188.0,
+            "x": 46.0,
+            "y": 810.0
+        },
+        "location": {
+            "x": 46.0,
+            "y": 810.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 188.0
+        },
+        "tag_name": "a",
+        "text": "Men"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Men",
+    "transformed": true,
+    "width": 188,
+    "x": 46,
+    "y": 810
+}

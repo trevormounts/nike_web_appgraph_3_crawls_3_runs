@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "pGpNK1v8q7vKvEkxkl/+Yg==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "span_X72_Y826_W31_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            },
+            "backend_node_id": 9427,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "72_826_31_24_Men",
+            "tagName": "span",
+            "text": "Men",
+            "width": 31.0,
+            "x": 72.0,
+            "y": 826.0
+        },
+        "location": {
+            "x": 72.0,
+            "y": 826.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 31.0
+        },
+        "tag_name": "span",
+        "text": "Men"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Men",
+    "transformed": true,
+    "width": 31,
+    "x": 72,
+    "y": 826
+}

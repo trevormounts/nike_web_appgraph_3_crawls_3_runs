@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "P4Pe58s/yYaFbpj0jxs/2A==\n",
+    "height": 514,
+    "hier_level": 0,
+    "human_hash": "div_X48_Y256_W192_H514",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "categories css-l49xoc is--desktop"
+            },
+            "backend_node_id": 9378,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 514.0,
+            "key": "48_256_192_514_Lifestyle Jordan Running Basketball Football Soccer Training & Gym Skateboarding Baseball Golf Tennis Walking Track & Field Sandals & Slides Shoes $100 & Under",
+            "tagName": "div",
+            "text": "Lifestyle Jordan Running Basketball Football Soccer Training & Gym Skateboarding Baseball Golf Tennis Walking Track & Field Sandals & Slides Shoes $100 & Under",
+            "width": 192.0,
+            "x": 48.0,
+            "y": 256.0
+        },
+        "location": {
+            "x": 48.0,
+            "y": 256.0
+        },
+        "size": {
+            "height": 514.0,
+            "width": 192.0
+        },
+        "tag_name": "div",
+        "text": "Lifestyle Jordan Running Basketball Football Soccer Training & Gym Skateboarding Baseball Golf Tennis Walking Track & Field Sandals & Slides Shoes $100 & Under"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Lifestyle Jordan Running Basketball Football Soccer Training & Gym Skateboarding Baseball Golf Tennis Walking Track & Field Sandals & Slides Shoes $100 & Under",
+    "transformed": true,
+    "width": 192,
+    "x": 48,
+    "y": 256
+}

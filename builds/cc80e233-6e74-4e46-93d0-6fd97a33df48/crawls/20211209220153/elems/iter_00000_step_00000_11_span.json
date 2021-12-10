@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ArXyGro2fxjTMp0VJbyHhw==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X1766_Y10_W42_H16",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 592,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "1766_10_42_16_Join Us",
+            "tagName": "span",
+            "text": "Join Us",
+            "width": 42.0,
+            "x": 1766.0,
+            "y": 10.0
+        },
+        "location": {
+            "x": 1766.0,
+            "y": 10.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 42.0
+        },
+        "tag_name": "span",
+        "text": "Join Us"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Join Us",
+    "transformed": true,
+    "width": 42,
+    "x": 1766,
+    "y": 10
+}

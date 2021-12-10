@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LEXiMMlfAfjYwo3m2LBzMw==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y240_W184_H32",
+    "human_readable": "a_52_240_184_32_a_ffffffff37ff27ff03ff03ff03ff03ff03ffefffffffffffffffffffffffffff_18e5d1444824e2e2b82741744c4c51c5",
+    "image_path": "NmExZDRjMTE4NDJkMjFjYjhjNGIwNjYyZDI3N2VlYWE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Lifestyle",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "0",
+                "href": "https://www.nike.com/w/mens-lifestyle-shoes-13jrmznik1zy7ok"
+            },
+            "backend_node_id": 9379,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_240_184_32_Lifestyle",
+            "tagName": "a",
+            "text": "Lifestyle",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 240.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 240.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Lifestyle"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "93ef54eff33ccf015c73026608a6c64b",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Lifestyle",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 240
+}

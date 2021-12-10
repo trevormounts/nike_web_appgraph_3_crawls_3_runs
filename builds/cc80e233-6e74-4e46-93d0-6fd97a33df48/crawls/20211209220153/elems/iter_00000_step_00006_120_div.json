@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IQoiGPX348E4BOsHxJHe2g==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y801_W143_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__title",
+                "id": "Air Jordan 11 Retro"
+            },
+            "backend_node_id": 12974,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "308_801_143_24_Air Jordan 11 Retro",
+            "tagName": "div",
+            "text": "Air Jordan 11 Retro",
+            "width": 143.0,
+            "x": 308.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 143.0
+        },
+        "tag_name": "div",
+        "text": "Air Jordan 11 Retro"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Air Jordan 11 Retro",
+    "transformed": true,
+    "width": 143,
+    "x": 308,
+    "y": 801
+}

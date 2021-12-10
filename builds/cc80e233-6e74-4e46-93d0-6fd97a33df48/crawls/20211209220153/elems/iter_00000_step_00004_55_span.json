@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "lgdqmo4t7PS2n4N6Pww0fg==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "span_X324_Y178_W59_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__item_count"
+            },
+            "backend_node_id": 9335,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "324_178_59_28_(669)",
+            "tagName": "span",
+            "text": "(669)",
+            "width": 59.0,
+            "x": 324.0,
+            "y": 178.0
+        },
+        "location": {
+            "x": 324.0,
+            "y": 178.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 59.0
+        },
+        "tag_name": "span",
+        "text": "(669)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "(669)",
+    "transformed": true,
+    "width": 59,
+    "x": 324,
+    "y": 178
+}

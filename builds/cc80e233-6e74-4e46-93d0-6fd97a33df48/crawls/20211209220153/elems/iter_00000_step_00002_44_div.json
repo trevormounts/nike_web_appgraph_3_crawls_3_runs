@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "wcOV64QF9Kc311pgTuIvnA==\n",
+    "height": 104,
+    "hier_level": 0,
+    "human_hash": "div_X0_Y154_W1920_H104",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sticky-inner-wrapper",
+                "style": "position:relative;top:0px"
+            },
+            "backend_node_id": 5523,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 104.0,
+            "key": "0_154_1920_104_Men Shoes Clothing Accessories Sale",
+            "tagName": "div",
+            "text": "Men Shoes Clothing Accessories Sale",
+            "width": 1920.0,
+            "x": 0.0,
+            "y": 154.0
+        },
+        "location": {
+            "x": 0.0,
+            "y": 154.0
+        },
+        "size": {
+            "height": 104.0,
+            "width": 1920.0
+        },
+        "tag_name": "div",
+        "text": "Men Shoes Clothing Accessories Sale"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Men Shoes Clothing Accessories Sale",
+    "transformed": true,
+    "width": 1920,
+    "x": 0,
+    "y": 154
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w5jM1MnWePLtD8FLGTH8dw==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "div_X308_Y809_W203_H24",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__subtitle"
+            },
+            "backend_node_id": 10602,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "308_809_203_24_Men's Shoes",
+            "tagName": "div",
+            "text": "Men's Shoes",
+            "width": 203.0,
+            "x": 308.0,
+            "y": 809.0
+        },
+        "location": {
+            "x": 308.0,
+            "y": 809.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 203.0
+        },
+        "tag_name": "div",
+        "text": "Men's Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Men's Shoes",
+    "transformed": true,
+    "width": 203,
+    "x": 308,
+    "y": 809
+}

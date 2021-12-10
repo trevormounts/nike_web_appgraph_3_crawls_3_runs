@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "F1OKTcLnczmqwxcLkhKVZw==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "div_X832_Y851_W508_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card__count-item"
+            },
+            "backend_node_id": 10604,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "832_851_508_25_6 Colors",
+            "tagName": "div",
+            "text": "6 Colors",
+            "width": 508.0,
+            "x": 832.0,
+            "y": 851.0
+        },
+        "location": {
+            "x": 832.0,
+            "y": 851.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 508.0
+        },
+        "tag_name": "div",
+        "text": "6 Colors"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "6 Colors",
+    "transformed": true,
+    "width": 508,
+    "x": 832,
+    "y": 851
+}

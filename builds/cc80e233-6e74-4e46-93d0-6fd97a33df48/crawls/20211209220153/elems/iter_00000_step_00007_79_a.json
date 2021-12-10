@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0ikqZwWLgW5U//Q/3yEB8A==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "a_X52_Y414_W184_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Soccer",
+                "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                "data-group-type": "category",
+                "data-ndx": "5",
+                "href": "https://www.nike.com/w/mens-soccer-shoes-1gdj0znik1zy7ok"
+            },
+            "backend_node_id": 9389,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "52_414_184_32_Soccer",
+            "tagName": "a",
+            "text": "Soccer",
+            "width": 184.0,
+            "x": 52.0,
+            "y": 414.0
+        },
+        "location": {
+            "x": 52.0,
+            "y": 414.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 184.0
+        },
+        "tag_name": "a",
+        "text": "Soccer"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Soccer",
+    "transformed": true,
+    "width": 184,
+    "x": 52,
+    "y": 414
+}

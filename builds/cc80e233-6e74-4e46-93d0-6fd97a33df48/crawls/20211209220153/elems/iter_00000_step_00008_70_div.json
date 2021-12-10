@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qLcMvH7ldBacgxvsfmShxA==\n",
+    "height": 286,
+    "hier_level": 0,
+    "human_hash": "div_X1248_Y356_W376_H286",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 15282,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 286.0,
+            "key": "1248_356_376_286_Coming Soon Available 12/11 at 10:00 AM EST Get in Line. Get the goods. Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+            "tagName": "div",
+            "text": "Coming Soon Available 12/11 at 10:00 AM EST Get in Line. Get the goods. Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+            "width": 376.0,
+            "x": 1248.0,
+            "y": 356.0
+        },
+        "location": {
+            "x": 1248.0,
+            "y": 356.0
+        },
+        "size": {
+            "height": 286.0,
+            "width": 376.0
+        },
+        "tag_name": "div",
+        "text": "Coming Soon Available 12/11 at 10:00 AM EST Get in Line. Get the goods. Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Coming Soon Available 12/11 at 10:00 AM EST Get in Line. Get the goods. Create or sign in to your free Nike Member account for a chance to buy this product the moment it's released.  Learn more",
+    "transformed": true,
+    "width": 376,
+    "x": 1248,
+    "y": 356
+}
