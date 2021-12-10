@@ -1,0 +1,326 @@
+[
+    {
+        "hash": "fb892e85b05d67c1998c539e120b1a66"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "Ho+07TNfPSFN0WrhUm7RRw==\n",
+                "height": 60,
+                "hier_level": 0,
+                "human_hash": "a_X1007_Y36_W57_H60",
+                "human_readable": "a_1007_36_57_60_a_ffffffffffffffffffffe9bfe00fe007e007fd0fffffffffffffffffffffffff_d5f22cecb775ab8d8a97c9cef4762d2a",
+                "img_hash": "7a547ff8000af2c02705702d69a7bcc6",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-controls": "DesktopMenu-0-3-0",
+                            "aria-expanded": "false",
+                            "aria-label": "Kids",
+                            "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline",
+                            "data-nav": "3,0,-1",
+                            "data-path": "kids",
+                            "data-pre": "ILink",
+                            "data-type": "click_navShoppingMenu",
+                            "href": "https://www.nike.com/kids",
+                            "role": "menu"
+                        },
+                        "backend_node_id": 1120,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 60.0,
+                        "key": "1007_36_57_60_Kids",
+                        "tagName": "a",
+                        "text": "Kids",
+                        "width": 57.0,
+                        "x": 1007.0,
+                        "y": 36.0
+                    },
+                    "location": {
+                        "x": 1007.0,
+                        "y": 36.0
+                    },
+                    "size": {
+                        "height": 60.0,
+                        "width": 57.0
+                    },
+                    "tag_name": "a",
+                    "text": "Kids"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffffff131f13df3bdf31df31df705f7878783bf038101010100030003",
+                "resource-id": "",
+                "screen_hash": "fb892e85b05d67c1998c539e120b1a66",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Kids",
+                "text_hash": "d5f22cecb775ab8d8a97c9cef4762d2a",
+                "transformed": true,
+                "width": 57,
+                "x": 1007,
+                "y": 36
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NWYyZDRhOTBkNTAyNWNiN2U2ZTBhNDVjY2I5NTdkMmY"
+    },
+    {
+        "hash": "e6fec622a55a15efc742a4bb2eb1cc68"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "E/eZbXVm/26keSGFzf44Wg==\n",
+                "height": 27,
+                "hier_level": 0,
+                "human_hash": "a_X1004_Y192_W145_H27",
+                "human_readable": "a_1004_192_145_27_a_ffffffffffffffff7fff71ff000000000000008000000200ffffffffffffffff_f7379338aeea11f38d4ec223e062e257",
+                "img_hash": "6d89474e949a45acdcd6399bba0386d9",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Gear & Accessories",
+                            "class": "JSftBPEZ",
+                            "data-analytics-action-id": "7c19a889-e350-4e03-b04a-ac3a0d3ac114",
+                            "href": "https://www.nike.com/w/kids-accessories-equipment-awwpwzv4dh"
+                        },
+                        "backend_node_id": 5606,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 27.0,
+                        "key": "1004_192_145_27_Gear & Accessories",
+                        "tagName": "a",
+                        "text": "Gear & Accessories",
+                        "width": 145.0,
+                        "x": 1004.0,
+                        "y": 192.0
+                    },
+                    "location": {
+                        "x": 1004.0,
+                        "y": 192.0
+                    },
+                    "size": {
+                        "height": 27.0,
+                        "width": 145.0
+                    },
+                    "tag_name": "a",
+                    "text": "Gear & Accessories"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffffffffffffff9800081818781878187c00781038186008c018e008e00",
+                "resource-id": "",
+                "screen_hash": "e6fec622a55a15efc742a4bb2eb1cc68",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Gear & Accessories",
+                "text_hash": "f7379338aeea11f38d4ec223e062e257",
+                "transformed": true,
+                "width": 145,
+                "x": 1004,
+                "y": 192
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MTgxMDljNDAzNzExMTY1ZDM4ZjIxZmU3MjFiMWNjNDY"
+    },
+    {
+        "hash": "1bbf60db4225b985cb8dd6a11224ab54"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "/Z3NKqDLB52gMj3OcY8SPQ==\n",
+                "height": 32,
+                "hier_level": 0,
+                "human_hash": "a_X52_Y256_W184_H32",
+                "human_readable": "a_52_256_184_32_a_ffffffff73ff62df000f000f000f000f000fdf7fffffffffffffffffffffffff_1ae83cc6b093e76ee5e9fdfde21c3ff9",
+                "img_hash": "645fe4f329e5ae32c8f7e9fa63daae06",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Category for Bags & Backpacks",
+                            "class": "css-hrsjq4 css-xhk1pl css-113jurm categories__item  is--link",
+                            "data-group-type": "category",
+                            "data-ndx": "0",
+                            "href": "https://www.nike.com/w/kids-bags-and-backpacks-9xy71zv4dh"
+                        },
+                        "backend_node_id": 9660,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 32.0,
+                        "key": "52_256_184_32_Bags & Backpacks",
+                        "tagName": "a",
+                        "text": "Bags & Backpacks",
+                        "width": 184.0,
+                        "x": 52.0,
+                        "y": 256.0
+                    },
+                    "location": {
+                        "x": 52.0,
+                        "y": 256.0
+                    },
+                    "size": {
+                        "height": 32.0,
+                        "width": 184.0
+                    },
+                    "tag_name": "a",
+                    "text": "Bags & Backpacks"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffffffffbffffffff3bff337e325e320e320e320e325ffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "1bbf60db4225b985cb8dd6a11224ab54",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Bags & Backpacks",
+                "text_hash": "1ae83cc6b093e76ee5e9fdfde21c3ff9",
+                "transformed": true,
+                "width": 184,
+                "x": 52,
+                "y": 256
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MTY3OGRjNzZiNjNhNDE3ZThiMGY2OWVkZjYwOTc0MjI"
+    },
+    {
+        "hash": "58c5582f912c3a026cd1d1697ceef3b2"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "8JaeSBU/3XDDoBHU3dyv1A==\n",
+                "height": 508,
+                "hier_level": 0,
+                "human_hash": "img_X832_Y256_W508_H508",
+                "human_readable": "img_832_256_508_508_img_fffffefffc3ff81ff00ff00ff00ff00ff00ff007f007f007f00ff00fffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "1579b61fa69662f95f7a7df40ff0e247",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "Nike Classic Kids' Backpack (16L)",
+                            "class": "css-1fxh5tw product-card__hero-image",
+                            "loading": "lazy",
+                            "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px",
+                            "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png",
+                            "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/240e6238-f43f-4323-a0bc-10ed0292ce60/classic-kids-backpack-16l-Bb8P5P.png 400w"
+                        },
+                        "backend_node_id": 10175,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 508.0,
+                        "key": "832_256_508_508_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 508.0,
+                        "x": 832.0,
+                        "y": 256.0
+                    },
+                    "location": {
+                        "x": 832.0,
+                        "y": 256.0
+                    },
+                    "size": {
+                        "height": 508.0,
+                        "width": 508.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffffffff9fffffffff3bff31f711f321f300f200f320f7bfffffffffffff",
+                "resource-id": "",
+                "screen_hash": "58c5582f912c3a026cd1d1697ceef3b2",
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 508,
+                "x": 832,
+                "y": 256
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ZTU1ZDZkMGY2MDNhYmI2NTA2ODNjZDlhMTUwNGFhZjc"
+    },
+    {
+        "hash": "6b518ffbe7ffd26eceb23fb54ad51966"
+    }
+]

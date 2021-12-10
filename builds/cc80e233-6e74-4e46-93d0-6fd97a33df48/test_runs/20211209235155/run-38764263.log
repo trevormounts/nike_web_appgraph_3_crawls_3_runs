@@ -1,0 +1,299 @@
+2021-12-09 23:51:55,587 INFO     carbon_tasks.regress_app_task -- Remote host address: http://localhost:8083
+2021-12-09 23:51:55,596 INFO     carbon_tasks.process_crawl_task -- processing master crawl: (app: 8569ac5b-389e-439c-b313-ed1f31307953)
+2021-12-09 23:51:55,601 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2021-12-09 23:51:55,608 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2021-12-09 23:51:55,612 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2021-12-09 23:51:55,612 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/hashes_to_labels.json
+2021-12-09 23:51:55,613 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/human_readable_to_labels.json
+2021-12-09 23:51:55,614 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/label_to_hash_dicts.json
+2021-12-09 23:51:55,614 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/human_readable_to_paths.json
+2021-12-09 23:51:56,052 INFO     carbon_tasks.regress_app_task -- running regress for test case: Kid's Gear - 0603b0b2-0940-4fd5-8beb-8351849f111d
+2021-12-09 23:51:56,052 INFO     carbon_tasks.regress_app_task -- steps required for test: 5
+2021-12-09 23:51:56,052 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 5
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- **************************************************
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- **************************************************
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- *                                                *
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- *                                                *
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- **************************************************
+2021-12-09 23:51:56,053 INFO     carbon_explore.explore -- **************************************************
+2021-12-09 23:51:56,053 INFO     carbon_initialization.initialization -- Random seed: 1639104844
+2021-12-09 23:51:56,055 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-12-09 23:51:56,055 INFO     carbon_initialization.initialization --                   PACKAGE: 8569ac5b-389e-439c-b313-ed1f31307953
+2021-12-09 23:51:56,055 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-12-09 23:51:56,055 INFO     carbon_initialization.initialization -- platform: DESKTOP_CHROME
+2021-12-09 23:51:56,055 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209235155
+2021-12-09 23:51:56,056 INFO     carbon_botio.bot_io -- retrieving bot IO for app: 8569ac5b-389e-439c-b313-ed1f31307953
+2021-12-09 23:51:56,056 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-12-09 23:51:56,056 INFO     carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/lkg/botio.json
+2021-12-09 23:51:56,056 INFO     carbon_botio.bot_io -- use_snapshot: False
+2021-12-09 23:51:56,056 INFO     carbon_botio.bot_io -- no botIO found for app: 8569ac5b-389e-439c-b313-ed1f31307953
+2021-12-09 23:51:56,057 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-09 23:51:56,057 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2021-12-09 23:51:56,059 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-12-09 23:51:56,059 INFO     carbon_utils.simulator_tools -- starting appium, platform: DESKTOP_CHROME
+2021-12-09 23:51:56,059 INFO     carbon_utils.simulator_tools -- starting appium/webdriver for desktop chrome
+2021-12-09 23:51:57,356 INFO     carbon_automation.driver -- Screen density: 1.0
+2021-12-09 23:51:57,499 INFO     carbon_utils.simulator_tools -- going to https://www.nike.com
+2021-12-09 23:51:58,877 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:51:58] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:51:59,486 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:51:59] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:03,945 INFO     carbon_utils.simulator_tools -- completed setting url, additional time: 6.435480
+2021-12-09 23:52:04,023 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:04] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:04,496 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:04] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:05,956 INFO     carbon_initialization.initialization -- starting dom stability
+2021-12-09 23:52:06,025 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:06,199 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:06,368 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:06,546 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:06,723 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:06,896 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,063 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,233 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,414 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,586 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,756 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:07,933 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,105 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,278 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,447 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,623 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,798 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:08,938 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:08] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:08,971 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:09,142 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:09,315 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:09,479 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:09] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:09,488 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:09,489 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2021-12-09 23:52:09,489 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2021-12-09 23:52:10,892 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/_v/ytvqpr0s4wngl3r7ndszp1jm0000gn/T/tmp-screenshot-7polsuzr.png
+2021-12-09 23:52:10,966 INFO     carbon_initialization.initialization -- current package sent in as: 8569ac5b-389e-439c-b313-ed1f31307953
+2021-12-09 23:52:10,966 INFO     carbon_initialization.initialization -- ended dom stability
+2021-12-09 23:52:10,967 INFO     carbon_explore.explore -- package is set to: 8569ac5b-389e-439c-b313-ed1f31307953
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- * Beginning step: 0, Test completed: False, Total steps: 4
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- * Description: 
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:10,968 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:11,193 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2021-12-09 23:52:11,385 INFO     carbon_explore.explore -- Determining active labels.
+2021-12-09 23:52:11,385 INFO     carbon_explore.explore -- Determining active models.
+2021-12-09 23:52:11,385 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2021-12-09 23:52:12,021 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- Predicting labels for screen fb892e85b05d67c1998c539e120b1a66 with active labels "ddm_kids"...
+2021-12-09 23:52:12,180 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labels found for screen fb892e85b05d67c1998c539e120b1a66.
+2021-12-09 23:52:12,180 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-09 23:52:12,217 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: ddm_kids, score: 1.0
+2021-12-09 23:52:12,218 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/bot/test_ai/templates
+2021-12-09 23:52:12,220 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.8340088530003413 seconds
+2021-12-09 23:52:12,220 INFO     carbon_explore.explore -- Completed getting labels for screen
+2021-12-09 23:52:12,220 INFO     carbon_explore.explore -- Handling test step type: Action
+2021-12-09 23:52:12,220 INFO     carbon_explore.explore -- found all labels
+2021-12-09 23:52:12,221 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'p_X928_Y124_W63_H24', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 928, 'y': 124, 'width': 63, 'height': 24, 'tag_name': 'p', 'class': 'p', 'text': 'Learn More', 'hash': 'jGxKiJk5AKuDFOA7+6ja7Q==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 928.0, 'y': 124.0}, 'size': {'width': 63.0, 'height': 24.0}, 'tag_name': 'p', 'text': 'Learn More', 'elem_dict': {'x': 928.0, 'y': 124.0, 'width': 63.0, 'height': 24.0, 'tagName': 'p', 'attributes': {}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Learn More', 'backend_node_id': 1526, 'key': '928_124_63_24_Learn More'}}, 'index': -1, 'elem_shot_file_path': '/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209235155/tmpZ/123145584181248/p_X928_Y124_W63_H24.png', 'img_hash': 'e67cd61af3f5ae717d4667b3cba2ad71', 'text_hash': '32c19ed268877e6db636cb60b5dad3d7', 'human_readable': 'p_928_124_63_24_p_ffffffffffffffffffff7f8f408040804080008002920000ffffffffffffffff_32c19ed268877e6db636cb60b5dad3d7'}, input: tap
+2021-12-09 23:52:12,298 INFO     carbon_explore.explore -- Gesture: tap
+2021-12-09 23:52:12,299 INFO     carbon_utils.action_utils -- Action: Tap
+2021-12-09 23:52:12,299 INFO     carbon_utils.action_utils --    On Element: a_X1007_Y36_W57_H60
+2021-12-09 23:52:12,299 INFO     carbon_utils.action_utils --    Sending cx: 1035 cy: 66
+2021-12-09 23:52:14,482 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:14] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:14,605 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:14] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:18,391 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-12-09 23:52:18,544 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:18,746 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:18,941 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:19,115 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:19,289 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:19,408 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:19] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:19,469 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:19,478 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:19] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:19,719 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:19,899 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,080 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,256 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,430 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,610 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,781 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:20,958 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:21,133 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:21,313 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:21,490 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:21,490 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2021-12-09 23:52:21,491 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2021-12-09 23:52:22,647 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/_v/ytvqpr0s4wngl3r7ndszp1jm0000gn/T/tmp-screenshot-xybqbv32.png
+2021-12-09 23:52:22,726 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- Step: 0 complete
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: False, Total steps: 4
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- * Description: 
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:22,727 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:22,962 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2021-12-09 23:52:23,112 INFO     carbon_explore.explore -- Determining active labels.
+2021-12-09 23:52:23,112 INFO     carbon_explore.explore -- Determining active models.
+2021-12-09 23:52:23,112 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2021-12-09 23:52:24,008 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:24] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:24,060 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- Predicting labels for screen e6fec622a55a15efc742a4bb2eb1cc68 with active labels "lnk_gear_accessories"...
+2021-12-09 23:52:24,233 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labels found for screen e6fec622a55a15efc742a4bb2eb1cc68.
+2021-12-09 23:52:24,234 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-09 23:52:24,272 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: lnk_gear_accessories, score: 1.0
+2021-12-09 23:52:24,272 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/bot/test_ai/templates
+2021-12-09 23:52:24,346 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.2328044189998764 seconds
+2021-12-09 23:52:24,346 INFO     carbon_explore.explore -- Completed getting labels for screen
+2021-12-09 23:52:24,346 INFO     carbon_explore.explore -- Handling test step type: Action
+2021-12-09 23:52:24,346 INFO     carbon_explore.explore -- found all labels
+2021-12-09 23:52:24,346 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'li_X1181_Y192_W32_H28', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1181, 'y': 192, 'width': 32, 'height': 28, 'tag_name': 'li', 'class': 'li', 'text': 'Sale', 'hash': 'uPWseuN2xJr747Q7nH3jhg==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1181.0, 'y': 192.0}, 'size': {'width': 32.0, 'height': 28.0}, 'tag_name': 'li', 'text': 'Sale', 'elem_dict': {'x': 1181.0, 'y': 192.0, 'width': 32.0, 'height': 28.0, 'tagName': 'li', 'attributes': {}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Sale', 'backend_node_id': 5608, 'key': '1181_192_32_28_Sale'}}, 'index': -1, 'elem_shot_file_path': '/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209235155/tmpZ/123145634013184/li_X1181_Y192_W32_H28.png', 'img_hash': '4e4c772c82130efa171cd3dc5634af3f', 'text_hash': '030911dad5cf7d45766d062f328e7d49', 'human_readable': 'li_1181_192_32_28_li_ffffffffffffffff8fdf07df24590850c400200000108c19ffffffffffffffff_030911dad5cf7d45766d062f328e7d49'}, input: tap
+2021-12-09 23:52:24,438 INFO     carbon_explore.explore -- Gesture: tap
+2021-12-09 23:52:24,440 INFO     carbon_utils.action_utils -- Action: Tap
+2021-12-09 23:52:24,440 INFO     carbon_utils.action_utils --    On Element: a_X1004_Y192_W145_H27
+2021-12-09 23:52:24,440 INFO     carbon_utils.action_utils --    Sending cx: 1076 cy: 205
+2021-12-09 23:52:24,477 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:24] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:24,516 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-12-09 23:52:24,591 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:24,765 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:28,790 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:28] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:29,489 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:29] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:29,704 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:29] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:31,393 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:31,552 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:31,718 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:31,879 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,036 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,199 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,356 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,514 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,673 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,826 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,983 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:32,983 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2021-12-09 23:52:32,983 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2021-12-09 23:52:33,524 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/_v/ytvqpr0s4wngl3r7ndszp1jm0000gn/T/tmp-screenshot-8hajrkp5.png
+2021-12-09 23:52:33,647 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-12-09 23:52:33,647 INFO     carbon_explore.explore -- Step: 1 complete
+2021-12-09 23:52:33,648 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:33,648 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:33,648 INFO     carbon_explore.explore -- * Beginning step: 2, Test completed: False, Total steps: 4
+2021-12-09 23:52:33,648 INFO     carbon_explore.explore -- * Description: 
+2021-12-09 23:52:33,649 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:33,649 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:33,875 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2021-12-09 23:52:34,022 INFO     carbon_explore.explore -- Determining active labels.
+2021-12-09 23:52:34,022 INFO     carbon_explore.explore -- Determining active models.
+2021-12-09 23:52:34,022 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2021-12-09 23:52:34,356 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:34] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:34,486 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:34] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:35,406 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- Predicting labels for screen 1bbf60db4225b985cb8dd6a11224ab54 with active labels "mi_bags_backpacks"...
+2021-12-09 23:52:35,566 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labels found for screen 1bbf60db4225b985cb8dd6a11224ab54.
+2021-12-09 23:52:35,566 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-09 23:52:35,655 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: mi_bags_backpacks, score: 1.0
+2021-12-09 23:52:35,655 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/bot/test_ai/templates
+2021-12-09 23:52:35,659 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.6363182960003542 seconds
+2021-12-09 23:52:35,660 INFO     carbon_explore.explore -- Completed getting labels for screen
+2021-12-09 23:52:35,660 INFO     carbon_explore.explore -- Handling test step type: Action
+2021-12-09 23:52:35,660 INFO     carbon_explore.explore -- found all labels
+2021-12-09 23:52:35,660 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X1356_Y861_W508_H28', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1356, 'y': 861, 'width': 508, 'height': 28, 'tag_name': 'div', 'class': 'div', 'text': '$25', 'hash': '1zAXqtt1ncM3UdwCkd4sgA==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1356.0, 'y': 861.0}, 'size': {'width': 508.0, 'height': 28.0}, 'tag_name': 'div', 'text': '$25', 'elem_dict': {'x': 1356.0, 'y': 861.0, 'width': 508.0, 'height': 28.0, 'tagName': 'div', 'attributes': {'class': 'product-card__price'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': '$25', 'backend_node_id': 10105, 'key': '1356_861_508_28_$25'}}, 'index': -1, 'elem_shot_file_path': '/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209235155/tmpZ/123145617760256/div_X1356_Y861_W508_H28.png', 'img_hash': '96ae46541d56877129d329199285b7be', 'text_hash': '19b8eeff9cf0d982aa8cf119aacb9860', 'human_readable': 'div_1356_861_508_28_div_ffffffffffffffff7fff7fff7fff3fff7fff7fff7fff7fffffffffffffffffff_19b8eeff9cf0d982aa8cf119aacb9860'}, input: tap
+2021-12-09 23:52:35,739 INFO     carbon_explore.explore -- Gesture: tap
+2021-12-09 23:52:35,741 INFO     carbon_utils.action_utils -- Action: Tap
+2021-12-09 23:52:35,741 INFO     carbon_utils.action_utils --    On Element: a_X52_Y256_W184_H32
+2021-12-09 23:52:35,741 INFO     carbon_utils.action_utils --    Sending cx: 144 cy: 272
+2021-12-09 23:52:35,891 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-12-09 23:52:35,953 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:36,119 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:36,282 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:36,442 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:36,601 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:36,881 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,040 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,259 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,450 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,609 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,777 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:37,933 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:38,091 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:38,249 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:38,406 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:38,406 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2021-12-09 23:52:38,406 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2021-12-09 23:52:38,905 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/_v/ytvqpr0s4wngl3r7ndszp1jm0000gn/T/tmp-screenshot-9kenay48.png
+2021-12-09 23:52:38,960 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-12-09 23:52:38,960 INFO     carbon_explore.explore -- Step: 2 complete
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- * Beginning step: 3, Test completed: False, Total steps: 4
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- * Description: 
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:38,961 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:39,251 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2021-12-09 23:52:39,393 INFO     carbon_explore.explore -- Determining active labels.
+2021-12-09 23:52:39,393 INFO     carbon_explore.explore -- Determining active models.
+2021-12-09 23:52:39,393 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2021-12-09 23:52:39,486 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:39] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:40,001 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:40] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:40,840 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- Predicting labels for screen 58c5582f912c3a026cd1d1697ceef3b2 with active labels "img_back_kids_classic"...
+2021-12-09 23:52:40,995 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labels found for screen 58c5582f912c3a026cd1d1697ceef3b2.
+2021-12-09 23:52:40,995 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-12-09 23:52:41,093 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: img_back_kids_classic, score: 1.0
+2021-12-09 23:52:41,093 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/bot/test_ai/templates
+2021-12-09 23:52:41,097 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.7030902559999959 seconds
+2021-12-09 23:52:41,097 INFO     carbon_explore.explore -- Completed getting labels for screen
+2021-12-09 23:52:41,097 INFO     carbon_explore.explore -- Handling test step type: Action
+2021-12-09 23:52:41,098 INFO     carbon_explore.explore -- found all labels
+2021-12-09 23:52:41,098 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X1356_Y861_W508_H28', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1356, 'y': 861, 'width': 508, 'height': 28, 'tag_name': 'div', 'class': 'div', 'text': '$35', 'hash': 'T+WBjdiPlPDVK2RmRVAEYw==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1356.0, 'y': 861.0}, 'size': {'width': 508.0, 'height': 28.0}, 'tag_name': 'div', 'text': '$35', 'elem_dict': {'x': 1356.0, 'y': 861.0, 'width': 508.0, 'height': 28.0, 'tagName': 'div', 'attributes': {'class': 'product-card__price'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': '$35', 'backend_node_id': 10490, 'key': '1356_861_508_28_$35'}}, 'index': -1, 'elem_shot_file_path': '/Users/bot/test_ai/apps/8569ac5b-389e-439c-b313-ed1f31307953/builds/cc80e233-6e74-4e46-93d0-6fd97a33df48/test_runs/20211209235155/tmpZ/123145634549760/div_X1356_Y861_W508_H28.png', 'img_hash': 'b87fdb66e84917d4bd6bd399cd439cd2', 'text_hash': 'e6560dc2453f232f29c6a01ee94da15d', 'human_readable': 'div_1356_861_508_28_div_ffffffffffffffff7fff7fff7fff3fff7fff7fff7fff7fffffffffffffffffff_e6560dc2453f232f29c6a01ee94da15d'}, input: tap
+2021-12-09 23:52:41,177 INFO     carbon_explore.explore -- Gesture: tap
+2021-12-09 23:52:41,178 INFO     carbon_utils.action_utils -- Action: Tap
+2021-12-09 23:52:41,178 INFO     carbon_utils.action_utils --    On Element: img_X832_Y256_W508_H508
+2021-12-09 23:52:41,179 INFO     carbon_utils.action_utils --    Sending cx: 1086 cy: 510
+2021-12-09 23:52:44,202 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:44] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:44,487 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:44] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:47,692 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-12-09 23:52:47,813 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:47,995 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:48,166 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:48,326 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:48,483 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:48,639 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:48,835 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,010 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,169 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,331 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,467 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:49] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:49,487 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,608 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:49] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:49,644 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,803 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:49,962 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:50,122 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:50,283 INFO     carbon_actions.carbon_actions -- Got new page source
+2021-12-09 23:52:50,284 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2021-12-09 23:52:50,284 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2021-12-09 23:52:50,748 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/_v/ytvqpr0s4wngl3r7ndszp1jm0000gn/T/tmp-screenshot-vsv1sr9u.png
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- Step: 3 complete
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- * Beginning step: 4, Test completed: False, Total steps: 4
+2021-12-09 23:52:50,802 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:50,803 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:50,984 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2021-12-09 23:52:51,102 INFO     carbon_explore.explore -- test completed
+2021-12-09 23:52:54,434 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:54] "GET /api/v2/status HTTP/1.1" 200 -
+2021-12-09 23:52:54,476 INFO     werkzeug -- 127.0.0.1 - - [09/Dec/2021 23:52:54] "GET / HTTP/1.1" 200 -
+2021-12-09 23:52:56,156 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2021-12-09 23:52:56,156 INFO     carbon_explore.test_hooks -- Running on failure hooks.
+2021-12-09 23:52:56,156 INFO     carbon_explore.test_hooks -- Running teardown hooks.
+2021-12-09 23:52:56,161 INFO     carbon_explore.test_hooks -- Running error detectors.
+2021-12-09 23:52:56,161 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:56,162 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:56,162 INFO     carbon_explore.explore -- * Beginning step: 4, Test completed: True, Total steps: 4
+2021-12-09 23:52:56,162 INFO     carbon_explore.explore -- ********************************************************************************
+2021-12-09 23:52:56,163 INFO     carbon_explore.explore -- 
+2021-12-09 23:52:56,163 INFO     carbon_explore.explore -- Performing post-walk cleanup.
+2021-12-09 23:52:56,309 INFO     carbon_explore.explore -- Iteration completed: 0
+2021-12-09 23:52:57,694 INFO     carbon_dao.master_crawl_squash -- Squashing test run 20211209235155
+2021-12-09 23:52:57,768 INFO     carbon_dao.master_crawl_squash -- Squashed screen fb892e85b05d67c1998c539e120b1a66.
+2021-12-09 23:52:57,864 INFO     carbon_dao.master_crawl_squash -- Squashed screen e6fec622a55a15efc742a4bb2eb1cc68.
+2021-12-09 23:52:57,907 INFO     carbon_dao.master_crawl_squash -- Squashed screen 1bbf60db4225b985cb8dd6a11224ab54.
+2021-12-09 23:52:57,947 INFO     carbon_dao.master_crawl_squash -- Squashed screen 58c5582f912c3a026cd1d1697ceef3b2.
+2021-12-09 23:52:57,980 INFO     carbon_dao.master_crawl_squash -- Squashed screen 6b518ffbe7ffd26eceb23fb54ad51966.
+2021-12-09 23:52:58,089 INFO     carbon_dao.master_crawl_graph -- Extracting sequence data from test run 20211209235155
+2021-12-09 23:52:58,677 INFO     carbon_graph.q_learning -- Deleted existing Q-matrices.
+2021-12-09 23:52:58,681 INFO     carbon_utils.file_logger -- Removing log file handler.
