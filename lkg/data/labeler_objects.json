@@ -385,6 +385,8 @@
         "dupe_to_master_key": {
             "0d0faa6ca1d72046b4681e25fec853d6.png": "0d0faa6ca1d72046b4681e25fec853d6.png",
             "17671d66539a87cd4d718cba2d973610.png": "17671d66539a87cd4d718cba2d973610.png",
+            "23bca477add9856c155d57b01eb54673.png": "23bca477add9856c155d57b01eb54673.png",
+            "333658f7d20fb80ffb7b9cdacb4e8bbb.png": "333658f7d20fb80ffb7b9cdacb4e8bbb.png",
             "34590adbedbbed8f3914a40c12b01fee.png": "34590adbedbbed8f3914a40c12b01fee.png",
             "392fa6287534c6fa59ca4db8e006442a.png": "392fa6287534c6fa59ca4db8e006442a.png",
             "43d2dc88c06863fddbcae2d2d36008d7.png": "43d2dc88c06863fddbcae2d2d36008d7.png",
@@ -522,6 +524,108 @@
                     "order_by_12.15_for_delivery_by_12.25",
                     "new_releases",
                     "sale",
+                    "sign_in"
+                ]
+            },
+            "23bca477add9856c155d57b01eb54673.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "23bca477add9856c155d57b01eb54673.png"
+                ],
+                "tags": [
+                    "all_screens"
+                ],
+                "text": []
+            },
+            "333658f7d20fb80ffb7b9cdacb4e8bbb.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "333658f7d20fb80ffb7b9cdacb4e8bbb.png"
+                ],
+                "tags": [
+                    "nav",
+                    "img",
+                    "div",
+                    "ul",
+                    "input",
+                    "button",
+                    "li",
+                    "header",
+                    "h1",
+                    "all_screens",
+                    "span",
+                    "p",
+                    "a"
+                ],
+                "text": [
+                    "",
+                    "kids",
+                    "$50",
+                    "men",
+                    "|",
+                    "women",
+                    "nike_sportswear_essential",
+                    "hide_filters",
+                    "join_us",
+                    "hoodies_&_pullovers_sports_bras_pants_&_tights_jackets_&_vests_tops_&_t-shirts_shorts_compression_&_baselayer_bodysuits_jumpsuits_&_rompers_tracksuits_skirts_&_dresses_swimwear_hijabs_socks",
+                    "new_releases_men_women_kids_sale_gifts",
+                    "help_|",
+                    "nike_sportswear_icon_clash_women's_mock_long-sleeve_top",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now_order_by_12.15_for_delivery_by_12.25_learn_more_save_up_to_40%_shop_all_our_new_markdowns",
+                    "(1429)",
+                    "tracksuits",
+                    "nike_sportswear_icon_clash",
+                    "shorts",
+                    "pick_up_today_at:",
+                    "just_in",
+                    "help_|_join_us_|_sign_in",
+                    "hoodies_&_pullovers",
+                    "pick_up_today_at:__filter_by_store",
+                    "sports_bras",
+                    "skip_to_main_content___help_|_join_us_|_sign_in__new_releases_men_women_kids_sale_gifts",
+                    "gifts",
+                    "hide_filters__sort_by",
+                    "help",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products_join_now",
+                    "womens_clothing_(1429)",
+                    "women's_oversized_woven_joggers_(plus_size)",
+                    "skirts_&_dresses",
+                    "(_1_)",
+                    "pants_&_tights",
+                    "womens_clothing_(1429)_hide_filters__sort_by",
+                    "bodysuits",
+                    "hijabs",
+                    "nike_therma-fit",
+                    "join_us_|_sign_in",
+                    "jumpsuits_&_rompers",
+                    "compression_&_baselayer",
+                    "women's_training_top_(plus_size)",
+                    "order_by_12.15_for_delivery_by_12.25",
+                    "4_colors",
+                    "swimwear",
+                    "new_releases",
+                    "just_in_nike_therma-fit_women's_training_top_(plus_size)",
+                    "nike_sportswear_essential_women's_oversized_woven_joggers_(plus_size)",
+                    "sort_by",
+                    "7_colors",
+                    "jackets_&_vests",
+                    "just_in_nike_sportswear_icon_clash_women's_mock_long-sleeve_top",
+                    "socks",
+                    "$75",
+                    "filter_by_store",
+                    "women's_mock_long-sleeve_top",
+                    "gender__(_1_)",
+                    "tops_&_t-shirts",
+                    "just_in_nike_sportswear_essential_women's_oversized_woven_joggers_(plus_size)",
+                    "sale",
+                    "$70",
+                    "nike_therma-fit_women's_training_top_(plus_size)",
+                    "free_shipping_+_returns,_free_membership,_exclusive_products",
+                    "join_now",
                     "sign_in"
                 ]
             },
@@ -2176,6 +2280,7 @@
             "0d0faa6ca1d72046b4681e25fec853d6.png",
             "43d2dc88c06863fddbcae2d2d36008d7.png",
             "7ae3edc158373a70b1dec4175f3ac5ec.png",
+            "333658f7d20fb80ffb7b9cdacb4e8bbb.png",
             "f0a0737c799dbdca34622f8ae77a9cd6.png",
             "b8518b99468247157f0713b7ff004022.png",
             "392fa6287534c6fa59ca4db8e006442a.png",
@@ -2184,7 +2289,8 @@
             "4fd406d457bf254b373ad845b936be44.png",
             "93ef54eff33ccf015c73026608a6c64b.png",
             "e51edab04fe28d4bd86781dd2f3ef9ad.png",
-            "34590adbedbbed8f3914a40c12b01fee.png"
+            "34590adbedbbed8f3914a40c12b01fee.png",
+            "23bca477add9856c155d57b01eb54673.png"
         ],
         "uniques_to_dupes": {
             "0d0faa6ca1d72046b4681e25fec853d6.png": [
@@ -2192,6 +2298,12 @@
             ],
             "17671d66539a87cd4d718cba2d973610.png": [
                 "17671d66539a87cd4d718cba2d973610.png"
+            ],
+            "23bca477add9856c155d57b01eb54673.png": [
+                "23bca477add9856c155d57b01eb54673.png"
+            ],
+            "333658f7d20fb80ffb7b9cdacb4e8bbb.png": [
+                "333658f7d20fb80ffb7b9cdacb4e8bbb.png"
             ],
             "34590adbedbbed8f3914a40c12b01fee.png": [
                 "34590adbedbbed8f3914a40c12b01fee.png"
